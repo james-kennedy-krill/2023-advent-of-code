@@ -1,6 +1,7 @@
 #!/usr/local/bin python3
 
 import os
+import re
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 input_file_path = os.path.join(script_dir, "input.txt")
@@ -20,7 +21,54 @@ f_output = open(output_file_path, "w")
 #   3. on the line below (after), if it exists, starting on less than the start index and going to one more than the end index
 # if any of these conditions are true, we use this number as part of the sum of the output
 
+numbers_re = re.compile("([\d]+)")
+symbol_re = re.compile("[^\w\d\s.]")
+
+def getLineNumbers(line: str):
+  line_numbers = numbers_re.findall(line)
+  return line_numbers
+
+def lineNumberPositioning(line, line_number):
+  number_re = re.compile(r"\D?" + line_number + r"\D?")
+  number_match = number_re.search(line)
+  if number_match:
+    start_index = number_match.start()
+    end_index = number_match.end()
+    number_data = { "number": int(line_number), "start_index": start_index, "end_index": end_index}
+    return number_data
+  
+def isSymbol(text):
+  match = symbol_re.match(text)
+  return match
+  
+def hasAdjacentSymbol(line, line_index, number_data):
+  # Check this line
+  print("symbol before:", line[number_data["start_index"]])
+  print("is symbol?", isSymbol(line[number_data["start_index"]]))
+  print("symbol after:", line[number_data["end_index"]])
+  print("is symbol?", isSymbol(line[number_data["end_index"]]))
+  # To the left
+  if isSymbol(line[number_data["start_index"]]):
+    return True
+  if isSymbol(line[number_data["end_index"]]):
+    return True
+  # Check line before if it exists
+  
+  # Check line after if it exists
+  return hasAdjacentSymbol
+
 def main():
   print("--- DAY 3: Gear Ratios ---", file=f_output)
+  total = 0
+  for index, line in enumerate(f_input):
+    print("LINE", index, line.strip(), file=f_output)
+    line_numbers = getLineNumbers(line)
+    for number in line_numbers:
+      number_data = lineNumberPositioning(line, number)
+      print("NUMBER DATA:", number_data, file=f_output)
+      if checkForAdjacentSymbol(line, index, number_data):
+        total += number_data["number"]
+    print("LINE NUMBERS: ", line_numbers, file=f_output)
+  print("TOTAL:", total, file=f_output)
 
 main()

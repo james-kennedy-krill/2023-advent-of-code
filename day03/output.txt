@@ -1,1 +1,1489 @@
 --- DAY 3: Gear Ratios ---
+LINE 0 .............65..................998.........453...................................845..773.........................307....527...........541
+NUMBER DATA: {'number': 65, 'start_index': 12, 'end_index': 16}
+NUMBER DATA: {'number': 998, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 453, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 845, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 773, 'start_index': 87, 'end_index': 92}
+NUMBER DATA: {'number': 307, 'start_index': 115, 'end_index': 120}
+NUMBER DATA: {'number': 527, 'start_index': 122, 'end_index': 127}
+NUMBER DATA: {'number': 541, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['65', '998', '453', '845', '773', '307', '527', '541']
+LINE 1 ............*..........125.......*...331......*.....................30.76......./...*....*..861.......*.........298*......*.........700.....
+NUMBER DATA: {'number': 125, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 331, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 30, 'start_index': 67, 'end_index': 71}
+NUMBER DATA: {'number': 76, 'start_index': 70, 'end_index': 74}
+NUMBER DATA: {'number': 861, 'start_index': 91, 'end_index': 96}
+NUMBER DATA: {'number': 298, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 700, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['125', '331', '30', '76', '861', '298', '700']
+LINE 2 ................942.......*...874...*......407...558............752......*196.274.240.345...*.....-..105...................164...........466
+NUMBER DATA: {'number': 942, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 874, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 407, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 558, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 752, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 196, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 274, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 240, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 345, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 105, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 164, 'start_index': 122, 'end_index': 127}
+NUMBER DATA: {'number': 466, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['942', '874', '407', '558', '752', '196', '274', '240', '345', '105', '164', '466']
+LINE 3 ....+............&.....593...........516............-....=.....*....74.....................377..157................128...........175*.......
+NUMBER DATA: {'number': 593, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 516, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 74, 'start_index': 67, 'end_index': 71}
+NUMBER DATA: {'number': 377, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 157, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 128, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 175, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['593', '516', '74', '377', '157', '128', '175']
+LINE 4 ....314.750......................497...........258.....549...70.....*....745.....289*418.................351........../..............839....
+NUMBER DATA: {'number': 314, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 750, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 497, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 258, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 549, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 70, 'start_index': 60, 'end_index': 64}
+NUMBER DATA: {'number': 745, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 289, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 418, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 351, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 839, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['314', '750', '497', '258', '549', '70', '745', '289', '418', '351', '839']
+LINE 5 ..........*.......786......283......*366..........*...............899.....*......................652.......@...219..........................
+NUMBER DATA: {'number': 786, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 283, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 366, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 899, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 652, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 219, 'start_index': 110, 'end_index': 115}
+LINE NUMBERS:  ['786', '283', '366', '899', '652', '219']
+LINE 6 ........468..=249..........*..........................866.797*960..........234.......252-.686.......=............$...................&......
+NUMBER DATA: {'number': 468, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 249, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 866, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 797, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 960, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 234, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 252, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 686, 'start_index': 89, 'end_index': 94}
+LINE NUMBERS:  ['468', '249', '866', '797', '960', '234', '252', '686']
+LINE 7 ..386.............582....681...52....$369.+.......969..+........................276........*.................873.....824.......%627..51..25.
+NUMBER DATA: {'number': 386, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 582, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 681, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 52, 'start_index': 30, 'end_index': 34}
+NUMBER DATA: {'number': 369, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 969, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 276, 'start_index': 79, 'end_index': 84}
+NUMBER DATA: {'number': 873, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 824, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 627, 'start_index': 127, 'end_index': 132}
+NUMBER DATA: {'number': 51, 'start_index': 132, 'end_index': 136}
+NUMBER DATA: {'number': 25, 'start_index': 136, 'end_index': 140}
+LINE NUMBERS:  ['386', '582', '681', '52', '369', '969', '276', '873', '824', '627', '51', '25']
+LINE 8 .....-......835..@....*....................101.......*.......444...........587...*..33....847...............&.......=.......................
+NUMBER DATA: {'number': 835, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 101, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 444, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 587, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 33, 'start_index': 83, 'end_index': 87}
+NUMBER DATA: {'number': 847, 'start_index': 89, 'end_index': 94}
+LINE NUMBERS:  ['835', '101', '444', '587', '33', '847']
+LINE 9 ...........*.......513.45.125......................883.......*...............=.988.$.............962.*595.....................*....674.534..
+NUMBER DATA: {'number': 513, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 45, 'start_index': 22, 'end_index': 26}
+NUMBER DATA: {'number': 125, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 883, 'start_index': 50, 'end_index': 55}
+NUMBER DATA: {'number': 988, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 962, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 595, 'start_index': 101, 'end_index': 106}
+NUMBER DATA: {'number': 674, 'start_index': 130, 'end_index': 135}
+NUMBER DATA: {'number': 534, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['513', '45', '125', '883', '988', '962', '595', '674', '534']
+LINE 10 ........180.........................891*129..957...........+.584......................291*59..71*..................../.....707.646....*.....
+NUMBER DATA: {'number': 180, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 891, 'start_index': 35, 'end_index': 40}
+NUMBER DATA: {'number': 129, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 957, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 584, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 291, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 59, 'start_index': 89, 'end_index': 93}
+NUMBER DATA: {'number': 71, 'start_index': 93, 'end_index': 97}
+NUMBER DATA: {'number': 707, 'start_index': 122, 'end_index': 127}
+NUMBER DATA: {'number': 646, 'start_index': 126, 'end_index': 131}
+LINE NUMBERS:  ['180', '891', '129', '957', '584', '291', '59', '71', '707', '646']
+LINE 11 ...................=530.....................*.......610..790........314...$....991..................231*926....29..870.264..................
+NUMBER DATA: {'number': 530, 'start_index': 19, 'end_index': 24}
+NUMBER DATA: {'number': 610, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 790, 'start_index': 56, 'end_index': 61}
+NUMBER DATA: {'number': 314, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 991, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 231, 'start_index': 99, 'end_index': 104}
+NUMBER DATA: {'number': 926, 'start_index': 103, 'end_index': 108}
+NUMBER DATA: {'number': 29, 'start_index': 110, 'end_index': 114}
+NUMBER DATA: {'number': 870, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 264, 'start_index': 118, 'end_index': 123}
+LINE NUMBERS:  ['530', '610', '790', '314', '991', '231', '926', '29', '870', '264']
+LINE 12 ......132-..............#..............$....93.........*...............*...537...$.139..........70...............&.....................131..
+NUMBER DATA: {'number': 132, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 93, 'start_index': 43, 'end_index': 47}
+NUMBER DATA: {'number': 537, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 139, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 70, 'start_index': 95, 'end_index': 99}
+NUMBER DATA: {'number': 131, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['132', '93', '537', '139', '70', '131']
+LINE 13 ...36.......#.514%.......99..684.......21.........852.886../...191.....892...........*....456..-.....172...../..............................
+NUMBER DATA: {'number': 36, 'start_index': 2, 'end_index': 6}
+NUMBER DATA: {'number': 514, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 99, 'start_index': 24, 'end_index': 28}
+NUMBER DATA: {'number': 684, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 21, 'start_index': 38, 'end_index': 42}
+NUMBER DATA: {'number': 852, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 886, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 191, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 892, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 456, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 172, 'start_index': 100, 'end_index': 105}
+LINE NUMBERS:  ['36', '514', '99', '684', '21', '852', '886', '191', '892', '456', '172']
+LINE 14 .....*...508................&......615...........$.........964....*...................627...............*242.945..........457.....512..880..
+NUMBER DATA: {'number': 508, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 615, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 964, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 627, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 242, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 945, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 457, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 512, 'start_index': 129, 'end_index': 134}
+NUMBER DATA: {'number': 880, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['508', '615', '964', '627', '242', '945', '457', '512', '880']
+LINE 15 .....211.............430...........*.......%..........702.........243..747.......506................24.......................*873....*......
+NUMBER DATA: {'number': 211, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 430, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 702, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 243, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 747, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 506, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 24, 'start_index': 65, 'end_index': 68}
+NUMBER DATA: {'number': 873, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['211', '430', '702', '243', '747', '506', '24', '873']
+LINE 16 .........................988..570........-..72....726*.................-........=.....340............*.555....526......................&....
+NUMBER DATA: {'number': 988, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 570, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 72, 'start_index': 43, 'end_index': 47}
+NUMBER DATA: {'number': 726, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 340, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 555, 'start_index': 102, 'end_index': 107}
+NUMBER DATA: {'number': 526, 'start_index': 109, 'end_index': 114}
+LINE NUMBERS:  ['988', '570', '72', '726', '340', '555', '526']
+LINE 17 ........&..........#928....&../.......785..............971..585......................+............860....%...#..........628.....=....952....
+NUMBER DATA: {'number': 928, 'start_index': 19, 'end_index': 24}
+NUMBER DATA: {'number': 785, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 971, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 585, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 860, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 628, 'start_index': 119, 'end_index': 124}
+NUMBER DATA: {'number': 952, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['928', '785', '971', '585', '860', '628', '952']
+LINE 18 ..165..541......................822........930.........*...%............*737..................940..............#561......=...=..685.........
+NUMBER DATA: {'number': 165, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 541, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 822, 'start_index': 31, 'end_index': 36}
+NUMBER DATA: {'number': 930, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 737, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 940, 'start_index': 93, 'end_index': 98}
+NUMBER DATA: {'number': 561, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 685, 'start_index': 127, 'end_index': 132}
+LINE NUMBERS:  ['165', '541', '822', '930', '737', '940', '561', '685']
+LINE 19 ....+...........248..-...40...................*521....897............698.................................558...............52........-......
+NUMBER DATA: {'number': 248, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 40, 'start_index': 24, 'end_index': 28}
+NUMBER DATA: {'number': 521, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 897, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 698, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 558, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 52, 'start_index': 46, 'end_index': 49}
+LINE NUMBERS:  ['248', '40', '521', '897', '698', '558', '52']
+LINE 20 ..................*...19..%...........674.....................110.........................*296.............*...........78#.........495......
+NUMBER DATA: {'number': 19, 'start_index': 21, 'end_index': 25}
+NUMBER DATA: {'number': 674, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 110, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 296, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 78, 'start_index': 118, 'end_index': 122}
+NUMBER DATA: {'number': 495, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['19', '674', '110', '296', '78', '495']
+LINE 21 ................753.....................*..............@.....#....199......353.604.....737.......483.366....242....720......................
+NUMBER DATA: {'number': 753, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 199, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 353, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 604, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 737, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 483, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 366, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 242, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 720, 'start_index': 114, 'end_index': 119}
+LINE NUMBERS:  ['753', '199', '353', '604', '737', '483', '366', '242', '720']
+LINE 22 ...407....973#...............352.........397............144......*............*............799....%..................#....845.......539.....
+NUMBER DATA: {'number': 407, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 973, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 352, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 397, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 144, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 799, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 845, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 539, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['407', '973', '352', '397', '144', '799', '845', '539']
+LINE 23 ......*................*........*..............643............443..726....=......*939..439*.....*....478$.....#.............-........-......
+NUMBER DATA: {'number': 643, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 443, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 726, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 939, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 439, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 478, 'start_index': 100, 'end_index': 105}
+LINE NUMBERS:  ['643', '443', '726', '939', '439', '478']
+LINE 24 ...165.........3....599.943..840..424..268.389...*..........=.........*83.827.318............135.55........924..535*...........%............
+NUMBER DATA: {'number': 165, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 3, 'start_index': 14, 'end_index': 17}
+NUMBER DATA: {'number': 599, 'start_index': 19, 'end_index': 24}
+NUMBER DATA: {'number': 943, 'start_index': 23, 'end_index': 28}
+NUMBER DATA: {'number': 840, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 424, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 268, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 389, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 83, 'start_index': 70, 'end_index': 74}
+NUMBER DATA: {'number': 827, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 318, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 135, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 55, 'start_index': 96, 'end_index': 100}
+NUMBER DATA: {'number': 924, 'start_index': 106, 'end_index': 111}
+NUMBER DATA: {'number': 535, 'start_index': 111, 'end_index': 116}
+LINE NUMBERS:  ['165', '3', '599', '943', '840', '424', '268', '389', '83', '827', '318', '135', '55', '924', '535']
+LINE 25 .......163........@...............*..........+..688.......529.........................858............137............681.347...187...........
+NUMBER DATA: {'number': 163, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 688, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 529, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 858, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 137, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 681, 'start_index': 115, 'end_index': 120}
+NUMBER DATA: {'number': 347, 'start_index': 119, 'end_index': 124}
+NUMBER DATA: {'number': 187, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['163', '688', '529', '858', '137', '681', '347', '187']
+LINE 26 ...541....*.299.340.....@..+645.492...................................#....830*.................897.*.......782$...................352......
+NUMBER DATA: {'number': 541, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 299, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 340, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 645, 'start_index': 27, 'end_index': 32}
+NUMBER DATA: {'number': 492, 'start_index': 31, 'end_index': 36}
+NUMBER DATA: {'number': 830, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 897, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 782, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 352, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['541', '299', '340', '645', '492', '830', '897', '782', '352']
+LINE 27 ........740.%........549..............500...-..899......671=.807.....334.......313...26........+....366.701.............330........*........
+NUMBER DATA: {'number': 740, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 549, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 500, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 899, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 671, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 807, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 334, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 313, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 26, 'start_index': 84, 'end_index': 88}
+NUMBER DATA: {'number': 366, 'start_index': 99, 'end_index': 104}
+NUMBER DATA: {'number': 701, 'start_index': 103, 'end_index': 108}
+NUMBER DATA: {'number': 330, 'start_index': 119, 'end_index': 124}
+LINE NUMBERS:  ['740', '549', '500', '899', '671', '807', '334', '313', '26', '366', '701', '330']
+LINE 28 ....125.....................928../......@..243...................225......182........=..................*................&.......346........
+NUMBER DATA: {'number': 125, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 928, 'start_index': 27, 'end_index': 32}
+NUMBER DATA: {'number': 243, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 225, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 182, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 346, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['125', '928', '243', '225', '182', '346']
+LINE 29 ......%....814.665.........*......573.....................69.......%.........*484.................+...64.........910.........273.....450....
+NUMBER DATA: {'number': 814, 'start_index': 10, 'end_index': 15}
+NUMBER DATA: {'number': 665, 'start_index': 14, 'end_index': 19}
+NUMBER DATA: {'number': 573, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 69, 'start_index': 57, 'end_index': 61}
+NUMBER DATA: {'number': 484, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 64, 'start_index': 101, 'end_index': 105}
+NUMBER DATA: {'number': 910, 'start_index': 112, 'end_index': 117}
+NUMBER DATA: {'number': 273, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 450, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['814', '665', '573', '69', '484', '64', '910', '273', '450']
+LINE 30 ...............*...........383.........433.................*...........#22...........62..#569....396........736.....*708.......&....*.......
+NUMBER DATA: {'number': 383, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 433, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 22, 'start_index': 71, 'end_index': 75}
+NUMBER DATA: {'number': 62, 'start_index': 84, 'end_index': 88}
+NUMBER DATA: {'number': 569, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 396, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 736, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 708, 'start_index': 116, 'end_index': 121}
+LINE NUMBERS:  ['383', '433', '22', '62', '569', '396', '736', '708']
+LINE 31 .383.........774......................*.....#............&..265.............812......*...............305*....*...................657........
+NUMBER DATA: {'number': 383, 'start_index': 0, 'end_index': 5}
+NUMBER DATA: {'number': 774, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 265, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 812, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 305, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 657, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['383', '774', '265', '812', '305', '657']
+LINE 32 .....467.392.......936...806.......373...929...463....484.............337....%...415..465.@..............154..326...........................
+NUMBER DATA: {'number': 467, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 392, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 936, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 806, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 373, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 929, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 463, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 484, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 337, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 415, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 465, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 154, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 326, 'start_index': 109, 'end_index': 114}
+LINE NUMBERS:  ['467', '392', '936', '806', '373', '929', '463', '484', '337', '415', '465', '154', '326']
+LINE 33 ....../..*.....+.......=....*.....................*........517*24.-.................*.....297.......................................*.......
+NUMBER DATA: {'number': 517, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 24, 'start_index': 62, 'end_index': 66}
+NUMBER DATA: {'number': 297, 'start_index': 89, 'end_index': 94}
+LINE NUMBERS:  ['517', '24', '297']
+LINE 34 ..........599..820.....342.438...........482...200................49..........-312..847.............548...$.....581..909.........879.616....
+NUMBER DATA: {'number': 599, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 820, 'start_index': 14, 'end_index': 19}
+NUMBER DATA: {'number': 342, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 438, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 482, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 200, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 49, 'start_index': 65, 'end_index': 69}
+NUMBER DATA: {'number': 312, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 847, 'start_index': 83, 'end_index': 88}
+NUMBER DATA: {'number': 548, 'start_index': 99, 'end_index': 104}
+NUMBER DATA: {'number': 581, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 909, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 879, 'start_index': 128, 'end_index': 133}
+NUMBER DATA: {'number': 616, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['599', '820', '342', '438', '482', '200', '49', '312', '847', '548', '581', '909', '879', '616']
+LINE 35 ............................................&................&475........................528...578....@..211......*....%....791.............
+NUMBER DATA: {'number': 475, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 528, 'start_index': 88, 'end_index': 93}
+NUMBER DATA: {'number': 578, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 211, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 791, 'start_index': 123, 'end_index': 128}
+LINE NUMBERS:  ['475', '528', '578', '211', '791']
+LINE 36 ..............802..............250....................................*229........923......#.....*.................635......................
+NUMBER DATA: {'number': 802, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 250, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 229, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 923, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 635, 'start_index': 114, 'end_index': 119}
+LINE NUMBERS:  ['802', '250', '229', '923', '635']
+LINE 37 552......762..#...................$..%......940......651...........461........900*.............654...673....................*437..993.......
+NUMBER DATA: {'number': 552, 'start_index': 0, 'end_index': 4}
+NUMBER DATA: {'number': 762, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 940, 'start_index': 43, 'end_index': 48}
+NUMBER DATA: {'number': 651, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 461, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 900, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 654, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 673, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 437, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 993, 'start_index': 129, 'end_index': 134}
+LINE NUMBERS:  ['552', '762', '940', '651', '461', '900', '654', '673', '437', '993']
+LINE 38 ..........$.............52............602......%........*...105..$.................938...431.............................157......#...310...
+NUMBER DATA: {'number': 52, 'start_index': 23, 'end_index': 27}
+NUMBER DATA: {'number': 602, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 105, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 938, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 431, 'start_index': 88, 'end_index': 93}
+NUMBER DATA: {'number': 157, 'start_index': 120, 'end_index': 125}
+NUMBER DATA: {'number': 310, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['52', '602', '105', '938', '431', '157', '310']
+LINE 39 ...581../...............$.........309.......*...........846.../..718..........568@..*.......*...261...............22.........-852......*....
+NUMBER DATA: {'number': 581, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 309, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 846, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 718, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 568, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 261, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 22, 'start_index': 113, 'end_index': 117}
+NUMBER DATA: {'number': 852, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['581', '309', '846', '718', '568', '261', '22', '852']
+LINE 40 ......*.969.349..354.....................156.666....@................-378..-................632....*..........363*........./......976.871...
+NUMBER DATA: {'number': 969, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 349, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 354, 'start_index': 16, 'end_index': 21}
+NUMBER DATA: {'number': 156, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 666, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 378, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 632, 'start_index': 91, 'end_index': 96}
+NUMBER DATA: {'number': 363, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 976, 'start_index': 129, 'end_index': 134}
+NUMBER DATA: {'number': 871, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['969', '349', '354', '156', '666', '378', '632', '363', '976', '871']
+LINE 41 .....60.....*.......*....10...@..684#..............225....248.............904..........638$......896....%.................906.926...*.......
+NUMBER DATA: {'number': 60, 'start_index': 4, 'end_index': 8}
+NUMBER DATA: {'number': 10, 'start_index': 24, 'end_index': 28}
+NUMBER DATA: {'number': 684, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 225, 'start_index': 50, 'end_index': 55}
+NUMBER DATA: {'number': 248, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 904, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 638, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 896, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 906, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 926, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['60', '10', '684', '225', '248', '904', '638', '896', '906', '926']
+LINE 42 .............602.....958.....103..........703..........................$.........456.........704.........149...785.2=...........*.87...95...
+NUMBER DATA: {'number': 602, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 958, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 103, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 703, 'start_index': 41, 'end_index': 46}
+NUMBER DATA: {'number': 456, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 704, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 149, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 785, 'start_index': 110, 'end_index': 115}
+NUMBER DATA: {'number': 2, 'start_index': 15, 'end_index': 17}
+NUMBER DATA: {'number': 87, 'start_index': 129, 'end_index': 133}
+NUMBER DATA: {'number': 95, 'start_index': 20, 'end_index': 23}
+LINE NUMBERS:  ['602', '958', '103', '703', '456', '704', '149', '785', '2', '87', '95']
+LINE 43 ....228..589.................................*...770..588...........411..902..................................................645...........
+NUMBER DATA: {'number': 228, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 589, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 770, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 588, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 411, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 902, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 645, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['228', '589', '770', '588', '411', '902', '645']
+LINE 44 .......*....*...135.......*...909.857.207-.602.....*.....*......=.........*..........358..............535......*................../235......
+NUMBER DATA: {'number': 135, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 909, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 857, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 207, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 602, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 358, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 535, 'start_index': 101, 'end_index': 106}
+NUMBER DATA: {'number': 235, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['135', '909', '857', '207', '602', '358', '535', '235']
+LINE 45 .....126..747............513..*.....$...........125.....389..956.....164...797........*.....807..34......%..754.734.....140..............969
+NUMBER DATA: {'number': 126, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 747, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 513, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 125, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 389, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 956, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 164, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 797, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 807, 'start_index': 91, 'end_index': 96}
+NUMBER DATA: {'number': 34, 'start_index': 96, 'end_index': 100}
+NUMBER DATA: {'number': 754, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 734, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 140, 'start_index': 119, 'end_index': 124}
+NUMBER DATA: {'number': 969, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['126', '747', '513', '125', '389', '956', '164', '797', '807', '34', '754', '734', '140', '969']
+LINE 46 .................919*213.....232............530..................583...................986....*...*.................186...=.%881..859.......
+NUMBER DATA: {'number': 919, 'start_index': 16, 'end_index': 21}
+NUMBER DATA: {'number': 213, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 232, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 530, 'start_index': 43, 'end_index': 48}
+NUMBER DATA: {'number': 583, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 986, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 186, 'start_index': 115, 'end_index': 120}
+NUMBER DATA: {'number': 881, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 859, 'start_index': 129, 'end_index': 134}
+LINE NUMBERS:  ['919', '213', '232', '530', '583', '986', '186', '881', '859']
+LINE 47 ...937......881..........774......*345.......*......894#...644*.....$....588.................520..323..218...%...../..................#.....
+NUMBER DATA: {'number': 937, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 881, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 774, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 345, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 894, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 644, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 588, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 520, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 323, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 218, 'start_index': 102, 'end_index': 107}
+LINE NUMBERS:  ['937', '881', '774', '345', '894', '644', '588', '520', '323', '218']
+LINE 48 .....-.401.*.......359.....*....19.........728.................670.................674.511*...........*......580........203%.........470....
+NUMBER DATA: {'number': 401, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 359, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 19, 'start_index': 31, 'end_index': 35}
+NUMBER DATA: {'number': 728, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 670, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 674, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 511, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 580, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 203, 'start_index': 119, 'end_index': 124}
+NUMBER DATA: {'number': 470, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['401', '359', '19', '728', '670', '674', '511', '580', '203', '470']
+LINE 49 ........*..610......-.......836.....299.........832..........................690...........528.......21.....................................
+NUMBER DATA: {'number': 610, 'start_index': 10, 'end_index': 15}
+NUMBER DATA: {'number': 836, 'start_index': 27, 'end_index': 32}
+NUMBER DATA: {'number': 299, 'start_index': 35, 'end_index': 40}
+NUMBER DATA: {'number': 832, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 690, 'start_index': 76, 'end_index': 81}
+NUMBER DATA: {'number': 528, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 21, 'start_index': 100, 'end_index': 104}
+LINE NUMBERS:  ['610', '836', '299', '832', '690', '528', '21']
+LINE 50 ......991......#.......365................447....#...857...227.605.........%.-...599.........................*602...529...........10........
+NUMBER DATA: {'number': 991, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 365, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 447, 'start_index': 41, 'end_index': 46}
+NUMBER DATA: {'number': 857, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 227, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 605, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 599, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 602, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 529, 'start_index': 115, 'end_index': 120}
+NUMBER DATA: {'number': 10, 'start_index': 129, 'end_index': 133}
+LINE NUMBERS:  ['991', '365', '447', '857', '227', '605', '599', '602', '529', '10']
+LINE 51 ..........+471..443.....+................*..........*......=......*252..417.....*.....653.............412.727.......*.....634.304.*.....42..
+NUMBER DATA: {'number': 471, 'start_index': 10, 'end_index': 15}
+NUMBER DATA: {'number': 443, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 252, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 417, 'start_index': 71, 'end_index': 76}
+NUMBER DATA: {'number': 653, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 412, 'start_index': 101, 'end_index': 106}
+NUMBER DATA: {'number': 727, 'start_index': 105, 'end_index': 110}
+NUMBER DATA: {'number': 634, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 304, 'start_index': 125, 'end_index': 130}
+NUMBER DATA: {'number': 42, 'start_index': 135, 'end_index': 139}
+LINE NUMBERS:  ['471', '443', '252', '417', '653', '412', '727', '634', '304', '42']
+LINE 52 .....494......................&...........552.....852...................................*....550*520............80.174.............437......
+NUMBER DATA: {'number': 494, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 552, 'start_index': 41, 'end_index': 46}
+NUMBER DATA: {'number': 852, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 550, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 520, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 80, 'start_index': 111, 'end_index': 115}
+NUMBER DATA: {'number': 174, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 437, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['494', '552', '852', '550', '520', '80', '174', '437']
+LINE 53 ......-.....+...536.........$..969............519.......448........251..............$...794.....................*.........701...............
+NUMBER DATA: {'number': 536, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 969, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 519, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 448, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 251, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 794, 'start_index': 87, 'end_index': 92}
+NUMBER DATA: {'number': 701, 'start_index': 121, 'end_index': 126}
+LINE NUMBERS:  ['536', '969', '519', '448', '251', '794', '701']
+LINE 54 ..373.....930.....*......298.............76+.....*...@.....*......*................856......@899..............96..40......*.......574.......
+NUMBER DATA: {'number': 373, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 930, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 298, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 76, 'start_index': 40, 'end_index': 44}
+NUMBER DATA: {'number': 856, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 899, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 96, 'start_index': 109, 'end_index': 113}
+NUMBER DATA: {'number': 40, 'start_index': 113, 'end_index': 117}
+NUMBER DATA: {'number': 574, 'start_index': 129, 'end_index': 134}
+LINE NUMBERS:  ['373', '930', '298', '76', '856', '899', '96', '40', '574']
+LINE 55 .....*........518..575...........957.112.......479.579....288..306...+.......$817........................785.....*...9.......127..#...=907..
+NUMBER DATA: {'number': 518, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 575, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 957, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 112, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 479, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 579, 'start_index': 50, 'end_index': 55}
+NUMBER DATA: {'number': 288, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 306, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 817, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 785, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 9, 'start_index': 32, 'end_index': 34}
+NUMBER DATA: {'number': 127, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 907, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['518', '575', '957', '112', '479', '579', '288', '306', '817', '785', '9', '127', '907']
+LINE 56 ...698.......*..........329.....$....*......92........................203..........168.....................*..346....*..........*...........
+NUMBER DATA: {'number': 698, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 329, 'start_index': 23, 'end_index': 28}
+NUMBER DATA: {'number': 92, 'start_index': 43, 'end_index': 47}
+NUMBER DATA: {'number': 203, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 168, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 346, 'start_index': 109, 'end_index': 114}
+LINE NUMBERS:  ['698', '329', '92', '203', '168', '346']
+LINE 57 .......470........68/..............263.....*.........337..................433............................666........92......20..784..978*194
+NUMBER DATA: {'number': 470, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 68, 'start_index': 17, 'end_index': 21}
+NUMBER DATA: {'number': 263, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 337, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 433, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 666, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 92, 'start_index': 115, 'end_index': 119}
+NUMBER DATA: {'number': 20, 'start_index': 123, 'end_index': 127}
+NUMBER DATA: {'number': 784, 'start_index': 127, 'end_index': 132}
+NUMBER DATA: {'number': 978, 'start_index': 132, 'end_index': 137}
+NUMBER DATA: {'number': 194, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['470', '68', '263', '337', '433', '666', '92', '20', '784', '978', '194']
+LINE 58 .........%................465-.............297..............193.259.............................................17.........*................
+NUMBER DATA: {'number': 465, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 297, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 193, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 259, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 17, 'start_index': 111, 'end_index': 115}
+LINE NUMBERS:  ['465', '297', '193', '259', '17']
+LINE 59 .............*.................................................*.......*............580.......763.......@.........*747....519....628..647...
+NUMBER DATA: {'number': 580, 'start_index': 83, 'end_index': 88}
+NUMBER DATA: {'number': 763, 'start_index': 93, 'end_index': 98}
+NUMBER DATA: {'number': 747, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 519, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 628, 'start_index': 128, 'end_index': 133}
+NUMBER DATA: {'number': 647, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['580', '763', '747', '519', '628', '647']
+LINE 60 ......900.....261..........722.553.....284*513......*429..............155....&....$....%..914...*......468.......................$......*...
+NUMBER DATA: {'number': 900, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 261, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 722, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 553, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 284, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 513, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 429, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 155, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 914, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 468, 'start_index': 102, 'end_index': 107}
+LINE NUMBERS:  ['900', '261', '722', '553', '284', '513', '429', '155', '914', '468']
+LINE 61 ........#........................................932......413....414......829.....528.......+...527................382...835...........744..
+NUMBER DATA: {'number': 932, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 413, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 414, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 829, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 528, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 527, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 382, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 835, 'start_index': 120, 'end_index': 125}
+NUMBER DATA: {'number': 744, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['932', '413', '414', '829', '528', '527', '382', '835', '744']
+LINE 62 ....918......103*37..207...676.297........422..............*........*993................140...................945.#.......*...686...........
+NUMBER DATA: {'number': 918, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 103, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 37, 'start_index': 16, 'end_index': 20}
+NUMBER DATA: {'number': 207, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 676, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 297, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 422, 'start_index': 41, 'end_index': 46}
+NUMBER DATA: {'number': 993, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 140, 'start_index': 87, 'end_index': 92}
+NUMBER DATA: {'number': 945, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 686, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['918', '103', '37', '207', '676', '297', '422', '993', '140', '945', '686']
+LINE 63 .......................$.../...*......423....*..459=...&....602..........................................................978..*.............
+NUMBER DATA: {'number': 423, 'start_index': 37, 'end_index': 42}
+NUMBER DATA: {'number': 459, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 602, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 978, 'start_index': 120, 'end_index': 125}
+LINE NUMBERS:  ['423', '459', '602', '978']
+LINE 64 .........&........414.........41.........*..673......543..........848*276.......388%..792...*....700*152......596/....*........791...%...485
+NUMBER DATA: {'number': 414, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 41, 'start_index': 17, 'end_index': 20}
+NUMBER DATA: {'number': 673, 'start_index': 43, 'end_index': 48}
+NUMBER DATA: {'number': 543, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 848, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 276, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 388, 'start_index': 79, 'end_index': 84}
+NUMBER DATA: {'number': 792, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 700, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 152, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 596, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 791, 'start_index': 126, 'end_index': 131}
+NUMBER DATA: {'number': 485, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['414', '41', '673', '543', '848', '276', '388', '792', '700', '152', '596', '791', '485']
+LINE 65 .....615..55.........+......+........%.859...............@363..........................*..858.........................556............748....
+NUMBER DATA: {'number': 615, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 55, 'start_index': 9, 'end_index': 13}
+NUMBER DATA: {'number': 859, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 363, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 858, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 556, 'start_index': 117, 'end_index': 122}
+NUMBER DATA: {'number': 748, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['615', '55', '859', '363', '858', '556', '748']
+LINE 66 ......../....................775..467..........700..............*492.....$..862.......266..........319............88..........724........291
+NUMBER DATA: {'number': 775, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 467, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 700, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 492, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 862, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 266, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 319, 'start_index': 98, 'end_index': 103}
+NUMBER DATA: {'number': 88, 'start_index': 113, 'end_index': 117}
+NUMBER DATA: {'number': 724, 'start_index': 125, 'end_index': 130}
+NUMBER DATA: {'number': 291, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['775', '467', '700', '492', '862', '266', '319', '88', '724', '291']
+LINE 67 ........................942.............530....*.....#.259...872........157./...287...........#687..*..../...........438$........*..233.....
+NUMBER DATA: {'number': 942, 'start_index': 23, 'end_index': 28}
+NUMBER DATA: {'number': 530, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 259, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 872, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 157, 'start_index': 71, 'end_index': 76}
+NUMBER DATA: {'number': 287, 'start_index': 79, 'end_index': 84}
+NUMBER DATA: {'number': 687, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 438, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 233, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['942', '530', '259', '872', '157', '287', '687', '438', '233']
+LINE 68 ............../...641........534.546...+......802.847.....*........................*...................13.......................677..*......
+NUMBER DATA: {'number': 641, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 534, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 546, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 802, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 847, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 13, 'start_index': 102, 'end_index': 106}
+NUMBER DATA: {'number': 677, 'start_index': 127, 'end_index': 132}
+LINE NUMBERS:  ['641', '534', '546', '802', '847', '13', '677']
+LINE 69 ....604.......158........818....*.........................947................24....516.......&...332...........573...................697....
+NUMBER DATA: {'number': 604, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 158, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 818, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 947, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 24, 'start_index': 76, 'end_index': 80}
+NUMBER DATA: {'number': 516, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 332, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 573, 'start_index': 110, 'end_index': 115}
+NUMBER DATA: {'number': 697, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['604', '158', '818', '947', '24', '516', '332', '573', '697']
+LINE 70 ...%....2................*............/..........................162....27.....$.......#860.284.....*540..309...+...........................
+NUMBER DATA: {'number': 2, 'start_index': 7, 'end_index': 10}
+NUMBER DATA: {'number': 162, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 27, 'start_index': 71, 'end_index': 75}
+NUMBER DATA: {'number': 860, 'start_index': 87, 'end_index': 92}
+NUMBER DATA: {'number': 284, 'start_index': 91, 'end_index': 96}
+NUMBER DATA: {'number': 540, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 309, 'start_index': 105, 'end_index': 110}
+LINE NUMBERS:  ['2', '162', '27', '860', '284', '540', '309']
+LINE 71 ........................678........337........105.469.......49.....................641.....................*......644$..............128.....
+NUMBER DATA: {'number': 678, 'start_index': 23, 'end_index': 28}
+NUMBER DATA: {'number': 337, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 105, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 469, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 49, 'start_index': 59, 'end_index': 63}
+NUMBER DATA: {'number': 641, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 644, 'start_index': 113, 'end_index': 118}
+NUMBER DATA: {'number': 128, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['678', '337', '105', '469', '49', '641', '644', '128']
+LINE 72 .....................%..................386.............203*.....497.404.............................795..................670.........*.....
+NUMBER DATA: {'number': 386, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 203, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 497, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 404, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 795, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 670, 'start_index': 121, 'end_index': 126}
+LINE NUMBERS:  ['386', '203', '497', '404', '795', '670']
+LINE 73 ....+..............369......814.........#.......359...........-.....*.......+.......41...........353....*263.........-.........700....102...
+NUMBER DATA: {'number': 369, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 814, 'start_index': 27, 'end_index': 32}
+NUMBER DATA: {'number': 359, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 41, 'start_index': 83, 'end_index': 87}
+NUMBER DATA: {'number': 353, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 263, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 700, 'start_index': 126, 'end_index': 131}
+NUMBER DATA: {'number': 102, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['369', '814', '359', '41', '353', '263', '700', '102']
+LINE 74 ...862......430........=.....*............*682..............195.456..........379......+...........*..........790...987......................
+NUMBER DATA: {'number': 862, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 430, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 682, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 195, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 456, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 379, 'start_index': 76, 'end_index': 81}
+NUMBER DATA: {'number': 790, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 987, 'start_index': 114, 'end_index': 119}
+LINE NUMBERS:  ['862', '430', '682', '195', '456', '379', '790', '987']
+LINE 75 ....................565................689......................*...296.........................599..689.829...*..............$....910......
+NUMBER DATA: {'number': 565, 'start_index': 19, 'end_index': 24}
+NUMBER DATA: {'number': 689, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 296, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 599, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 689, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 829, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 910, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['565', '689', '296', '599', '689', '829', '910']
+LINE 76 513......721.................................645*343.105........1....*..............=349.............&.....%...785..........832../...*......
+NUMBER DATA: {'number': 513, 'start_index': 0, 'end_index': 4}
+NUMBER DATA: {'number': 721, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 645, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 343, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 105, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 1, 'start_index': 1, 'end_index': 2}
+NUMBER DATA: {'number': 349, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 785, 'start_index': 110, 'end_index': 115}
+NUMBER DATA: {'number': 832, 'start_index': 123, 'end_index': 128}
+LINE NUMBERS:  ['513', '721', '645', '343', '105', '1', '349', '785', '832']
+LINE 77 ........=............50*15..............272............*....242...306...........................................................159.59......
+NUMBER DATA: {'number': 50, 'start_index': 20, 'end_index': 24}
+NUMBER DATA: {'number': 15, 'start_index': 23, 'end_index': 27}
+NUMBER DATA: {'number': 272, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 242, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 306, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 159, 'start_index': 127, 'end_index': 132}
+NUMBER DATA: {'number': 59, 'start_index': 129, 'end_index': 132}
+LINE NUMBERS:  ['50', '15', '272', '242', '306', '159', '59']
+LINE 78 ..............190...............88#.%.........229......310....#.......330...........149*.........89.......333.....771.....701..........522..
+NUMBER DATA: {'number': 190, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 88, 'start_index': 31, 'end_index': 35}
+NUMBER DATA: {'number': 229, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 310, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 330, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 149, 'start_index': 83, 'end_index': 88}
+NUMBER DATA: {'number': 89, 'start_index': 96, 'end_index': 100}
+NUMBER DATA: {'number': 333, 'start_index': 105, 'end_index': 110}
+NUMBER DATA: {'number': 771, 'start_index': 113, 'end_index': 118}
+NUMBER DATA: {'number': 701, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 522, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['190', '88', '229', '310', '330', '149', '89', '333', '771', '701', '522']
+LINE 79 ....354.........+....................561........*..........73.....336*....$40..906......16.........-.......+.......*........*...563....*....
+NUMBER DATA: {'number': 354, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 561, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 73, 'start_index': 58, 'end_index': 62}
+NUMBER DATA: {'number': 336, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 40, 'start_index': 74, 'end_index': 78}
+NUMBER DATA: {'number': 906, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 16, 'start_index': 87, 'end_index': 91}
+NUMBER DATA: {'number': 563, 'start_index': 127, 'end_index': 132}
+LINE NUMBERS:  ['354', '561', '73', '336', '40', '906', '16', '563']
+LINE 80 .......*.............948..844......#.......556...51.........*......................=...........744.....361...$.....15.644=..9...........686.
+NUMBER DATA: {'number': 948, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 844, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 556, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 51, 'start_index': 48, 'end_index': 52}
+NUMBER DATA: {'number': 744, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 361, 'start_index': 102, 'end_index': 107}
+NUMBER DATA: {'number': 15, 'start_index': 114, 'end_index': 118}
+NUMBER DATA: {'number': 644, 'start_index': 117, 'end_index': 122}
+NUMBER DATA: {'number': 9, 'start_index': 20, 'end_index': 22}
+NUMBER DATA: {'number': 686, 'start_index': 135, 'end_index': 140}
+LINE NUMBERS:  ['948', '844', '556', '51', '744', '361', '15', '644', '9', '686']
+LINE 81 ........535.796.....*......#......907.........%......286...918....714..............688.232.................51......................284......
+NUMBER DATA: {'number': 535, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 796, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 907, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 286, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 918, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 714, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 688, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 232, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 51, 'start_index': 106, 'end_index': 110}
+NUMBER DATA: {'number': 284, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['535', '796', '907', '286', '918', '714', '688', '232', '51', '284']
+LINE 82 ............*........755................@255.........*...........*......=.292............./.........453.........913................$....810.
+NUMBER DATA: {'number': 755, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 255, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 292, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 453, 'start_index': 99, 'end_index': 104}
+NUMBER DATA: {'number': 913, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 810, 'start_index': 135, 'end_index': 140}
+LINE NUMBERS:  ['755', '255', '292', '453', '913', '810']
+LINE 83 ............354...................................361..406*802...112..461............162.....$......=......991/./........&..................
+NUMBER DATA: {'number': 354, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 361, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 406, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 802, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 112, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 461, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 162, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 991, 'start_index': 106, 'end_index': 111}
+LINE NUMBERS:  ['354', '361', '406', '802', '112', '461', '162', '991']
+LINE 84 .......+............#892.......654/....705..........................................*........385.........................506....*506........
+NUMBER DATA: {'number': 892, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 654, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 705, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 385, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 506, 'start_index': 120, 'end_index': 125}
+NUMBER DATA: {'number': 506, 'start_index': 120, 'end_index': 125}
+LINE NUMBERS:  ['892', '654', '705', '385', '506', '506']
+LINE 85 .444/.482.................................*.....................619.....19*239.....187.993......................*............718........884.
+NUMBER DATA: {'number': 444, 'start_index': 0, 'end_index': 5}
+NUMBER DATA: {'number': 482, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 619, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 19, 'start_index': 65, 'end_index': 68}
+NUMBER DATA: {'number': 239, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 187, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 993, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 718, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 884, 'start_index': 135, 'end_index': 140}
+LINE NUMBERS:  ['444', '482', '619', '19', '239', '187', '993', '718', '884']
+LINE 86 ..............906.182..473............/..58...407.591.583...=.....%......................*.......$......1....310.196....................*...
+NUMBER DATA: {'number': 906, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 182, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 473, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 58, 'start_index': 40, 'end_index': 44}
+NUMBER DATA: {'number': 407, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 591, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 583, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 1, 'start_index': 17, 'end_index': 19}
+NUMBER DATA: {'number': 310, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 196, 'start_index': 112, 'end_index': 117}
+LINE NUMBERS:  ['906', '182', '473', '58', '407', '591', '583', '1', '310', '196']
+LINE 87 ......820@......%....@.%.........343..61........*.......-.663.............490.....209..921....288.......*..............484...956.........324
+NUMBER DATA: {'number': 820, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 343, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 61, 'start_index': 37, 'end_index': 41}
+NUMBER DATA: {'number': 663, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 490, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 209, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 921, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 288, 'start_index': 93, 'end_index': 98}
+NUMBER DATA: {'number': 484, 'start_index': 118, 'end_index': 123}
+NUMBER DATA: {'number': 956, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 324, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['820', '343', '61', '663', '490', '209', '921', '288', '484', '956', '324']
+LINE 88 ...+.........................189*.............963...878.......782..955....%..........*................72...........406*......*....-.........
+NUMBER DATA: {'number': 189, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 963, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 878, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 782, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 955, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 72, 'start_index': 101, 'end_index': 105}
+NUMBER DATA: {'number': 406, 'start_index': 114, 'end_index': 119}
+LINE NUMBERS:  ['189', '963', '878', '782', '955', '72', '406']
+LINE 89 ...188......861....239.818..........................*.................*......7....892.............705....197.20*..........204......429......
+NUMBER DATA: {'number': 188, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 861, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 239, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 818, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 7, 'start_index': 76, 'end_index': 79}
+NUMBER DATA: {'number': 892, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 705, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 197, 'start_index': 104, 'end_index': 109}
+NUMBER DATA: {'number': 20, 'start_index': 108, 'end_index': 112}
+NUMBER DATA: {'number': 204, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 429, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['188', '861', '239', '818', '7', '892', '705', '197', '20', '204', '429']
+LINE 90 ........*....*......./....#............*236.425*147..816..............739.....*........%..../.....*.............473...455...................
+NUMBER DATA: {'number': 236, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 425, 'start_index': 43, 'end_index': 48}
+NUMBER DATA: {'number': 147, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 816, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 739, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 473, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 455, 'start_index': 117, 'end_index': 122}
+LINE NUMBERS:  ['236', '425', '147', '816', '739', '473', '455']
+LINE 91 .....718.939..679........................................182.281@...........597.......360..324.161.......8*671...............971............
+NUMBER DATA: {'number': 718, 'start_index': 4, 'end_index': 9}
+NUMBER DATA: {'number': 939, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 679, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 182, 'start_index': 56, 'end_index': 61}
+NUMBER DATA: {'number': 281, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 597, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 360, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 324, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 161, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 8, 'start_index': 7, 'end_index': 9}
+NUMBER DATA: {'number': 671, 'start_index': 106, 'end_index': 111}
+NUMBER DATA: {'number': 971, 'start_index': 124, 'end_index': 129}
+LINE NUMBERS:  ['718', '939', '679', '182', '281', '597', '360', '324', '161', '8', '671', '971']
+LINE 92 ....................+318.698*778..691......648*806..387$../..............*......174/................+133............25......................
+NUMBER DATA: {'number': 318, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 698, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 778, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 691, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 648, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 806, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 387, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 174, 'start_index': 79, 'end_index': 84}
+NUMBER DATA: {'number': 133, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 25, 'start_index': 115, 'end_index': 119}
+LINE NUMBERS:  ['318', '698', '778', '691', '648', '806', '387', '174', '133', '25']
+LINE 93 .............620*..................*...986...............................587.....................................15......264%..128.....998..
+NUMBER DATA: {'number': 620, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 986, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 587, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 15, 'start_index': 112, 'end_index': 116}
+NUMBER DATA: {'number': 264, 'start_index': 120, 'end_index': 125}
+NUMBER DATA: {'number': 128, 'start_index': 126, 'end_index': 131}
+NUMBER DATA: {'number': 998, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['620', '986', '587', '15', '264', '128', '998']
+LINE 94 .......%436......267..557%..#827.......................746%.48.411*309.............+.....547......-.............*.................*....*....
+NUMBER DATA: {'number': 436, 'start_index': 7, 'end_index': 12}
+NUMBER DATA: {'number': 267, 'start_index': 16, 'end_index': 21}
+NUMBER DATA: {'number': 557, 'start_index': 21, 'end_index': 26}
+NUMBER DATA: {'number': 827, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 746, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 48, 'start_index': 59, 'end_index': 63}
+NUMBER DATA: {'number': 411, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 309, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 547, 'start_index': 88, 'end_index': 93}
+LINE NUMBERS:  ['436', '267', '557', '827', '746', '48', '411', '309', '547']
+LINE 95 ..690..........#.................724....*.....772...........+..........787........462...+........89.#777.....794...-.........120.662....429.
+NUMBER DATA: {'number': 690, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 724, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 772, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 787, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 462, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 89, 'start_index': 96, 'end_index': 100}
+NUMBER DATA: {'number': 777, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 794, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 120, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 662, 'start_index': 128, 'end_index': 133}
+NUMBER DATA: {'number': 429, 'start_index': 135, 'end_index': 140}
+LINE NUMBERS:  ['690', '724', '772', '787', '462', '89', '777', '794', '120', '662', '429']
+LINE 96 ....&....$575.874........450.379...%.120.944.....*....10......378*888.%..........................................542........................
+NUMBER DATA: {'number': 575, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 874, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 450, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 379, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 120, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 944, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 10, 'start_index': 53, 'end_index': 57}
+NUMBER DATA: {'number': 378, 'start_index': 61, 'end_index': 66}
+NUMBER DATA: {'number': 888, 'start_index': 65, 'end_index': 70}
+NUMBER DATA: {'number': 542, 'start_index': 112, 'end_index': 117}
+LINE NUMBERS:  ['575', '874', '450', '379', '120', '944', '10', '378', '888', '542']
+LINE 97 ..................388.....+.....*..............108........243..............468...........363......132....-....&...............*....391......
+NUMBER DATA: {'number': 388, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 108, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 243, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 468, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 363, 'start_index': 88, 'end_index': 93}
+NUMBER DATA: {'number': 132, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 391, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['388', '108', '243', '468', '363', '132', '391']
+LINE 98 .....*.............%....$.....554.494....784.........310.&............458...%........753*..............217...174..23*108...853.233...*......
+NUMBER DATA: {'number': 554, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 494, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 784, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 310, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 458, 'start_index': 69, 'end_index': 74}
+NUMBER DATA: {'number': 753, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 217, 'start_index': 102, 'end_index': 107}
+NUMBER DATA: {'number': 174, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 23, 'start_index': 113, 'end_index': 117}
+NUMBER DATA: {'number': 108, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 853, 'start_index': 122, 'end_index': 127}
+NUMBER DATA: {'number': 233, 'start_index': 126, 'end_index': 131}
+LINE NUMBERS:  ['554', '494', '784', '310', '458', '753', '217', '174', '23', '108', '853', '233']
+LINE 99 ..636.425....343.........455........$........87........*.................-........%..............823.....................-...........898....
+NUMBER DATA: {'number': 636, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 425, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 343, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 455, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 87, 'start_index': 44, 'end_index': 48}
+NUMBER DATA: {'number': 823, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 898, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['636', '425', '343', '455', '87', '823', '898']
+LINE 100 ................*728.747.......770.......913.*....855.159.....&618...*.............779...94-..........375/.318*410...324.209................
+NUMBER DATA: {'number': 728, 'start_index': 16, 'end_index': 21}
+NUMBER DATA: {'number': 747, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 770, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 913, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 855, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 159, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 618, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 779, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 94, 'start_index': 88, 'end_index': 92}
+NUMBER DATA: {'number': 375, 'start_index': 101, 'end_index': 106}
+NUMBER DATA: {'number': 318, 'start_index': 106, 'end_index': 111}
+NUMBER DATA: {'number': 410, 'start_index': 110, 'end_index': 115}
+NUMBER DATA: {'number': 324, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 209, 'start_index': 120, 'end_index': 125}
+LINE NUMBERS:  ['728', '747', '770', '913', '855', '159', '618', '779', '94', '375', '318', '410', '324', '209']
+LINE 101 ........................*399......*.......=...905.*.......24........192.......760................785...................#...............468..
+NUMBER DATA: {'number': 399, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 905, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 24, 'start_index': 57, 'end_index': 61}
+NUMBER DATA: {'number': 192, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 760, 'start_index': 77, 'end_index': 82}
+NUMBER DATA: {'number': 785, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 468, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['399', '905', '24', '192', '760', '785', '468']
+LINE 102 .......674.414....108/.......498..443.............660.......*................*....................*....980..................................
+NUMBER DATA: {'number': 674, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 414, 'start_index': 10, 'end_index': 15}
+NUMBER DATA: {'number': 108, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 498, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 443, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 660, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 980, 'start_index': 102, 'end_index': 107}
+LINE NUMBERS:  ['674', '414', '108', '498', '443', '660', '980']
+LINE 103 .462.........*..............................654..............669...........427......$..............14..*...921.......897.............862....
+NUMBER DATA: {'number': 462, 'start_index': 0, 'end_index': 5}
+NUMBER DATA: {'number': 654, 'start_index': 43, 'end_index': 48}
+NUMBER DATA: {'number': 669, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 427, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 14, 'start_index': 98, 'end_index': 102}
+NUMBER DATA: {'number': 921, 'start_index': 106, 'end_index': 111}
+NUMBER DATA: {'number': 897, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 862, 'start_index': 132, 'end_index': 137}
+LINE NUMBERS:  ['462', '654', '669', '427', '14', '921', '897', '862']
+LINE 104 ...@.......292..370....751....639....................403..............74.......537.504.130.............779..&....89..*....615.423.%....*....
+NUMBER DATA: {'number': 292, 'start_index': 10, 'end_index': 15}
+NUMBER DATA: {'number': 370, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 751, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 639, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 403, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 74, 'start_index': 69, 'end_index': 73}
+NUMBER DATA: {'number': 537, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 504, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 130, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 779, 'start_index': 102, 'end_index': 107}
+NUMBER DATA: {'number': 89, 'start_index': 112, 'end_index': 116}
+NUMBER DATA: {'number': 615, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 423, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['292', '370', '751', '639', '403', '74', '537', '504', '130', '779', '89', '615', '423']
+LINE 105 ...............+..........*........958......23...160./..................*228.....*........*....66.....................378....*....735.......
+NUMBER DATA: {'number': 958, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 23, 'start_index': 43, 'end_index': 47}
+NUMBER DATA: {'number': 160, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 228, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 66, 'start_index': 94, 'end_index': 98}
+NUMBER DATA: {'number': 378, 'start_index': 117, 'end_index': 122}
+NUMBER DATA: {'number': 735, 'start_index': 129, 'end_index': 134}
+LINE NUMBERS:  ['958', '23', '160', '228', '66', '378', '735']
+LINE 106 ......#...............&68.584..125.$....898..+....*.........130.................927.....75......*....613....414.............................
+NUMBER DATA: {'number': 68, 'start_index': 22, 'end_index': 26}
+NUMBER DATA: {'number': 584, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 125, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 898, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 130, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 927, 'start_index': 79, 'end_index': 84}
+NUMBER DATA: {'number': 75, 'start_index': 87, 'end_index': 91}
+NUMBER DATA: {'number': 613, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 414, 'start_index': 107, 'end_index': 112}
+LINE NUMBERS:  ['68', '584', '125', '898', '130', '927', '75', '613', '414']
+LINE 107 ....909..968...................$.....=...#......@.935..............966.......................374.......*.....*...&......73.......*611.=888..
+NUMBER DATA: {'number': 909, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 968, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 935, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 966, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 374, 'start_index': 92, 'end_index': 97}
+NUMBER DATA: {'number': 73, 'start_index': 119, 'end_index': 123}
+NUMBER DATA: {'number': 611, 'start_index': 129, 'end_index': 134}
+NUMBER DATA: {'number': 888, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['909', '968', '935', '966', '374', '73', '611', '888']
+LINE 108 ............*231...................93.........157..............252..%..900.869...269................550...352..123......*...7.888...........
+NUMBER DATA: {'number': 231, 'start_index': 12, 'end_index': 17}
+NUMBER DATA: {'number': 93, 'start_index': 34, 'end_index': 38}
+NUMBER DATA: {'number': 157, 'start_index': 45, 'end_index': 50}
+NUMBER DATA: {'number': 252, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 900, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 869, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 269, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 550, 'start_index': 99, 'end_index': 104}
+NUMBER DATA: {'number': 352, 'start_index': 105, 'end_index': 110}
+NUMBER DATA: {'number': 123, 'start_index': 110, 'end_index': 115}
+NUMBER DATA: {'number': 7, 'start_index': 48, 'end_index': 50}
+NUMBER DATA: {'number': 888, 'start_index': 125, 'end_index': 130}
+LINE NUMBERS:  ['231', '93', '157', '252', '900', '869', '269', '550', '352', '123', '7', '888']
+LINE 109 .......833%..............277%.+860............................*...........*......*............973....................697...#........765..153
+NUMBER DATA: {'number': 833, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 277, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 860, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 973, 'start_index': 93, 'end_index': 98}
+NUMBER DATA: {'number': 697, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 765, 'start_index': 131, 'end_index': 136}
+NUMBER DATA: {'number': 153, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['833', '277', '860', '973', '697', '765', '153']
+LINE 110 ..............920@..569.........................499................44..........36....................406.98...+..295..........94*....@......
+NUMBER DATA: {'number': 920, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 569, 'start_index': 19, 'end_index': 24}
+NUMBER DATA: {'number': 499, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 44, 'start_index': 66, 'end_index': 70}
+NUMBER DATA: {'number': 36, 'start_index': 78, 'end_index': 82}
+NUMBER DATA: {'number': 406, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 98, 'start_index': 104, 'end_index': 108}
+NUMBER DATA: {'number': 295, 'start_index': 112, 'end_index': 117}
+NUMBER DATA: {'number': 94, 'start_index': 125, 'end_index': 129}
+LINE NUMBERS:  ['920', '569', '499', '44', '36', '406', '98', '295', '94']
+LINE 111 .....28...............*.413......-333......984.*............984...........878.............*.................958.....*43...829....746........
+NUMBER DATA: {'number': 28, 'start_index': 4, 'end_index': 8}
+NUMBER DATA: {'number': 413, 'start_index': 23, 'end_index': 28}
+NUMBER DATA: {'number': 333, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 984, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 984, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 878, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 958, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 43, 'start_index': 116, 'end_index': 120}
+NUMBER DATA: {'number': 829, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 746, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['28', '413', '333', '984', '984', '878', '958', '43', '829', '746']
+LINE 112 ......*............320...@...799.......696..$..211...%.......+.........%...*......232$.915.....209...........................*........510...
+NUMBER DATA: {'number': 320, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 799, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 696, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 211, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 232, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 915, 'start_index': 86, 'end_index': 91}
+NUMBER DATA: {'number': 209, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 510, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['320', '799', '696', '211', '232', '915', '209', '510']
+LINE 113 .......429.....................*........$...........624.736..........342....960..................*..................186....402..............
+NUMBER DATA: {'number': 429, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 624, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 736, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 342, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 960, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 186, 'start_index': 115, 'end_index': 120}
+NUMBER DATA: {'number': 402, 'start_index': 122, 'end_index': 127}
+LINE NUMBERS:  ['429', '624', '736', '342', '960', '186', '402']
+LINE 114 ....16.........838*............477....&...................%...............................977..996..........255.212.........................
+NUMBER DATA: {'number': 16, 'start_index': 3, 'end_index': 7}
+NUMBER DATA: {'number': 838, 'start_index': 14, 'end_index': 19}
+NUMBER DATA: {'number': 477, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 977, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 996, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 255, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 212, 'start_index': 111, 'end_index': 116}
+LINE NUMBERS:  ['16', '838', '477', '977', '996', '255', '212']
+LINE 115 245........88......209.................283.920*456...............410.............$353.....%....................*....................846.....
+NUMBER DATA: {'number': 245, 'start_index': 0, 'end_index': 4}
+NUMBER DATA: {'number': 88, 'start_index': 10, 'end_index': 14}
+NUMBER DATA: {'number': 209, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 283, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 920, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 456, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 410, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 353, 'start_index': 81, 'end_index': 86}
+NUMBER DATA: {'number': 846, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['245', '88', '209', '283', '920', '456', '410', '353', '846']
+LINE 116 .......699..*....................................................*...580......................659*......=..................184....#..#......
+NUMBER DATA: {'number': 699, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 580, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 659, 'start_index': 93, 'end_index': 98}
+NUMBER DATA: {'number': 184, 'start_index': 122, 'end_index': 127}
+LINE NUMBERS:  ['699', '580', '659', '184']
+LINE 117 ..890...*...485..........=......................................16...*......589...................754.802........485..%...-......784...+....
+NUMBER DATA: {'number': 890, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 485, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 16, 'start_index': 63, 'end_index': 67}
+NUMBER DATA: {'number': 589, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 754, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 802, 'start_index': 101, 'end_index': 106}
+NUMBER DATA: {'number': 485, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 784, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['890', '485', '16', '589', '754', '802', '485', '784']
+LINE 118 .......28.........303....405.@442.......768......476..273*961......843.....*.....161....813.....................*....470..............111...
+NUMBER DATA: {'number': 28, 'start_index': 6, 'end_index': 10}
+NUMBER DATA: {'number': 303, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 405, 'start_index': 24, 'end_index': 29}
+NUMBER DATA: {'number': 442, 'start_index': 29, 'end_index': 34}
+NUMBER DATA: {'number': 768, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 476, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 273, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 961, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 843, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 161, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 813, 'start_index': 87, 'end_index': 92}
+NUMBER DATA: {'number': 470, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 111, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['28', '303', '405', '442', '768', '476', '273', '961', '843', '161', '813', '470', '111']
+LINE 119 .............#...*...........................303.*..........................255.+........&.......326*309.+814.469..............5............
+NUMBER DATA: {'number': 303, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 255, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 326, 'start_index': 96, 'end_index': 101}
+NUMBER DATA: {'number': 309, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 814, 'start_index': 105, 'end_index': 110}
+NUMBER DATA: {'number': 469, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 5, 'start_index': 77, 'end_index': 78}
+LINE NUMBERS:  ['303', '255', '326', '309', '814', '469', '5']
+LINE 120 ....208.....910.514..148..261..334.......$...*...674..597..........................*439......36.....................=876...468*.............
+NUMBER DATA: {'number': 208, 'start_index': 3, 'end_index': 8}
+NUMBER DATA: {'number': 910, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 514, 'start_index': 15, 'end_index': 20}
+NUMBER DATA: {'number': 148, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 261, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 334, 'start_index': 30, 'end_index': 35}
+NUMBER DATA: {'number': 674, 'start_index': 48, 'end_index': 53}
+NUMBER DATA: {'number': 597, 'start_index': 53, 'end_index': 58}
+NUMBER DATA: {'number': 439, 'start_index': 83, 'end_index': 88}
+NUMBER DATA: {'number': 36, 'start_index': 92, 'end_index': 96}
+NUMBER DATA: {'number': 876, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 468, 'start_index': 122, 'end_index': 127}
+LINE NUMBERS:  ['208', '910', '514', '148', '261', '334', '674', '597', '439', '36', '876', '468']
+LINE 121 ....*....*..........*........*...@.....205...525.....*.....863..190.......115................./..@..+17......731................626.....&...
+NUMBER DATA: {'number': 205, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 525, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 863, 'start_index': 58, 'end_index': 63}
+NUMBER DATA: {'number': 190, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 115, 'start_index': 73, 'end_index': 78}
+NUMBER DATA: {'number': 17, 'start_index': 100, 'end_index': 104}
+NUMBER DATA: {'number': 731, 'start_index': 108, 'end_index': 113}
+NUMBER DATA: {'number': 626, 'start_index': 127, 'end_index': 132}
+LINE NUMBERS:  ['205', '525', '863', '190', '115', '17', '731', '626']
+LINE 122 ..984....994.......396.......587....................558....*..............................112...364.........................599*.......824..
+NUMBER DATA: {'number': 984, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 994, 'start_index': 8, 'end_index': 13}
+NUMBER DATA: {'number': 396, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 587, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 558, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 112, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 364, 'start_index': 95, 'end_index': 100}
+NUMBER DATA: {'number': 599, 'start_index': 123, 'end_index': 128}
+NUMBER DATA: {'number': 824, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['984', '994', '396', '587', '558', '112', '364', '599', '824']
+LINE 123 ......./...............................................................935*56........146................#......%............................
+NUMBER DATA: {'number': 935, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 56, 'start_index': 74, 'end_index': 78}
+NUMBER DATA: {'number': 146, 'start_index': 84, 'end_index': 89}
+LINE NUMBERS:  ['935', '56', '146']
+LINE 124 .......563..................896....216*192.......................588...........423......*......657...894..678...57............&.....813*....
+NUMBER DATA: {'number': 563, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 896, 'start_index': 27, 'end_index': 32}
+NUMBER DATA: {'number': 216, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 192, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 588, 'start_index': 64, 'end_index': 69}
+NUMBER DATA: {'number': 423, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 657, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 894, 'start_index': 100, 'end_index': 105}
+NUMBER DATA: {'number': 678, 'start_index': 105, 'end_index': 110}
+NUMBER DATA: {'number': 57, 'start_index': 96, 'end_index': 99}
+NUMBER DATA: {'number': 813, 'start_index': 131, 'end_index': 136}
+LINE NUMBERS:  ['563', '896', '216', '192', '588', '423', '657', '894', '678', '57', '813']
+LINE 125 ............#......186.-....*...................796.916........./..........810...*...532..........@.......*........394.......885........871.
+NUMBER DATA: {'number': 186, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 796, 'start_index': 47, 'end_index': 52}
+NUMBER DATA: {'number': 916, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 810, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 532, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 394, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 885, 'start_index': 124, 'end_index': 129}
+NUMBER DATA: {'number': 871, 'start_index': 135, 'end_index': 140}
+LINE NUMBERS:  ['186', '796', '916', '810', '532', '394', '885', '871']
+LINE 126 ..../.......484...*....101.208........%..42........*......623.....*592.....*.....572.......545.........677.....*...*........................
+NUMBER DATA: {'number': 484, 'start_index': 11, 'end_index': 16}
+NUMBER DATA: {'number': 101, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 208, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 42, 'start_index': 40, 'end_index': 44}
+NUMBER DATA: {'number': 623, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 592, 'start_index': 66, 'end_index': 71}
+NUMBER DATA: {'number': 572, 'start_index': 80, 'end_index': 85}
+NUMBER DATA: {'number': 545, 'start_index': 90, 'end_index': 95}
+NUMBER DATA: {'number': 677, 'start_index': 102, 'end_index': 107}
+LINE NUMBERS:  ['484', '101', '208', '42', '623', '592', '572', '545', '677']
+LINE 127 .479....25........535...............627..*...........652.....+.808.......926.522............*...............671.33.499.............514......
+NUMBER DATA: {'number': 479, 'start_index': 0, 'end_index': 5}
+NUMBER DATA: {'number': 25, 'start_index': 7, 'end_index': 11}
+NUMBER DATA: {'number': 535, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 627, 'start_index': 35, 'end_index': 40}
+NUMBER DATA: {'number': 652, 'start_index': 52, 'end_index': 57}
+NUMBER DATA: {'number': 808, 'start_index': 62, 'end_index': 67}
+NUMBER DATA: {'number': 926, 'start_index': 72, 'end_index': 77}
+NUMBER DATA: {'number': 522, 'start_index': 76, 'end_index': 81}
+NUMBER DATA: {'number': 671, 'start_index': 107, 'end_index': 112}
+NUMBER DATA: {'number': 33, 'start_index': 111, 'end_index': 115}
+NUMBER DATA: {'number': 499, 'start_index': 114, 'end_index': 119}
+NUMBER DATA: {'number': 514, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['479', '25', '535', '627', '652', '808', '926', '522', '671', '33', '499', '514']
+LINE 128 ..........*............951*472............215.......*.....................................451.....152...........................58...%...903
+NUMBER DATA: {'number': 951, 'start_index': 22, 'end_index': 27}
+NUMBER DATA: {'number': 472, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 215, 'start_index': 41, 'end_index': 46}
+NUMBER DATA: {'number': 451, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 152, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 58, 'start_index': 127, 'end_index': 131}
+NUMBER DATA: {'number': 903, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['951', '472', '215', '451', '152', '58', '903']
+LINE 129 ..........178.....=....................64......22.244...898.................514.......460........-......947..........823....368...%.........
+NUMBER DATA: {'number': 178, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 64, 'start_index': 38, 'end_index': 42}
+NUMBER DATA: {'number': 22, 'start_index': 46, 'end_index': 50}
+NUMBER DATA: {'number': 244, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 898, 'start_index': 55, 'end_index': 60}
+NUMBER DATA: {'number': 514, 'start_index': 75, 'end_index': 80}
+NUMBER DATA: {'number': 460, 'start_index': 85, 'end_index': 90}
+NUMBER DATA: {'number': 947, 'start_index': 103, 'end_index': 108}
+NUMBER DATA: {'number': 823, 'start_index': 116, 'end_index': 121}
+NUMBER DATA: {'number': 368, 'start_index': 123, 'end_index': 128}
+LINE NUMBERS:  ['178', '64', '22', '244', '898', '514', '460', '947', '823', '368']
+LINE 130 ...................120.....=.....289...*........*.......................723..../...........................*....368.................349..304
+NUMBER DATA: {'number': 120, 'start_index': 18, 'end_index': 23}
+NUMBER DATA: {'number': 289, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 723, 'start_index': 71, 'end_index': 76}
+NUMBER DATA: {'number': 368, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 349, 'start_index': 131, 'end_index': 136}
+NUMBER DATA: {'number': 304, 'start_index': 136, 'end_index': 141}
+LINE NUMBERS:  ['120', '289', '723', '368', '349', '304']
+LINE 131 ..........................402...........914..707.............630/...*.............................419.....654......*..............*.....*...
+NUMBER DATA: {'number': 402, 'start_index': 25, 'end_index': 30}
+NUMBER DATA: {'number': 914, 'start_index': 39, 'end_index': 44}
+NUMBER DATA: {'number': 707, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 630, 'start_index': 60, 'end_index': 65}
+NUMBER DATA: {'number': 419, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 654, 'start_index': 105, 'end_index': 110}
+LINE NUMBERS:  ['402', '914', '707', '630', '419', '654']
+LINE 132 ......981.131....809*755...........318*.............248...........#.195........338..........23....*...............395..223.....626.498.681..
+NUMBER DATA: {'number': 981, 'start_index': 5, 'end_index': 10}
+NUMBER DATA: {'number': 131, 'start_index': 9, 'end_index': 14}
+NUMBER DATA: {'number': 809, 'start_index': 16, 'end_index': 21}
+NUMBER DATA: {'number': 755, 'start_index': 20, 'end_index': 25}
+NUMBER DATA: {'number': 318, 'start_index': 34, 'end_index': 39}
+NUMBER DATA: {'number': 248, 'start_index': 51, 'end_index': 56}
+NUMBER DATA: {'number': 195, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 338, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 23, 'start_index': 91, 'end_index': 95}
+NUMBER DATA: {'number': 395, 'start_index': 113, 'end_index': 118}
+NUMBER DATA: {'number': 223, 'start_index': 118, 'end_index': 123}
+NUMBER DATA: {'number': 626, 'start_index': 126, 'end_index': 131}
+NUMBER DATA: {'number': 498, 'start_index': 130, 'end_index': 135}
+NUMBER DATA: {'number': 681, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['981', '131', '809', '755', '318', '248', '195', '338', '23', '395', '223', '626', '498', '681']
+LINE 133 .....*.....................+.271.......457.........*......384...633.......#.....*...638..46........144........@...........*.................
+NUMBER DATA: {'number': 271, 'start_index': 28, 'end_index': 33}
+NUMBER DATA: {'number': 457, 'start_index': 38, 'end_index': 43}
+NUMBER DATA: {'number': 384, 'start_index': 57, 'end_index': 62}
+NUMBER DATA: {'number': 633, 'start_index': 63, 'end_index': 68}
+NUMBER DATA: {'number': 638, 'start_index': 83, 'end_index': 88}
+NUMBER DATA: {'number': 46, 'start_index': 88, 'end_index': 92}
+NUMBER DATA: {'number': 144, 'start_index': 98, 'end_index': 103}
+LINE NUMBERS:  ['271', '457', '384', '633', '638', '46', '144']
+LINE 134 ...915....................14../..............595..806......*...............523.603..&....*....................165.824.....789.....347$......
+NUMBER DATA: {'number': 915, 'start_index': 2, 'end_index': 7}
+NUMBER DATA: {'number': 14, 'start_index': 25, 'end_index': 29}
+NUMBER DATA: {'number': 595, 'start_index': 44, 'end_index': 49}
+NUMBER DATA: {'number': 806, 'start_index': 49, 'end_index': 54}
+NUMBER DATA: {'number': 523, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 603, 'start_index': 78, 'end_index': 83}
+NUMBER DATA: {'number': 165, 'start_index': 109, 'end_index': 114}
+NUMBER DATA: {'number': 824, 'start_index': 113, 'end_index': 118}
+NUMBER DATA: {'number': 789, 'start_index': 121, 'end_index': 126}
+NUMBER DATA: {'number': 347, 'start_index': 129, 'end_index': 134}
+LINE NUMBERS:  ['915', '14', '595', '806', '523', '603', '165', '824', '789', '347']
+LINE 135 .................*47.............761.265.150................967........565............=...296......-..............*...........671......379..
+NUMBER DATA: {'number': 47, 'start_index': 17, 'end_index': 21}
+NUMBER DATA: {'number': 761, 'start_index': 32, 'end_index': 37}
+NUMBER DATA: {'number': 265, 'start_index': 36, 'end_index': 41}
+NUMBER DATA: {'number': 150, 'start_index': 40, 'end_index': 45}
+NUMBER DATA: {'number': 967, 'start_index': 59, 'end_index': 64}
+NUMBER DATA: {'number': 565, 'start_index': 70, 'end_index': 75}
+NUMBER DATA: {'number': 296, 'start_index': 89, 'end_index': 94}
+NUMBER DATA: {'number': 671, 'start_index': 125, 'end_index': 130}
+NUMBER DATA: {'number': 379, 'start_index': 134, 'end_index': 139}
+LINE NUMBERS:  ['47', '761', '265', '150', '967', '565', '296', '671', '379']
+LINE 136 ..............967......./.&197......*.........=.....................&................660..........292.............993...........=..581..#...
+NUMBER DATA: {'number': 967, 'start_index': 13, 'end_index': 18}
+NUMBER DATA: {'number': 197, 'start_index': 26, 'end_index': 31}
+NUMBER DATA: {'number': 660, 'start_index': 84, 'end_index': 89}
+NUMBER DATA: {'number': 292, 'start_index': 97, 'end_index': 102}
+NUMBER DATA: {'number': 993, 'start_index': 113, 'end_index': 118}
+NUMBER DATA: {'number': 581, 'start_index': 130, 'end_index': 135}
+LINE NUMBERS:  ['967', '197', '660', '292', '993', '581']
+LINE 137 ......................279........+.........755........@..............712..........*...................827....../...................*........
+NUMBER DATA: {'number': 279, 'start_index': 21, 'end_index': 26}
+NUMBER DATA: {'number': 755, 'start_index': 42, 'end_index': 47}
+NUMBER DATA: {'number': 712, 'start_index': 68, 'end_index': 73}
+NUMBER DATA: {'number': 827, 'start_index': 101, 'end_index': 106}
+LINE NUMBERS:  ['279', '755', '712', '827']
+LINE 138 ...........$.....*................115..................400................=......1.292..@602..=.................321..............728........
+NUMBER DATA: {'number': 115, 'start_index': 33, 'end_index': 38}
+NUMBER DATA: {'number': 400, 'start_index': 54, 'end_index': 59}
+NUMBER DATA: {'number': 1, 'start_index': 33, 'end_index': 35}
+NUMBER DATA: {'number': 292, 'start_index': 82, 'end_index': 87}
+NUMBER DATA: {'number': 602, 'start_index': 88, 'end_index': 93}
+NUMBER DATA: {'number': 321, 'start_index': 111, 'end_index': 116}
+NUMBER DATA: {'number': 728, 'start_index': 128, 'end_index': 133}
+LINE NUMBERS:  ['115', '400', '1', '292', '602', '321', '728']
+LINE 139 ..579..410..3..44.291..........................538..................148....873.................461....................................722...
+NUMBER DATA: {'number': 579, 'start_index': 1, 'end_index': 6}
+NUMBER DATA: {'number': 410, 'start_index': 6, 'end_index': 11}
+NUMBER DATA: {'number': 3, 'start_index': 11, 'end_index': 14}
+NUMBER DATA: {'number': 44, 'start_index': 14, 'end_index': 18}
+NUMBER DATA: {'number': 291, 'start_index': 17, 'end_index': 22}
+NUMBER DATA: {'number': 538, 'start_index': 46, 'end_index': 51}
+NUMBER DATA: {'number': 148, 'start_index': 67, 'end_index': 72}
+NUMBER DATA: {'number': 873, 'start_index': 74, 'end_index': 79}
+NUMBER DATA: {'number': 461, 'start_index': 94, 'end_index': 99}
+NUMBER DATA: {'number': 722, 'start_index': 133, 'end_index': 138}
+LINE NUMBERS:  ['579', '410', '3', '44', '291', '538', '148', '873', '461', '722']
+TOTAL: 0
