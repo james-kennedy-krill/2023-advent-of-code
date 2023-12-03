@@ -8,6 +8,7 @@ input_file_path = os.path.join(script_dir, "input.txt")
 output_file_path = os.path.join(script_dir, "output.txt")
 f_input = open(input_file_path, "r", encoding="utf-8")
 f_output = open(output_file_path, "w")
+lines = f_input.readlines()
 
 # TDD
 # We'll need to build an iterator
@@ -29,8 +30,9 @@ def getLineNumbers(line: str):
   return line_numbers
 
 def lineNumberPositioning(line, line_number):
-  number_re = re.compile(r"\D?" + line_number + r"\D?")
+  number_re = re.compile("\D?" + line_number + "\D?")
   number_match = number_re.search(line)
+  # print(number_match, file=f_output)
   if number_match:
     start_index = number_match.start()
     end_index = number_match.end()
@@ -38,35 +40,60 @@ def lineNumberPositioning(line, line_number):
     return number_data
   
 def isSymbol(text):
-  match = symbol_re.match(text)
+  match = symbol_re.search(text)
   return match
   
 def hasAdjacentSymbol(line, line_index, number_data):
   # Check this line
-  print("symbol before:", line[number_data["start_index"]])
-  print("is symbol?", isSymbol(line[number_data["start_index"]]))
-  print("symbol after:", line[number_data["end_index"]])
-  print("is symbol?", isSymbol(line[number_data["end_index"]]))
+  print("NUM:", number_data["number"], file=f_output)
+  print(line[number_data["start_index"]:number_data["end_index"]], file=f_output)
+  
   # To the left
   if isSymbol(line[number_data["start_index"]]):
+    print("symbol before:", line[number_data["start_index"]], file=f_output)
     return True
-  if isSymbol(line[number_data["end_index"]]):
-    return True
+  
+  # To the right
+  line_length = len(line)
+  if number_data["end_index"] < line_length:
+    if isSymbol(line[number_data["end_index"]-1]):
+      print("symbol after:", line[number_data["end_index"]-1], file=f_output)
+      return True
+    
   # Check line before if it exists
+  if line_index > 0:
+    prev_line = lines[line_index-1]
+    if isSymbol(prev_line[number_data["start_index"]:number_data["end_index"]]):
+      print("NUM:", number_data["number"], file=f_output)
+      print("symbol, line before:", prev_line[number_data["start_index"]:number_data["end_index"]], file=f_output)
+      return True
   
   # Check line after if it exists
-  return hasAdjacentSymbol
+  lines_len = len(lines)
+  if line_index < lines_len-1:
+    next_line = lines[line_index+1]
+    if isSymbol(next_line[(number_data["start_index"]+1):(number_data["end_index"]+1)]):
+      print("NUM:", number_data["number"], file=f_output)
+      print("symbol, line after:", next_line[(number_data["start_index"]+1):(number_data["end_index"]+1)], file=f_output)
+      return True
+    
+  return False
 
 def main():
   print("--- DAY 3: Gear Ratios ---", file=f_output)
   total = 0
-  for index, line in enumerate(f_input):
-    print("LINE", index, line.strip(), file=f_output)
-    line_numbers = getLineNumbers(line)
+  for index, line in enumerate(lines):
+    if index > 0:
+      print("LINE BEFORE", lines[index - 1].strip(), file=f_output)
+    print("LINE", index + 1, "  ", line.strip(), file=f_output)
+    if index < len(lines) - 1:
+      print("LINE AFTER ", lines[index+1].strip(), file=f_output)
+    line_numbers = getLineNumbers(line.strip())
     for number in line_numbers:
-      number_data = lineNumberPositioning(line, number)
-      print("NUMBER DATA:", number_data, file=f_output)
-      if checkForAdjacentSymbol(line, index, number_data):
+      number_data = lineNumberPositioning(line.strip(), number)
+      # print("NUMBER DATA:", number_data, file=f_output)
+      if hasAdjacentSymbol(line.strip(), index, number_data):
+        print("HAS ADJACENT: ", number_data["number"], file=f_output)
         total += number_data["number"]
     print("LINE NUMBERS: ", line_numbers, file=f_output)
   print("TOTAL:", total, file=f_output)
