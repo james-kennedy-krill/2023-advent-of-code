@@ -28,29 +28,36 @@ def getId(line: str) -> int:
 def getRed(line: str) -> int:
   red_m = red_re.findall(line)
   print("RED: ", red_m, file=f_output)
-  total_red = sum(map(int, red_m))
-  print("TOTAL RED:", total_red, file=f_output)
-  return total_red
+  # total_red = sum(map(int, red_m))
+  # print("TOTAL RED:", total_red, file=f_output)
+  # return total_red
+  largest_red = max(map(int, red_m))
+  return largest_red
   
 def getGreen(line: str) -> int:
   green_m = green_re.findall(line)
   print("GREEN: ", green_m, file=f_output)
-  total_green = sum(map(int, green_m))
-  print("TOTAL GREEN:", total_green, file=f_output)
-  return total_green
+  # total_green = sum(map(int, green_m))
+  # print("TOTAL GREEN:", total_green, file=f_output)
+  # return total_green
+  largest_green = max(map(int, green_m))
+  return largest_green
   
 def getBlue(line: str) -> int:
   blue_m = blue_re.findall(line)
   print("BLUE: ", blue_m, file=f_output)
-  total_blue = sum(map(int, blue_m))
-  print("TOTAL BLUE:", total_blue, file=f_output)
-  return total_blue
+  # total_blue = sum(map(int, blue_m))
+  # print("TOTAL BLUE:", total_blue, file=f_output)
+  # return total_blue
+  largest_blue = max(map(int, blue_m))
+  return largest_blue
   
 def isGamePossible(red: int, green: int, blue: int) -> bool:
    if ((red <= red_cubes) & (green <= green_cubes) & (blue <= blue_cubes)):
      print("game is possible", red, green, blue)
      return True
    else:
+     print("NOT possible", red, green, blue)
      return False
 
 def main():
