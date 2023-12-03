@@ -1,0 +1,1001 @@
+ID:  1
+RED:  ['1', '1', '4', '3', '3']
+LARGEST RED:  4
+GREEN:  ['4', '4', '3', '7', '7', '3']
+LARGEST GREEN:  7
+BLUE:  ['2', '1', '4', '2']
+LARGEST BLUE:  4
+COLORS POWER:  112
+LINE:  Game 1: 4 green, 2 blue; 1 red, 1 blue, 4 green; 3 green, 4 blue, 1 red; 7 green, 2 blue, 4 red; 3 red, 7 green; 3 red, 3 green
+-----------------------------------------------------
+ID:  2
+RED:  ['11', '2', '11', '5', '8']
+LARGEST RED:  11
+GREEN:  ['1', '4', '2', '13', '4']
+LARGEST GREEN:  13
+BLUE:  ['1', '3', '2', '1', '3']
+LARGEST BLUE:  3
+COLORS POWER:  429
+LINE:  Game 2: 1 blue, 11 red, 1 green; 3 blue, 2 red, 4 green; 11 red, 2 green, 2 blue; 13 green, 5 red, 1 blue; 4 green, 8 red, 3 blue
+-----------------------------------------------------
+ID:  3
+RED:  ['9', '1', '7', '6', '4', '3']
+LARGEST RED:  9
+GREEN:  ['2', '3']
+LARGEST GREEN:  3
+BLUE:  ['2', '4', '4', '3', '9']
+LARGEST BLUE:  9
+COLORS POWER:  243
+LINE:  Game 3: 9 red, 2 blue; 4 blue, 2 green, 1 red; 7 red, 4 blue, 3 green; 3 blue, 6 red; 9 blue, 4 red; 3 red
+-----------------------------------------------------
+ID:  4
+RED:  ['3', '7', '1', '6']
+LARGEST RED:  7
+GREEN:  ['11', '6', '9', '3', '4']
+LARGEST GREEN:  11
+BLUE:  ['5', '3', '17', '5', '7']
+LARGEST BLUE:  17
+COLORS POWER:  1309
+LINE:  Game 4: 5 blue, 11 green, 3 red; 6 green, 3 blue, 7 red; 17 blue, 9 green; 1 red, 5 blue, 3 green; 6 red, 7 blue, 4 green
+-----------------------------------------------------
+ID:  5
+RED:  ['7', '3', '4']
+LARGEST RED:  7
+GREEN:  ['3', '6']
+LARGEST GREEN:  6
+BLUE:  ['7', '4', '7']
+LARGEST BLUE:  7
+COLORS POWER:  294
+LINE:  Game 5: 3 green, 7 blue, 7 red; 6 green, 3 red, 4 blue; 7 blue, 4 red
+-----------------------------------------------------
+ID:  6
+RED:  ['9', '11', '7']
+LARGEST RED:  11
+GREEN:  ['1', '2', '1']
+LARGEST GREEN:  2
+BLUE:  ['3', '2', '13', '12']
+LARGEST BLUE:  13
+COLORS POWER:  286
+LINE:  Game 6: 1 green, 3 blue; 2 blue, 9 red; 2 green, 13 blue, 11 red; 7 red, 12 blue, 1 green
+-----------------------------------------------------
+ID:  7
+RED:  ['6', '7', '7', '13']
+LARGEST RED:  13
+GREEN:  ['12', '6', '3', '9']
+LARGEST GREEN:  12
+BLUE:  ['2', '8', '7', '5']
+LARGEST BLUE:  8
+COLORS POWER:  1248
+LINE:  Game 7: 2 blue, 6 red, 12 green; 7 red, 8 blue, 6 green; 7 blue, 3 green, 7 red; 5 blue, 9 green, 13 red
+-----------------------------------------------------
+ID:  8
+RED:  ['3', '3', '2', '4']
+LARGEST RED:  4
+GREEN:  ['1', '1', '1']
+LARGEST GREEN:  1
+BLUE:  ['13', '9', '4', '3', '15']
+LARGEST BLUE:  15
+COLORS POWER:  60
+LINE:  Game 8: 13 blue, 1 green; 3 red, 9 blue; 3 red, 4 blue; 2 red, 3 blue, 1 green; 1 green, 15 blue, 4 red
+-----------------------------------------------------
+ID:  9
+RED:  ['11', '2', '2']
+LARGEST RED:  11
+GREEN:  ['1']
+LARGEST GREEN:  1
+BLUE:  ['5', '1', '5']
+LARGEST BLUE:  5
+COLORS POWER:  55
+LINE:  Game 9: 1 green, 5 blue, 11 red; 2 red, 1 blue; 2 red, 5 blue
+-----------------------------------------------------
+ID:  10
+RED:  ['8', '1', '5', '4', '4', '9']
+LARGEST RED:  9
+GREEN:  ['20', '12', '7', '19', '14', '15']
+LARGEST GREEN:  20
+BLUE:  ['2', '3', '6', '3']
+LARGEST BLUE:  6
+COLORS POWER:  1080
+LINE:  Game 10: 8 red, 20 green; 12 green, 1 red, 2 blue; 5 red, 3 blue, 7 green; 4 red, 19 green, 6 blue; 3 blue, 4 red, 14 green; 9 red, 15 green
+-----------------------------------------------------
+ID:  11
+RED:  ['14', '7', '6', '10', '12']
+LARGEST RED:  14
+GREEN:  ['7', '8', '11', '2']
+LARGEST GREEN:  11
+BLUE:  ['4', '6', '5']
+LARGEST BLUE:  6
+COLORS POWER:  924
+LINE:  Game 11: 7 green, 4 blue, 14 red; 7 red, 8 green; 6 blue, 6 red; 5 blue, 10 red, 11 green; 12 red, 2 green
+-----------------------------------------------------
+ID:  12
+RED:  ['8', '7', '2', '2']
+LARGEST RED:  8
+GREEN:  ['5', '2', '3', '4']
+LARGEST GREEN:  5
+BLUE:  ['4', '4', '4']
+LARGEST BLUE:  4
+COLORS POWER:  160
+LINE:  Game 12: 4 blue, 5 green, 8 red; 2 green, 4 blue, 7 red; 4 blue, 3 green, 2 red; 2 red, 4 green
+-----------------------------------------------------
+ID:  13
+RED:  ['8', '2', '12']
+LARGEST RED:  12
+GREEN:  ['5', '7']
+LARGEST GREEN:  7
+BLUE:  ['7', '15', '3']
+LARGEST BLUE:  15
+COLORS POWER:  1260
+LINE:  Game 13: 7 blue, 8 red; 5 green, 15 blue, 2 red; 7 green, 3 blue, 12 red
+-----------------------------------------------------
+ID:  14
+RED:  ['16', '6', '5', '1']
+LARGEST RED:  16
+GREEN:  ['4', '2', '3', '2']
+LARGEST GREEN:  4
+BLUE:  ['1', '1']
+LARGEST BLUE:  1
+COLORS POWER:  64
+LINE:  Game 14: 4 green, 16 red; 6 red, 2 green; 5 red, 1 blue, 3 green; 1 blue, 1 red, 2 green
+-----------------------------------------------------
+ID:  15
+RED:  ['1', '1', '2']
+LARGEST RED:  2
+GREEN:  ['3', '2', '2', '1']
+LARGEST GREEN:  3
+BLUE:  ['2', '6', '3']
+LARGEST BLUE:  6
+COLORS POWER:  36
+LINE:  Game 15: 3 green; 2 blue, 1 red, 2 green; 6 blue; 3 blue, 1 red, 2 green; 2 red, 1 green
+-----------------------------------------------------
+ID:  16
+RED:  ['3', '1', '2', '2', '2']
+LARGEST RED:  3
+GREEN:  ['13', '9', '18', '7', '17', '12']
+LARGEST GREEN:  18
+BLUE:  ['1', '4', '3', '3']
+LARGEST BLUE:  4
+COLORS POWER:  216
+LINE:  Game 16: 13 green, 3 red; 9 green, 1 blue; 4 blue, 1 red, 18 green; 2 red, 3 blue, 7 green; 17 green, 2 red, 3 blue; 12 green, 2 red
+-----------------------------------------------------
+ID:  17
+RED:  ['3', '2', '2', '2', '1']
+LARGEST RED:  3
+GREEN:  ['4', '5', '5', '3', '2']
+LARGEST GREEN:  5
+BLUE:  ['2', '11', '15', '13', '6', '8']
+LARGEST BLUE:  15
+COLORS POWER:  225
+LINE:  Game 17: 2 blue, 4 green, 3 red; 2 red, 5 green, 11 blue; 5 green, 15 blue, 2 red; 3 green, 13 blue; 6 blue, 2 green, 2 red; 8 blue, 1 red
+-----------------------------------------------------
+ID:  18
+RED:  ['6', '2', '3', '9', '2', '12']
+LARGEST RED:  12
+GREEN:  ['4', '3', '6', '6', '9']
+LARGEST GREEN:  9
+BLUE:  ['7', '12', '6', '10', '4', '12']
+LARGEST BLUE:  12
+COLORS POWER:  1296
+LINE:  Game 18: 6 red, 4 green, 7 blue; 2 red, 3 green, 12 blue; 3 red, 6 blue, 6 green; 9 red, 10 blue; 6 green, 4 blue, 2 red; 12 red, 12 blue, 9 green
+-----------------------------------------------------
+ID:  19
+RED:  ['2', '16', '2', '15', '13']
+LARGEST RED:  16
+GREEN:  ['3', '5', '6', '3', '1']
+LARGEST GREEN:  6
+BLUE:  ['3', '3', '2', '2']
+LARGEST BLUE:  3
+COLORS POWER:  288
+LINE:  Game 19: 3 blue, 2 red, 3 green; 16 red, 3 blue, 5 green; 2 red, 6 green; 3 green, 2 blue, 15 red; 2 blue, 13 red, 1 green
+-----------------------------------------------------
+ID:  20
+RED:  ['2', '2', '1']
+LARGEST RED:  2
+GREEN:  ['1', '1']
+LARGEST GREEN:  1
+BLUE:  ['2', '5', '3', '2']
+LARGEST BLUE:  5
+COLORS POWER:  10
+LINE:  Game 20: 2 blue; 1 green, 5 blue, 2 red; 3 blue, 2 red, 1 green; 1 red, 2 blue
+-----------------------------------------------------
+ID:  21
+RED:  ['4', '6', '1', '1', '3']
+LARGEST RED:  6
+GREEN:  ['15', '9', '1', '11', '14']
+LARGEST GREEN:  15
+BLUE:  ['13', '19', '6', '9', '8']
+LARGEST BLUE:  19
+COLORS POWER:  1710
+LINE:  Game 21: 15 green, 13 blue, 4 red; 9 green, 6 red, 19 blue; 6 blue, 1 green, 1 red; 1 red, 11 green, 9 blue; 3 red, 14 green, 8 blue
+-----------------------------------------------------
+ID:  22
+RED:  ['10', '2', '4']
+LARGEST RED:  10
+GREEN:  ['1', '6', '9', '4']
+LARGEST GREEN:  9
+BLUE:  ['3', '3', '2']
+LARGEST BLUE:  3
+COLORS POWER:  270
+LINE:  Game 22: 3 blue, 10 red, 1 green; 2 red, 6 green; 9 green, 3 blue, 4 red; 2 blue, 4 green
+-----------------------------------------------------
+ID:  23
+RED:  ['5', '12', '8']
+LARGEST RED:  12
+GREEN:  ['2', '4', '3']
+LARGEST GREEN:  4
+BLUE:  ['5', '2', '4']
+LARGEST BLUE:  5
+COLORS POWER:  240
+LINE:  Game 23: 5 red, 2 green, 5 blue; 4 green, 12 red, 2 blue; 3 green, 8 red, 4 blue
+-----------------------------------------------------
+ID:  24
+RED:  ['16', '10', '7', '12', '14', '8']
+LARGEST RED:  16
+GREEN:  ['1', '1', '1', '1', '1']
+LARGEST GREEN:  1
+BLUE:  ['3', '1', '2', '1']
+LARGEST BLUE:  3
+COLORS POWER:  48
+LINE:  Game 24: 1 green, 16 red, 3 blue; 10 red, 1 blue; 2 blue, 1 green, 7 red; 12 red, 1 green; 14 red, 1 green; 1 blue, 8 red, 1 green
+-----------------------------------------------------
+ID:  25
+RED:  ['9', '8', '2', '14']
+LARGEST RED:  14
+GREEN:  ['6', '4', '1']
+LARGEST GREEN:  6
+BLUE:  ['8', '2', '9', '4']
+LARGEST BLUE:  9
+COLORS POWER:  756
+LINE:  Game 25: 8 blue, 9 red, 6 green; 2 blue, 4 green, 8 red; 1 green, 9 blue, 2 red; 14 red, 4 blue
+-----------------------------------------------------
+ID:  26
+RED:  ['1', '6', '2', '6']
+LARGEST RED:  6
+GREEN:  ['3', '2', '5', '5']
+LARGEST GREEN:  5
+BLUE:  ['4', '3', '6', '5', '1']
+LARGEST BLUE:  6
+COLORS POWER:  180
+LINE:  Game 26: 4 blue, 3 green; 1 red, 3 blue; 6 red, 2 green, 6 blue; 5 green, 2 red; 5 blue, 5 green; 6 red, 1 blue
+-----------------------------------------------------
+ID:  27
+RED:  ['1', '1', '3', '2', '4']
+LARGEST RED:  4
+GREEN:  ['6', '6', '3', '3']
+LARGEST GREEN:  6
+BLUE:  ['9', '8', '1', '4', '2', '7']
+LARGEST BLUE:  9
+COLORS POWER:  216
+LINE:  Game 27: 6 green, 9 blue; 1 red, 6 green, 8 blue; 3 green, 1 blue, 1 red; 3 red, 4 blue; 2 red, 2 blue; 4 red, 3 green, 7 blue
+-----------------------------------------------------
+ID:  28
+RED:  ['1', '2']
+LARGEST RED:  2
+GREEN:  ['5', '3', '1']
+LARGEST GREEN:  5
+BLUE:  ['2', '5', '4']
+LARGEST BLUE:  5
+COLORS POWER:  50
+LINE:  Game 28: 5 green, 2 blue; 5 blue; 1 red, 4 blue, 3 green; 1 green, 2 red
+-----------------------------------------------------
+ID:  29
+RED:  ['2', '2', '9']
+LARGEST RED:  9
+GREEN:  ['1', '1']
+LARGEST GREEN:  1
+BLUE:  ['4', '1', '6']
+LARGEST BLUE:  6
+COLORS POWER:  54
+LINE:  Game 29: 1 green, 2 red, 4 blue; 1 green, 2 red, 1 blue; 9 red, 6 blue
+-----------------------------------------------------
+ID:  30
+RED:  ['1', '2', '2']
+LARGEST RED:  2
+GREEN:  ['1', '4', '10', '9']
+LARGEST GREEN:  10
+BLUE:  ['5', '13', '11', '12']
+LARGEST BLUE:  13
+COLORS POWER:  260
+LINE:  Game 30: 1 green, 1 red, 5 blue; 13 blue, 4 green, 2 red; 10 green, 11 blue; 9 green, 2 red, 12 blue
+-----------------------------------------------------
+ID:  31
+RED:  ['4', '1', '4', '2']
+LARGEST RED:  4
+GREEN:  ['1', '5', '3', '7']
+LARGEST GREEN:  7
+BLUE:  ['5', '8', '9']
+LARGEST BLUE:  9
+COLORS POWER:  252
+LINE:  Game 31: 4 red, 5 blue; 8 blue, 1 red, 1 green; 4 red, 5 green; 3 green; 9 blue, 2 red, 7 green
+-----------------------------------------------------
+ID:  32
+RED:  ['4', '10', '10', '8', '14']
+LARGEST RED:  14
+GREEN:  ['5', '10', '12', '13', '6']
+LARGEST GREEN:  13
+BLUE:  ['5', '5', '6', '1', '2']
+LARGEST BLUE:  6
+COLORS POWER:  1092
+LINE:  Game 32: 5 blue, 4 red, 5 green; 10 red, 10 green, 5 blue; 10 red, 12 green, 6 blue; 8 red, 1 blue, 13 green; 6 green, 14 red, 2 blue
+-----------------------------------------------------
+ID:  33
+RED:  ['6', '1', '4']
+LARGEST RED:  6
+GREEN:  ['9', '13', '4']
+LARGEST GREEN:  13
+BLUE:  ['4', '2', '5']
+LARGEST BLUE:  5
+COLORS POWER:  390
+LINE:  Game 33: 9 green, 6 red, 4 blue; 1 red, 2 blue, 13 green; 4 red, 4 green, 5 blue
+-----------------------------------------------------
+ID:  34
+RED:  ['1', '14']
+LARGEST RED:  14
+GREEN:  ['9', '7']
+LARGEST GREEN:  9
+BLUE:  ['1', '1', '3']
+LARGEST BLUE:  3
+COLORS POWER:  378
+LINE:  Game 34: 1 blue, 1 red; 9 green, 14 red, 1 blue; 3 blue, 7 green
+-----------------------------------------------------
+ID:  35
+RED:  ['1', '1']
+LARGEST RED:  1
+GREEN:  ['11', '17', '19', '4', '7']
+LARGEST GREEN:  19
+BLUE:  ['5', '5', '6', '7', '10']
+LARGEST BLUE:  10
+COLORS POWER:  190
+LINE:  Game 35: 1 red, 11 green, 5 blue; 1 red, 5 blue, 17 green; 19 green, 6 blue; 4 green, 7 blue; 10 blue, 7 green
+-----------------------------------------------------
+ID:  36
+RED:  ['4', '1', '1']
+LARGEST RED:  4
+GREEN:  ['9', '13', '5', '15']
+LARGEST GREEN:  15
+BLUE:  ['6', '8', '5']
+LARGEST BLUE:  8
+COLORS POWER:  480
+LINE:  Game 36: 9 green, 6 blue, 4 red; 8 blue, 13 green, 1 red; 5 blue, 5 green; 15 green, 1 red
+-----------------------------------------------------
+ID:  37
+RED:  ['9', '6']
+LARGEST RED:  9
+GREEN:  ['1', '14', '11']
+LARGEST GREEN:  14
+BLUE:  ['1']
+LARGEST BLUE:  1
+COLORS POWER:  126
+LINE:  Game 37: 1 green, 9 red, 1 blue; 14 green; 11 green, 6 red
+-----------------------------------------------------
+ID:  38
+RED:  ['8', '3']
+LARGEST RED:  8
+GREEN:  ['9', '4']
+LARGEST GREEN:  9
+BLUE:  ['2', '1', '1']
+LARGEST BLUE:  2
+COLORS POWER:  144
+LINE:  Game 38: 2 blue; 9 green, 1 blue, 8 red; 4 green, 1 blue, 3 red
+-----------------------------------------------------
+ID:  39
+RED:  ['7', '2', '4']
+LARGEST RED:  7
+GREEN:  ['3', '3']
+LARGEST GREEN:  3
+BLUE:  ['7', '6']
+LARGEST BLUE:  7
+COLORS POWER:  147
+LINE:  Game 39: 7 red, 7 blue; 3 green, 6 blue, 2 red; 3 green, 4 red
+-----------------------------------------------------
+ID:  40
+RED:  ['2', '4', '2']
+LARGEST RED:  4
+GREEN:  ['6', '10', '8', '3', '14']
+LARGEST GREEN:  14
+BLUE:  ['5', '6', '6', '2']
+LARGEST BLUE:  6
+COLORS POWER:  336
+LINE:  Game 40: 5 blue, 2 red, 6 green; 6 blue, 10 green, 4 red; 8 green, 6 blue; 3 green, 2 blue; 2 red, 14 green
+-----------------------------------------------------
+ID:  41
+RED:  ['5', '3', '6', '7', '1']
+LARGEST RED:  7
+GREEN:  ['3', '7', '15', '5', '1', '14']
+LARGEST GREEN:  15
+BLUE:  ['14', '3', '19', '18', '9', '10']
+LARGEST BLUE:  19
+COLORS POWER:  1995
+LINE:  Game 41: 5 red, 14 blue, 3 green; 3 red, 3 blue, 7 green; 19 blue, 15 green, 6 red; 5 green, 18 blue; 1 green, 7 red, 9 blue; 14 green, 10 blue, 1 red
+-----------------------------------------------------
+ID:  42
+RED:  ['2', '3', '1', '7']
+LARGEST RED:  7
+GREEN:  ['3', '15', '15', '15']
+LARGEST GREEN:  15
+BLUE:  ['2', '1', '2']
+LARGEST BLUE:  2
+COLORS POWER:  210
+LINE:  Game 42: 2 red, 3 green; 2 blue, 3 red; 15 green, 1 blue; 2 blue, 15 green, 1 red; 7 red, 15 green
+-----------------------------------------------------
+ID:  43
+RED:  ['6', '3', '4', '1', '5']
+LARGEST RED:  6
+GREEN:  ['4', '4', '6', '7']
+LARGEST GREEN:  7
+BLUE:  ['9', '18', '7', '7', '8', '14']
+LARGEST BLUE:  18
+COLORS POWER:  756
+LINE:  Game 43: 4 green, 6 red, 9 blue; 4 green, 3 red, 18 blue; 6 green, 7 blue; 4 red, 7 blue; 8 blue, 7 green, 1 red; 5 red, 14 blue
+-----------------------------------------------------
+ID:  44
+RED:  ['5', '4']
+LARGEST RED:  5
+GREEN:  ['2', '1', '4']
+LARGEST GREEN:  4
+BLUE:  ['11', '8', '17']
+LARGEST BLUE:  17
+COLORS POWER:  340
+LINE:  Game 44: 2 green, 11 blue; 1 green, 5 red, 8 blue; 4 green, 17 blue, 4 red
+-----------------------------------------------------
+ID:  45
+RED:  ['2', '3', '3']
+LARGEST RED:  3
+GREEN:  ['3', '8', '11', '9', '3', '10']
+LARGEST GREEN:  11
+BLUE:  ['6', '12', '13', '13', '2', '2']
+LARGEST BLUE:  13
+COLORS POWER:  429
+LINE:  Game 45: 6 blue, 3 green, 2 red; 8 green, 12 blue, 3 red; 13 blue, 11 green; 13 blue, 9 green; 2 blue, 3 green, 3 red; 2 blue, 10 green
+-----------------------------------------------------
+ID:  46
+RED:  ['3', '1', '5']
+LARGEST RED:  5
+GREEN:  ['12', '2', '7']
+LARGEST GREEN:  12
+BLUE:  ['14', '10']
+LARGEST BLUE:  14
+COLORS POWER:  840
+LINE:  Game 46: 14 blue, 12 green, 3 red; 2 green, 1 red, 10 blue; 5 red, 7 green
+-----------------------------------------------------
+ID:  47
+RED:  ['1', '1', '1']
+LARGEST RED:  1
+GREEN:  ['3']
+LARGEST GREEN:  3
+BLUE:  ['15', '14', '16', '8']
+LARGEST BLUE:  16
+COLORS POWER:  48
+LINE:  Game 47: 15 blue, 1 red; 1 red, 14 blue; 1 red, 16 blue; 3 green, 8 blue
+-----------------------------------------------------
+ID:  48
+RED:  ['1', '2', '14']
+LARGEST RED:  14
+GREEN:  ['1', '8', '4']
+LARGEST GREEN:  8
+BLUE:  ['3', '8', '11']
+LARGEST BLUE:  11
+COLORS POWER:  1232
+LINE:  Game 48: 1 green, 3 blue, 1 red; 8 blue, 2 red, 8 green; 14 red, 4 green, 11 blue
+-----------------------------------------------------
+ID:  49
+RED:  ['6', '3', '6']
+LARGEST RED:  6
+GREEN:  ['2', '14']
+LARGEST GREEN:  14
+BLUE:  ['5', '11', '1']
+LARGEST BLUE:  11
+COLORS POWER:  924
+LINE:  Game 49: 6 red, 5 blue, 2 green; 3 red, 11 blue; 1 blue, 14 green, 6 red
+-----------------------------------------------------
+ID:  50
+RED:  ['7', '7', '2', '5']
+LARGEST RED:  7
+GREEN:  ['1', '7']
+LARGEST GREEN:  7
+BLUE:  ['7', '7', '13', '9']
+LARGEST BLUE:  13
+COLORS POWER:  637
+LINE:  Game 50: 7 red, 7 blue; 7 blue, 7 red; 13 blue, 1 green, 2 red; 7 green, 5 red, 9 blue
+-----------------------------------------------------
+ID:  51
+RED:  ['9', '16', '6', '11']
+LARGEST RED:  16
+GREEN:  ['1']
+LARGEST GREEN:  1
+BLUE:  ['4', '2', '6']
+LARGEST BLUE:  6
+COLORS POWER:  96
+LINE:  Game 51: 4 blue, 9 red, 1 green; 16 red; 2 blue, 6 red; 11 red, 6 blue
+-----------------------------------------------------
+ID:  52
+RED:  ['9', '4', '3']
+LARGEST RED:  9
+GREEN:  ['4', '16', '16']
+LARGEST GREEN:  16
+BLUE:  ['4', '5']
+LARGEST BLUE:  5
+COLORS POWER:  720
+LINE:  Game 52: 4 green, 4 blue, 9 red; 5 blue, 4 red, 16 green; 16 green, 3 red
+-----------------------------------------------------
+ID:  53
+RED:  ['12', '2', '17', '6']
+LARGEST RED:  17
+GREEN:  ['2', '5', '9', '4']
+LARGEST GREEN:  9
+BLUE:  ['15', '9', '2']
+LARGEST BLUE:  15
+COLORS POWER:  2295
+LINE:  Game 53: 2 green, 12 red; 2 red, 5 green, 15 blue; 9 blue, 17 red, 9 green; 2 blue, 6 red, 4 green
+-----------------------------------------------------
+ID:  54
+RED:  ['2', '3']
+LARGEST RED:  3
+GREEN:  ['5', '8', '9', '4']
+LARGEST GREEN:  9
+BLUE:  ['3', '3', '3', '1']
+LARGEST BLUE:  3
+COLORS POWER:  81
+LINE:  Game 54: 2 red, 3 blue, 5 green; 8 green, 3 blue; 9 green, 3 blue, 3 red; 1 blue, 4 green
+-----------------------------------------------------
+ID:  55
+RED:  ['12', '6', '20', '14', '15']
+LARGEST RED:  20
+GREEN:  ['6', '13', '7', '10', '9', '14']
+LARGEST GREEN:  14
+BLUE:  ['11', '10', '9', '7', '8']
+LARGEST BLUE:  11
+COLORS POWER:  3080
+LINE:  Game 55: 6 green, 11 blue, 12 red; 10 blue, 6 red, 13 green; 7 green, 9 blue; 10 green, 20 red, 7 blue; 9 green, 14 red, 8 blue; 14 green, 15 red
+-----------------------------------------------------
+ID:  56
+RED:  ['8', '13', '5', '16', '12']
+LARGEST RED:  16
+GREEN:  ['1', '1']
+LARGEST GREEN:  1
+BLUE:  ['1', '3', '3', '5', '4']
+LARGEST BLUE:  5
+COLORS POWER:  80
+LINE:  Game 56: 1 green, 8 red, 1 blue; 1 green, 3 blue, 13 red; 5 red, 3 blue; 5 blue, 16 red; 12 red, 4 blue
+-----------------------------------------------------
+ID:  57
+RED:  ['1', '1']
+LARGEST RED:  1
+GREEN:  ['7', '11', '7']
+LARGEST GREEN:  11
+BLUE:  ['5', '13', '4', '5']
+LARGEST BLUE:  13
+COLORS POWER:  143
+LINE:  Game 57: 7 green, 5 blue; 13 blue; 1 red, 11 green, 4 blue; 1 red, 7 green, 5 blue
+-----------------------------------------------------
+ID:  58
+RED:  ['9', '11', '3', '2', '1']
+LARGEST RED:  11
+GREEN:  ['6', '1', '6', '4', '6']
+LARGEST GREEN:  6
+BLUE:  ['14', '7', '9', '2', '11']
+LARGEST BLUE:  14
+COLORS POWER:  924
+LINE:  Game 58: 14 blue, 6 green, 9 red; 7 blue, 1 green, 11 red; 3 red, 9 blue, 6 green; 4 green, 2 red; 2 blue, 6 green; 11 blue, 1 red
+-----------------------------------------------------
+ID:  59
+RED:  ['6', '7', '7']
+LARGEST RED:  7
+GREEN:  ['5', '4', '15', '12', '3']
+LARGEST GREEN:  15
+BLUE:  ['1', '1', '1']
+LARGEST BLUE:  1
+COLORS POWER:  105
+LINE:  Game 59: 6 red, 1 blue, 5 green; 4 green; 15 green; 7 red, 1 blue, 12 green; 7 red, 1 blue, 3 green
+-----------------------------------------------------
+ID:  60
+RED:  ['6', '6', '1', '3', '9']
+LARGEST RED:  9
+GREEN:  ['2', '7', '3', '1', '5']
+LARGEST GREEN:  7
+BLUE:  ['3', '4', '4', '4']
+LARGEST BLUE:  4
+COLORS POWER:  252
+LINE:  Game 60: 3 blue, 6 red, 2 green; 7 green, 6 red, 4 blue; 3 green, 1 red, 4 blue; 3 red, 1 green; 9 red, 5 green, 4 blue
+-----------------------------------------------------
+ID:  61
+RED:  ['1', '2']
+LARGEST RED:  2
+GREEN:  ['1', '2', '1']
+LARGEST GREEN:  2
+BLUE:  ['3', '2']
+LARGEST BLUE:  3
+COLORS POWER:  12
+LINE:  Game 61: 1 green, 3 blue; 1 red, 2 green; 1 green, 2 blue, 2 red
+-----------------------------------------------------
+ID:  62
+RED:  ['14', '11', '5']
+LARGEST RED:  14
+GREEN:  ['10', '16', '5']
+LARGEST GREEN:  16
+BLUE:  ['15', '11', '12']
+LARGEST BLUE:  15
+COLORS POWER:  3360
+LINE:  Game 62: 10 green, 15 blue, 14 red; 11 blue, 11 red, 16 green; 5 red, 5 green, 12 blue
+-----------------------------------------------------
+ID:  63
+RED:  ['5', '2', '2']
+LARGEST RED:  5
+GREEN:  ['2']
+LARGEST GREEN:  2
+BLUE:  ['2', '7', '1']
+LARGEST BLUE:  7
+COLORS POWER:  70
+LINE:  Game 63: 2 blue, 5 red; 7 blue, 2 green, 2 red; 2 red, 1 blue
+-----------------------------------------------------
+ID:  64
+RED:  ['12', '13', '1']
+LARGEST RED:  13
+GREEN:  ['4', '2']
+LARGEST GREEN:  4
+BLUE:  ['9', '5', '7']
+LARGEST BLUE:  9
+COLORS POWER:  468
+LINE:  Game 64: 9 blue, 12 red, 4 green; 5 blue, 13 red; 1 red, 2 green, 7 blue
+-----------------------------------------------------
+ID:  65
+RED:  ['8', '5', '7', '11']
+LARGEST RED:  11
+GREEN:  ['13', '1', '10']
+LARGEST GREEN:  13
+BLUE:  ['4', '8', '5', '7']
+LARGEST BLUE:  8
+COLORS POWER:  1144
+LINE:  Game 65: 4 blue, 8 red; 13 green, 8 blue, 5 red; 1 green, 5 blue, 7 red; 11 red, 7 blue, 10 green
+-----------------------------------------------------
+ID:  66
+RED:  ['8', '9', '12']
+LARGEST RED:  12
+GREEN:  ['1']
+LARGEST GREEN:  1
+BLUE:  ['17', '7']
+LARGEST BLUE:  17
+COLORS POWER:  204
+LINE:  Game 66: 8 red, 17 blue; 1 green, 9 red, 7 blue; 12 red
+-----------------------------------------------------
+ID:  67
+RED:  ['3', '13', '2']
+LARGEST RED:  13
+GREEN:  ['12', '12', '9', '10']
+LARGEST GREEN:  12
+BLUE:  ['14', '15', '1']
+LARGEST BLUE:  15
+COLORS POWER:  2340
+LINE:  Game 67: 14 blue, 12 green, 3 red; 12 green; 9 green, 13 red, 15 blue; 2 red, 10 green, 1 blue
+-----------------------------------------------------
+ID:  68
+RED:  ['1']
+LARGEST RED:  1
+GREEN:  ['14', '14', '7', '7', '17', '4']
+LARGEST GREEN:  17
+BLUE:  ['11', '9', '9', '2', '4']
+LARGEST BLUE:  11
+COLORS POWER:  187
+LINE:  Game 68: 11 blue, 14 green; 14 green; 9 blue, 7 green, 1 red; 9 blue, 7 green; 17 green, 2 blue; 4 green, 4 blue
+-----------------------------------------------------
+ID:  69
+RED:  ['6', '11', '4', '6']
+LARGEST RED:  11
+GREEN:  ['14', '7', '8', '7']
+LARGEST GREEN:  14
+BLUE:  ['4', '10', '8', '7']
+LARGEST BLUE:  10
+COLORS POWER:  1540
+LINE:  Game 69: 4 blue, 14 green, 6 red; 11 red, 7 green, 10 blue; 4 red, 8 blue, 8 green; 7 green, 6 red, 7 blue
+-----------------------------------------------------
+ID:  70
+RED:  ['12', '5', '1', '9', '8']
+LARGEST RED:  12
+GREEN:  ['16', '16', '12', '4', '2']
+LARGEST GREEN:  16
+BLUE:  ['11', '15', '10', '8', '3']
+LARGEST BLUE:  15
+COLORS POWER:  2880
+LINE:  Game 70: 12 red, 16 green, 11 blue; 16 green, 15 blue, 5 red; 10 blue, 1 red, 12 green; 9 red, 8 blue, 4 green; 2 green, 8 red, 3 blue
+-----------------------------------------------------
+ID:  71
+RED:  ['8', '7', '7']
+LARGEST RED:  8
+GREEN:  ['5', '12', '11']
+LARGEST GREEN:  12
+BLUE:  ['1', '1']
+LARGEST BLUE:  1
+COLORS POWER:  96
+LINE:  Game 71: 8 red, 1 blue, 5 green; 12 green, 7 red; 11 green, 1 blue, 7 red
+-----------------------------------------------------
+ID:  72
+RED:  ['15', '3', '10', '15']
+LARGEST RED:  15
+GREEN:  ['5', '7', '1', '3']
+LARGEST GREEN:  7
+BLUE:  ['4', '6']
+LARGEST BLUE:  6
+COLORS POWER:  630
+LINE:  Game 72: 5 green, 15 red; 7 green, 3 red, 4 blue; 10 red, 1 green; 6 blue, 15 red, 3 green
+-----------------------------------------------------
+ID:  73
+RED:  ['5', '6', '11']
+LARGEST RED:  11
+GREEN:  ['1', '6']
+LARGEST GREEN:  6
+BLUE:  ['1', '3', '1']
+LARGEST BLUE:  3
+COLORS POWER:  198
+LINE:  Game 73: 1 green, 5 red, 1 blue; 6 red, 3 blue, 6 green; 11 red, 1 blue
+-----------------------------------------------------
+ID:  74
+RED:  ['5', '3', '7', '2', '3']
+LARGEST RED:  7
+GREEN:  ['3', '2', '1']
+LARGEST GREEN:  3
+BLUE:  ['1', '1']
+LARGEST BLUE:  1
+COLORS POWER:  21
+LINE:  Game 74: 5 red; 1 blue, 3 green, 3 red; 2 green, 7 red; 1 blue, 2 red; 3 red, 1 green
+-----------------------------------------------------
+ID:  75
+RED:  ['20', '14', '9', '15', '17', '11']
+LARGEST RED:  20
+GREEN:  ['10', '3', '13', '2', '2', '13']
+LARGEST GREEN:  13
+BLUE:  ['13', '5', '7', '1', '11', '13']
+LARGEST BLUE:  13
+COLORS POWER:  3380
+LINE:  Game 75: 13 blue, 20 red, 10 green; 3 green, 5 blue, 14 red; 9 red, 13 green, 7 blue; 1 blue, 15 red, 2 green; 11 blue, 2 green, 17 red; 11 red, 13 blue, 13 green
+-----------------------------------------------------
+ID:  76
+RED:  ['9', '7', '3', '4', '1']
+LARGEST RED:  9
+GREEN:  ['7', '8', '9', '1', '2']
+LARGEST GREEN:  9
+BLUE:  ['2', '2', '4', '3']
+LARGEST BLUE:  4
+COLORS POWER:  324
+LINE:  Game 76: 9 red, 7 green, 2 blue; 7 red, 2 blue, 8 green; 4 blue, 3 red, 9 green; 4 red, 1 green; 1 red, 2 green, 3 blue
+-----------------------------------------------------
+ID:  77
+RED:  ['5', '4', '6', '4']
+LARGEST RED:  6
+GREEN:  ['2', '12', '9', '3', '5']
+LARGEST GREEN:  12
+BLUE:  ['15', '2', '10', '7', '16']
+LARGEST BLUE:  16
+COLORS POWER:  1152
+LINE:  Game 77: 5 red, 2 green, 15 blue; 12 green, 4 red, 2 blue; 10 blue, 6 red, 9 green; 7 blue, 3 green; 16 blue, 4 red, 5 green
+-----------------------------------------------------
+ID:  78
+RED:  ['19', '1', '8', '16', '14', '11']
+LARGEST RED:  19
+GREEN:  ['3', '3', '8', '2']
+LARGEST GREEN:  8
+BLUE:  ['11', '3', '14', '8', '8', '12']
+LARGEST BLUE:  14
+COLORS POWER:  2128
+LINE:  Game 78: 11 blue, 3 green, 19 red; 3 blue, 1 red; 8 red, 14 blue, 3 green; 8 blue, 8 green, 16 red; 8 blue, 14 red; 12 blue, 11 red, 2 green
+-----------------------------------------------------
+ID:  79
+RED:  ['5', '13', '15', '4']
+LARGEST RED:  15
+GREEN:  ['1', '1', '1', '1']
+LARGEST GREEN:  1
+BLUE:  ['10', '3', '6', '6']
+LARGEST BLUE:  10
+COLORS POWER:  150
+LINE:  Game 79: 10 blue, 5 red, 1 green; 3 blue, 13 red; 15 red, 1 green; 4 red, 6 blue, 1 green; 1 green, 6 blue
+-----------------------------------------------------
+ID:  80
+RED:  ['7', '4', '2', '7', '2']
+LARGEST RED:  7
+GREEN:  ['1', '3', '2', '1', '1']
+LARGEST GREEN:  3
+BLUE:  ['1', '1', '1', '3']
+LARGEST BLUE:  3
+COLORS POWER:  63
+LINE:  Game 80: 7 red, 1 green, 1 blue; 1 blue, 4 red, 3 green; 2 red, 2 green; 7 red, 1 blue, 1 green; 2 red, 1 green, 3 blue
+-----------------------------------------------------
+ID:  81
+RED:  ['2', '1', '1', '1']
+LARGEST RED:  2
+GREEN:  ['12', '1', '11', '4']
+LARGEST GREEN:  12
+BLUE:  ['8', '1', '7', '12']
+LARGEST BLUE:  12
+COLORS POWER:  288
+LINE:  Game 81: 12 green, 2 red, 8 blue; 1 green, 1 blue, 1 red; 7 blue, 1 red, 11 green; 1 red, 12 blue, 4 green
+-----------------------------------------------------
+ID:  82
+RED:  ['18', '11', '18', '17', '14']
+LARGEST RED:  18
+GREEN:  ['4', '6', '11', '4', '15']
+LARGEST GREEN:  15
+BLUE:  ['5', '5', '4', '5']
+LARGEST BLUE:  5
+COLORS POWER:  1350
+LINE:  Game 82: 18 red, 5 blue, 4 green; 6 green, 11 red; 11 green, 18 red, 5 blue; 4 green, 17 red, 4 blue; 5 blue, 14 red, 15 green
+-----------------------------------------------------
+ID:  83
+RED:  ['4', '9', '9', '11']
+LARGEST RED:  11
+GREEN:  ['6', '4', '8', '13', '9']
+LARGEST GREEN:  13
+BLUE:  ['6', '7', '2', '2']
+LARGEST BLUE:  7
+COLORS POWER:  1001
+LINE:  Game 83: 4 red, 6 blue, 6 green; 9 red, 4 green; 8 green, 7 blue; 2 blue, 9 red, 13 green; 2 blue, 9 green, 11 red
+-----------------------------------------------------
+ID:  84
+RED:  ['1']
+LARGEST RED:  1
+GREEN:  ['4', '2', '3']
+LARGEST GREEN:  4
+BLUE:  ['15', '15', '16', '14', '16']
+LARGEST BLUE:  16
+COLORS POWER:  64
+LINE:  Game 84: 15 blue; 4 green, 1 red, 15 blue; 2 green, 16 blue; 3 green, 14 blue; 16 blue
+-----------------------------------------------------
+ID:  85
+RED:  ['3', '7']
+LARGEST RED:  7
+GREEN:  ['7', '17', '13', '8']
+LARGEST GREEN:  17
+BLUE:  ['8', '3', '4', '6']
+LARGEST BLUE:  8
+COLORS POWER:  952
+LINE:  Game 85: 3 red, 7 green, 8 blue; 3 blue, 17 green, 7 red; 13 green, 4 blue; 6 blue, 8 green
+-----------------------------------------------------
+ID:  86
+RED:  ['9', '8']
+LARGEST RED:  9
+GREEN:  ['16', '11', '17']
+LARGEST GREEN:  17
+BLUE:  ['6', '12', '4']
+LARGEST BLUE:  12
+COLORS POWER:  1836
+LINE:  Game 86: 16 green, 6 blue; 12 blue, 9 red, 11 green; 17 green, 4 blue, 8 red
+-----------------------------------------------------
+ID:  87
+RED:  ['13', '12']
+LARGEST RED:  13
+GREEN:  ['3', '2']
+LARGEST GREEN:  3
+BLUE:  ['6', '13', '1']
+LARGEST BLUE:  13
+COLORS POWER:  507
+LINE:  Game 87: 6 blue, 3 green, 13 red; 13 blue; 12 red, 2 green, 1 blue
+-----------------------------------------------------
+ID:  88
+RED:  ['6', '16', '2', '9', '2', '18']
+LARGEST RED:  18
+GREEN:  ['1', '2', '1', '2']
+LARGEST GREEN:  2
+BLUE:  ['2', '13', '11', '12', '5', '3']
+LARGEST BLUE:  13
+COLORS POWER:  468
+LINE:  Game 88: 6 red, 2 blue; 16 red, 13 blue, 1 green; 2 green, 11 blue, 2 red; 12 blue, 9 red, 1 green; 5 blue, 2 red, 2 green; 18 red, 3 blue
+-----------------------------------------------------
+ID:  89
+RED:  ['3']
+LARGEST RED:  3
+GREEN:  ['6', '4']
+LARGEST GREEN:  6
+BLUE:  ['5', '4', '5']
+LARGEST BLUE:  5
+COLORS POWER:  90
+LINE:  Game 89: 6 green, 5 blue; 4 green, 4 blue; 3 red, 5 blue
+-----------------------------------------------------
+ID:  90
+RED:  ['9', '8', '3', '2', '9']
+LARGEST RED:  9
+GREEN:  ['3', '2', '4', '1', '4', '3']
+LARGEST GREEN:  4
+BLUE:  ['8', '7', '2', '7', '4', '3']
+LARGEST BLUE:  8
+COLORS POWER:  288
+LINE:  Game 90: 3 green, 8 blue; 2 green, 7 blue, 9 red; 8 red, 2 blue, 4 green; 1 green, 3 red, 7 blue; 4 blue, 4 green, 2 red; 9 red, 3 blue, 3 green
+-----------------------------------------------------
+ID:  91
+RED:  ['9', '9', '8', '6', '10', '13']
+LARGEST RED:  13
+GREEN:  ['12', '11', '4', '9', '1', '15']
+LARGEST GREEN:  15
+BLUE:  ['1', '2', '1', '2', '2']
+LARGEST BLUE:  2
+COLORS POWER:  390
+LINE:  Game 91: 9 red, 12 green, 1 blue; 11 green, 9 red, 2 blue; 1 blue, 8 red, 4 green; 6 red, 9 green; 2 blue, 10 red, 1 green; 2 blue, 15 green, 13 red
+-----------------------------------------------------
+ID:  92
+RED:  ['11', '1', '1']
+LARGEST RED:  11
+GREEN:  ['3', '6', '4']
+LARGEST GREEN:  6
+BLUE:  ['16', '8', '5']
+LARGEST BLUE:  16
+COLORS POWER:  1056
+LINE:  Game 92: 3 green, 11 red, 16 blue; 8 blue, 1 red, 6 green; 4 green, 1 red, 5 blue
+-----------------------------------------------------
+ID:  93
+RED:  ['3', '2', '5']
+LARGEST RED:  5
+GREEN:  ['13', '17', '4']
+LARGEST GREEN:  17
+BLUE:  ['9', '9', '3', '8']
+LARGEST BLUE:  9
+COLORS POWER:  765
+LINE:  Game 93: 9 blue, 3 red, 13 green; 2 red, 9 blue; 3 blue, 17 green, 5 red; 4 green, 8 blue
+-----------------------------------------------------
+ID:  94
+RED:  ['3', '1', '7']
+LARGEST RED:  7
+GREEN:  ['9', '6', '8', '4']
+LARGEST GREEN:  9
+BLUE:  ['2', '4', '2', '2']
+LARGEST BLUE:  4
+COLORS POWER:  252
+LINE:  Game 94: 2 blue, 3 red, 9 green; 4 blue, 1 red, 6 green; 8 green, 2 blue; 4 green, 2 blue, 7 red
+-----------------------------------------------------
+ID:  95
+RED:  ['8', '4', '4', '5']
+LARGEST RED:  8
+GREEN:  ['5', '3', '3', '3']
+LARGEST GREEN:  5
+BLUE:  ['3', '4', '3', '2', '9']
+LARGEST BLUE:  9
+COLORS POWER:  360
+LINE:  Game 95: 5 green, 3 blue; 4 blue, 3 green, 8 red; 3 green, 4 red, 3 blue; 2 blue, 4 red; 9 blue, 5 red, 3 green
+-----------------------------------------------------
+ID:  96
+RED:  ['11', '13', '11']
+LARGEST RED:  13
+GREEN:  ['11', '10', '15', '10']
+LARGEST GREEN:  15
+BLUE:  ['5', '5', '1']
+LARGEST BLUE:  5
+COLORS POWER:  975
+LINE:  Game 96: 11 green; 10 green, 5 blue, 11 red; 5 blue, 13 red, 15 green; 10 green, 1 blue, 11 red
+-----------------------------------------------------
+ID:  97
+RED:  ['1', '1', '1']
+LARGEST RED:  1
+GREEN:  ['5', '7']
+LARGEST GREEN:  7
+BLUE:  ['6', '5', '3']
+LARGEST BLUE:  6
+COLORS POWER:  42
+LINE:  Game 97: 5 green, 6 blue, 1 red; 7 green, 1 red; 5 blue; 3 blue, 1 red
+-----------------------------------------------------
+ID:  98
+RED:  ['7', '3', '2', '6']
+LARGEST RED:  7
+GREEN:  ['5', '5', '8', '4']
+LARGEST GREEN:  8
+BLUE:  ['1', '1', '4', '1']
+LARGEST BLUE:  4
+COLORS POWER:  224
+LINE:  Game 98: 1 blue, 5 green, 7 red; 3 red, 5 green, 1 blue; 4 blue, 8 green, 2 red; 4 green, 1 blue, 6 red
+-----------------------------------------------------
+ID:  99
+RED:  ['3', '2']
+LARGEST RED:  3
+GREEN:  ['8', '2', '7', '1']
+LARGEST GREEN:  8
+BLUE:  ['12', '5', '1']
+LARGEST BLUE:  12
+COLORS POWER:  288
+LINE:  Game 99: 12 blue, 8 green; 2 green; 3 red, 7 green, 5 blue; 1 green, 1 blue, 2 red
+-----------------------------------------------------
+ID:  100
+RED:  ['14', '12', '2', '8', '14']
+LARGEST RED:  14
+GREEN:  ['1']
+LARGEST GREEN:  1
+BLUE:  ['4', '1', '2', '2', '3']
+LARGEST BLUE:  4
+COLORS POWER:  56
+LINE:  Game 100: 4 blue, 14 red; 12 red, 1 blue; 2 red, 2 blue; 8 red; 14 red, 2 blue, 1 green; 3 blue
+-----------------------------------------------------
+SUM OF POWER SETS: 63700
