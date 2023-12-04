@@ -3,30 +3,39 @@ LINE 1    .............65..................998.........453......................
 LINE AFTER  ............*..........125.......*...331......*.....................30.76......./...*....*..861.......*.........298*......*.........700.....
 NUM: 65
 .65.
+NUM: 65
+symbol, line after: *...
+HAS ADJACENT:  65
 NUM: 998
 .998.
 NUM: 998
-symbol, line after: *...3
+symbol, line after: .*...
 HAS ADJACENT:  998
 NUM: 453
 .453.
 NUM: 453
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  453
 NUM: 845
 .845.
 NUM: 845
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  845
 NUM: 773
 .773.
 NUM: 773
-symbol, line after: .*..8
+symbol, line after: ..*..
 HAS ADJACENT:  773
 NUM: 307
 .307.
+NUM: 307
+symbol, line after: *....
+HAS ADJACENT:  307
 NUM: 527
 .527.
+NUM: 527
+symbol, line after: *....
+HAS ADJACENT:  527
 NUM: 541
 .541
 LINE NUMBERS:  ['65', '998', '453', '845', '773', '307', '527', '541']
@@ -36,21 +45,24 @@ LINE AFTER  ................942.......*...874...*......407...558............752.
 NUM: 125
 .125.
 NUM: 125
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  125
 NUM: 331
 .331.
+NUM: 331
+symbol, line after: *....
+HAS ADJACENT:  331
 NUM: 30
 .30.
 NUM: 76
 .76.
 NUM: 76
-symbol, line after: ..*1
+symbol, line after: ...*
 HAS ADJACENT:  76
 NUM: 861
 .861.
 NUM: 861
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  861
 NUM: 298
 .298*
@@ -65,7 +77,7 @@ LINE AFTER  ....+............&.....593...........516............-....=.....*....
 NUM: 942
 .942.
 NUM: 942
-symbol, line after: .&...
+symbol, line after: ..&..
 HAS ADJACENT:  942
 NUM: 874
 .874.
@@ -80,10 +92,13 @@ HAS ADJACENT:  407
 NUM: 558
 .558.
 NUM: 558
-symbol, line after: ...-.
+symbol, line after: ....-
 HAS ADJACENT:  558
 NUM: 752
 .752.
+NUM: 752
+symbol, line after: *....
+HAS ADJACENT:  752
 NUM: 196
 *196.
 symbol before: *
@@ -132,7 +147,7 @@ HAS ADJACENT:  516
 NUM: 74
 .74.
 NUM: 74
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  74
 NUM: 377
 .377.
@@ -147,7 +162,7 @@ HAS ADJACENT:  157
 NUM: 128
 .128.
 NUM: 128
-symbol, line after: .../.
+symbol, line after: ..../
 HAS ADJACENT:  128
 NUM: 175
 .175*
@@ -165,17 +180,17 @@ HAS ADJACENT:  314
 NUM: 750
 .750.
 NUM: 750
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  750
 NUM: 497
 .497.
 NUM: 497
-symbol, line after: ...*3
+symbol, line after: ....*
 HAS ADJACENT:  497
 NUM: 258
 .258.
 NUM: 258
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  258
 NUM: 549
 .549.
@@ -190,7 +205,7 @@ HAS ADJACENT:  70
 NUM: 745
 .745.
 NUM: 745
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  745
 NUM: 289
 .289*
@@ -203,7 +218,7 @@ HAS ADJACENT:  418
 NUM: 351
 .351.
 NUM: 351
-symbol, line after: ..@..
+symbol, line after: ...@.
 HAS ADJACENT:  351
 NUM: 839
 .839.
@@ -219,7 +234,7 @@ NUM: 786
 NUM: 283
 .283.
 NUM: 283
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  283
 NUM: 366
 *366.
@@ -233,12 +248,12 @@ HAS ADJACENT:  899
 NUM: 652
 .652.
 NUM: 652
-symbol, line after: ...=.
+symbol, line after: ....=
 HAS ADJACENT:  652
 NUM: 219
 .219.
 NUM: 219
-symbol, line after: ..$..
+symbol, line after: ...$.
 HAS ADJACENT:  219
 LINE NUMBERS:  ['786', '283', '366', '899', '652', '219']
 LINE BEFORE ..........*.......786......283......*366..........*...............899.....*......................652.......@...219..........................
@@ -256,7 +271,7 @@ HAS ADJACENT:  249
 NUM: 866
 .866.
 NUM: 866
-symbol, line after: .+...
+symbol, line after: ..+..
 HAS ADJACENT:  866
 NUM: 797
 .797*
@@ -278,7 +293,7 @@ HAS ADJACENT:  252
 NUM: 686
 .686.
 NUM: 686
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  686
 LINE NUMBERS:  ['468', '249', '866', '797', '960', '234', '252', '686']
 LINE BEFORE ........468..=249..........*..........................866.797*960..........234.......252-.686.......=............$...................&......
@@ -287,12 +302,12 @@ LINE AFTER  .....-......835..@....*....................101.......*.......444....
 NUM: 386
 .386.
 NUM: 386
-symbol, line after: ...-.
+symbol, line after: ....-
 HAS ADJACENT:  386
 NUM: 582
 .582.
 NUM: 582
-symbol, line after: ....*
+symbol, line after: @....
 HAS ADJACENT:  582
 NUM: 681
 .681.
@@ -308,17 +323,23 @@ HAS ADJACENT:  369
 NUM: 969
 .969.
 NUM: 969
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  969
 NUM: 276
 .276.
 NUM: 276
-symbol, line after: .*..3
+symbol, line after: ..*..
 HAS ADJACENT:  276
 NUM: 873
 .873.
+NUM: 873
+symbol, line after: &....
+HAS ADJACENT:  873
 NUM: 824
 .824.
+NUM: 824
+symbol, line after: =....
+HAS ADJACENT:  824
 NUM: 627
 %627.
 symbol before: %
@@ -336,6 +357,9 @@ LINE 9    .....-......835..@....*....................101.......*.......444......
 LINE AFTER  ...........*.......513.45.125......................883.......*...............=.988.$.............962.*595.....................*....674.534..
 NUM: 835
 .835.
+NUM: 835
+symbol, line after: *....
+HAS ADJACENT:  835
 NUM: 101
 .101.
 NUM: 101
@@ -344,15 +368,18 @@ HAS ADJACENT:  101
 NUM: 444
 .444.
 NUM: 444
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  444
 NUM: 587
 .587.
 NUM: 587
-symbol, line after: ..=.9
+symbol, line after: ...=.
 HAS ADJACENT:  587
 NUM: 33
 .33.
+NUM: 33
+symbol, line after: $...
+HAS ADJACENT:  33
 NUM: 847
 .847.
 NUM: 847
@@ -386,6 +413,9 @@ symbol, line before: ...*.
 HAS ADJACENT:  988
 NUM: 962
 .962.
+NUM: 962
+symbol, line after: *....
+HAS ADJACENT:  962
 NUM: 595
 *595.
 symbol before: *
@@ -393,10 +423,13 @@ HAS ADJACENT:  595
 NUM: 674
 .674.
 NUM: 674
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  674
 NUM: 534
 .534.
+NUM: 534
+symbol, line after: *....
+HAS ADJACENT:  534
 LINE NUMBERS:  ['513', '45', '125', '883', '988', '962', '595', '674', '534']
 LINE BEFORE ...........*.......513.45.125......................883.......*...............=.988.$.............962.*595.....................*....674.534..
 LINE 11    ........180.........................891*129..957...........+.584......................291*59..71*..................../.....707.646....*.....
@@ -416,6 +449,9 @@ symbol before: *
 HAS ADJACENT:  129
 NUM: 957
 .957.
+NUM: 957
+symbol, line after: *....
+HAS ADJACENT:  957
 NUM: 584
 .584.
 NUM: 584
@@ -454,7 +490,7 @@ HAS ADJACENT:  530
 NUM: 610
 .610.
 NUM: 610
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  610
 NUM: 790
 .790.
@@ -464,12 +500,12 @@ HAS ADJACENT:  790
 NUM: 314
 .314.
 NUM: 314
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  314
 NUM: 991
 .991.
 NUM: 991
-symbol, line after: ..$.1
+symbol, line after: ...$.
 HAS ADJACENT:  991
 NUM: 231
 .231*
@@ -482,7 +518,7 @@ HAS ADJACENT:  926
 NUM: 29
 .29.
 NUM: 29
-symbol, line after: ..&.
+symbol, line after: ...&
 HAS ADJACENT:  29
 NUM: 870
 .870.
@@ -512,10 +548,13 @@ HAS ADJACENT:  537
 NUM: 139
 .139.
 NUM: 139
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  139
 NUM: 70
 .70.
+NUM: 70
+symbol, line after: -...
+HAS ADJACENT:  70
 NUM: 131
 .131.
 LINE NUMBERS:  ['132', '93', '537', '139', '70', '131']
@@ -525,7 +564,7 @@ LINE AFTER  .....*...508................&......615...........$.........964....*.
 NUM: 36
 .36.
 NUM: 36
-symbol, line after: ..*.
+symbol, line after: ...*
 HAS ADJACENT:  36
 NUM: 514
 .514%
@@ -538,6 +577,9 @@ symbol, line before: #...
 HAS ADJACENT:  99
 NUM: 684
 .684.
+NUM: 684
+symbol, line after: &....
+HAS ADJACENT:  684
 NUM: 21
 .21.
 NUM: 21
@@ -545,6 +587,9 @@ symbol, line before: .$..
 HAS ADJACENT:  21
 NUM: 852
 .852.
+NUM: 852
+symbol, line after: $....
+HAS ADJACENT:  852
 NUM: 886
 .886.
 NUM: 886
@@ -553,7 +598,7 @@ HAS ADJACENT:  886
 NUM: 191
 .191.
 NUM: 191
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  191
 NUM: 892
 .892.
@@ -565,7 +610,7 @@ NUM: 456
 NUM: 172
 .172.
 NUM: 172
-symbol, line after: ...*2
+symbol, line after: ....*
 HAS ADJACENT:  172
 LINE NUMBERS:  ['36', '514', '99', '684', '21', '852', '886', '191', '892', '456', '172']
 LINE BEFORE ...36.......#.514%.......99..684.......21.........852.886../...191.....892...........*....456..-.....172...../..............................
@@ -579,7 +624,7 @@ HAS ADJACENT:  508
 NUM: 615
 .615.
 NUM: 615
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  615
 NUM: 964
 .964.
@@ -603,12 +648,12 @@ HAS ADJACENT:  945
 NUM: 457
 .457.
 NUM: 457
-symbol, line after: ...*8
+symbol, line after: ....*
 HAS ADJACENT:  457
 NUM: 512
 .512.
 NUM: 512
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  512
 NUM: 880
 .880.
@@ -625,6 +670,9 @@ NUM: 430
 .430.
 NUM: 702
 .702.
+NUM: 702
+symbol, line after: *....
+HAS ADJACENT:  702
 NUM: 243
 .243.
 NUM: 243
@@ -633,10 +681,13 @@ HAS ADJACENT:  243
 NUM: 747
 .747.
 NUM: 747
-symbol, line after: -....
+symbol, line after: .-...
 HAS ADJACENT:  747
 NUM: 506
 .506.
+NUM: 506
+symbol, line after: =....
+HAS ADJACENT:  506
 NUM: 24
 .24
 NUM: 24
@@ -653,12 +704,12 @@ LINE AFTER  ........&..........#928....&../.......785..............971..585.....
 NUM: 988
 .988.
 NUM: 988
-symbol, line after: ..&..
+symbol, line after: ...&.
 HAS ADJACENT:  988
 NUM: 570
 .570.
 NUM: 570
-symbol, line after: /....
+symbol, line after: ./...
 HAS ADJACENT:  570
 NUM: 72
 .72.
@@ -671,13 +722,19 @@ symbol after: *
 HAS ADJACENT:  726
 NUM: 340
 .340.
+NUM: 340
+symbol, line after: +....
+HAS ADJACENT:  340
 NUM: 555
 .555.
 NUM: 555
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  555
 NUM: 526
 .526.
+NUM: 526
+symbol, line after: #....
+HAS ADJACENT:  526
 LINE NUMBERS:  ['988', '570', '72', '726', '340', '555', '526']
 LINE BEFORE .........................988..570........-..72....726*.................-........=.....340............*.555....526......................&....
 LINE 18    ........&..........#928....&../.......785..............971..585......................+............860....%...#..........628.....=....952....
@@ -694,10 +751,13 @@ HAS ADJACENT:  785
 NUM: 971
 .971.
 NUM: 971
-symbol, line after: *...%
+symbol, line after: .*...
 HAS ADJACENT:  971
 NUM: 585
 .585.
+NUM: 585
+symbol, line after: %....
+HAS ADJACENT:  585
 NUM: 860
 .860.
 NUM: 860
@@ -706,7 +766,7 @@ HAS ADJACENT:  860
 NUM: 628
 .628.
 NUM: 628
-symbol, line after: .=...
+symbol, line after: ..=..
 HAS ADJACENT:  628
 NUM: 952
 .952.
@@ -720,7 +780,7 @@ LINE AFTER  ....+...........248..-...40...................*521....897...........
 NUM: 165
 .165.
 NUM: 165
-symbol, line after: ..+..
+symbol, line after: ...+.
 HAS ADJACENT:  165
 NUM: 541
 .541.
@@ -732,7 +792,7 @@ NUM: 822
 NUM: 930
 .930.
 NUM: 930
-symbol, line after: ...*5
+symbol, line after: ....*
 HAS ADJACENT:  930
 NUM: 737
 *737.
@@ -756,12 +816,12 @@ LINE AFTER  ..................*...19..%...........674.....................110...
 NUM: 248
 .248.
 NUM: 248
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  248
 NUM: 40
 .40.
 NUM: 40
-symbol, line after: .%..
+symbol, line after: ..%.
 HAS ADJACENT:  40
 NUM: 521
 *521.
@@ -780,7 +840,7 @@ HAS ADJACENT:  698
 NUM: 558
 .558.
 NUM: 558
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  558
 NUM: 52
 *52
@@ -798,10 +858,13 @@ HAS ADJACENT:  19
 NUM: 674
 .674.
 NUM: 674
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  674
 NUM: 110
 .110.
+NUM: 110
+symbol, line after: #....
+HAS ADJACENT:  110
 NUM: 296
 *296.
 symbol before: *
@@ -826,13 +889,19 @@ symbol, line before: ...*.
 HAS ADJACENT:  753
 NUM: 199
 .199.
+NUM: 199
+symbol, line after: *....
+HAS ADJACENT:  199
 NUM: 353
 .353.
 NUM: 353
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  353
 NUM: 604
 .604.
+NUM: 604
+symbol, line after: *....
+HAS ADJACENT:  604
 NUM: 737
 .737.
 NUM: 737
@@ -841,7 +910,7 @@ HAS ADJACENT:  737
 NUM: 483
 .483.
 NUM: 483
-symbol, line after: .%...
+symbol, line after: ..%..
 HAS ADJACENT:  483
 NUM: 366
 .366.
@@ -853,7 +922,7 @@ HAS ADJACENT:  242
 NUM: 720
 .720.
 NUM: 720
-symbol, line after: ..#..
+symbol, line after: ...#.
 HAS ADJACENT:  720
 LINE NUMBERS:  ['753', '199', '353', '604', '737', '483', '366', '242', '720']
 LINE BEFORE ................753.....................*..............@.....#....199......353.604.....737.......483.366....242....720......................
@@ -862,7 +931,7 @@ LINE AFTER  ......*................*........*..............643............443..7
 NUM: 407
 .407.
 NUM: 407
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  407
 NUM: 973
 .973#
@@ -871,7 +940,7 @@ HAS ADJACENT:  973
 NUM: 352
 .352.
 NUM: 352
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  352
 NUM: 397
 .397.
@@ -885,15 +954,18 @@ symbol, line before: @....
 HAS ADJACENT:  144
 NUM: 799
 .799.
+NUM: 799
+symbol, line after: *....
+HAS ADJACENT:  799
 NUM: 845
 .845.
 NUM: 845
-symbol, line after: ..-..
+symbol, line after: ...-.
 HAS ADJACENT:  845
 NUM: 539
 .539.
 NUM: 539
-symbol, line after: .-...
+symbol, line after: ..-..
 HAS ADJACENT:  539
 LINE NUMBERS:  ['407', '973', '352', '397', '144', '799', '845', '539']
 LINE BEFORE ...407....973#...............352.........397............144......*............*............799....%..................#....845.......539.....
@@ -902,7 +974,7 @@ LINE AFTER  ...165.........3....599.943..840..424..268.389...*..........=.......
 NUM: 643
 .643.
 NUM: 643
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  643
 NUM: 443
 .443.
@@ -912,7 +984,7 @@ HAS ADJACENT:  443
 NUM: 726
 .726.
 NUM: 726
-symbol, line after: ...*8
+symbol, line after: ....*
 HAS ADJACENT:  726
 NUM: 939
 *939.
@@ -955,14 +1027,14 @@ HAS ADJACENT:  840
 NUM: 424
 .424.
 NUM: 424
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  424
 NUM: 268
 .268.
 NUM: 389
 .389.
 NUM: 389
-symbol, line after: ..+..
+symbol, line after: ...+.
 HAS ADJACENT:  389
 NUM: 83
 *83.
@@ -1004,7 +1076,7 @@ LINE AFTER  ...541....*.299.340.....@..+645.492.................................
 NUM: 163
 .163.
 NUM: 163
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  163
 NUM: 688
 .688.
@@ -1020,6 +1092,9 @@ NUM: 858
 .858.
 NUM: 137
 .137.
+NUM: 137
+symbol, line after: *....
+HAS ADJACENT:  137
 NUM: 681
 .681.
 NUM: 681
@@ -1041,7 +1116,7 @@ NUM: 541
 NUM: 299
 .299.
 NUM: 299
-symbol, line after: %....
+symbol, line after: .%...
 HAS ADJACENT:  299
 NUM: 340
 .340.
@@ -1063,6 +1138,9 @@ symbol after: *
 HAS ADJACENT:  830
 NUM: 897
 .897.
+NUM: 897
+symbol, line after: +....
+HAS ADJACENT:  897
 NUM: 782
 .782$
 symbol after: $
@@ -1070,7 +1148,7 @@ HAS ADJACENT:  782
 NUM: 352
 .352.
 NUM: 352
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  352
 LINE NUMBERS:  ['541', '299', '340', '645', '492', '830', '897', '782', '352']
 LINE BEFORE ...541....*.299.340.....@..+645.492...................................#....830*.................897.*.......782$...................352......
@@ -1089,7 +1167,7 @@ HAS ADJACENT:  549
 NUM: 500
 .500.
 NUM: 500
-symbol, line after: ..@..
+symbol, line after: ...@.
 HAS ADJACENT:  500
 NUM: 899
 .899.
@@ -1112,7 +1190,7 @@ HAS ADJACENT:  313
 NUM: 26
 .26.
 NUM: 26
-symbol, line after: =...
+symbol, line after: .=..
 HAS ADJACENT:  26
 NUM: 366
 .366.
@@ -1122,12 +1200,12 @@ HAS ADJACENT:  366
 NUM: 701
 .701.
 NUM: 701
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  701
 NUM: 330
 .330.
 NUM: 330
-symbol, line after: .&...
+symbol, line after: ..&..
 HAS ADJACENT:  330
 LINE NUMBERS:  ['740', '549', '500', '899', '671', '807', '334', '313', '26', '366', '701', '330']
 LINE BEFORE ........740.%........549..............500...-..899......671=.807.....334.......313...26........+....366.701.............330........*........
@@ -1136,10 +1214,13 @@ LINE AFTER  ......%....814.665.........*......573.....................69.......%
 NUM: 125
 .125.
 NUM: 125
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  125
 NUM: 928
 .928.
+NUM: 928
+symbol, line after: *....
+HAS ADJACENT:  928
 NUM: 243
 .243.
 NUM: 243
@@ -1148,12 +1229,12 @@ HAS ADJACENT:  243
 NUM: 225
 .225.
 NUM: 225
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  225
 NUM: 182
 .182.
 NUM: 182
-symbol, line after: ...*4
+symbol, line after: ....*
 HAS ADJACENT:  182
 NUM: 346
 .346.
@@ -1166,13 +1247,10 @@ LINE 30    ......%....814.665.........*......573.....................69.......%.
 LINE AFTER  ...............*...........383.........433.................*...........#22...........62..#569....396........736.....*708.......&....*.......
 NUM: 814
 .814.
-NUM: 814
-symbol, line after: ....*
-HAS ADJACENT:  814
 NUM: 665
 .665.
 NUM: 665
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  665
 NUM: 573
 .573.
@@ -1182,7 +1260,7 @@ HAS ADJACENT:  573
 NUM: 69
 .69.
 NUM: 69
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  69
 NUM: 484
 *484.
@@ -1196,15 +1274,18 @@ HAS ADJACENT:  64
 NUM: 910
 .910.
 NUM: 910
-symbol, line after: ...*7
+symbol, line after: ....*
 HAS ADJACENT:  910
 NUM: 273
 .273.
 NUM: 273
-symbol, line after: ..&..
+symbol, line after: ...&.
 HAS ADJACENT:  273
 NUM: 450
 .450.
+NUM: 450
+symbol, line after: *....
+HAS ADJACENT:  450
 LINE NUMBERS:  ['814', '665', '573', '69', '484', '64', '910', '273', '450']
 LINE BEFORE ......%....814.665.........*......573.....................69.......%.........*484.................+...64.........910.........273.....450....
 LINE 31    ...............*...........383.........433.................*...........#22...........62..#569....396........736.....*708.......&....*.......
@@ -1216,6 +1297,9 @@ symbol, line before: .*...
 HAS ADJACENT:  383
 NUM: 433
 .433.
+NUM: 433
+symbol, line after: *....
+HAS ADJACENT:  433
 NUM: 22
 #22.
 symbol before: #
@@ -1223,7 +1307,7 @@ HAS ADJACENT:  22
 NUM: 62
 .62.
 NUM: 62
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  62
 NUM: 569
 #569.
@@ -1237,7 +1321,7 @@ HAS ADJACENT:  396
 NUM: 736
 .736.
 NUM: 736
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  736
 NUM: 708
 *708.
@@ -1262,7 +1346,7 @@ HAS ADJACENT:  265
 NUM: 812
 .812.
 NUM: 812
-symbol, line after: .%...
+symbol, line after: ..%..
 HAS ADJACENT:  812
 NUM: 305
 .305*
@@ -1280,22 +1364,19 @@ LINE AFTER  ....../..*.....+.......=....*.....................*........517*24.-.
 NUM: 467
 .467.
 NUM: 467
-symbol, line after: ./..*
+symbol, line after: ../..
 HAS ADJACENT:  467
 NUM: 392
 .392.
 NUM: 392
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  392
 NUM: 936
 .936.
-NUM: 936
-symbol, line after: ....=
-HAS ADJACENT:  936
 NUM: 806
 .806.
 NUM: 806
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  806
 NUM: 373
 .373.
@@ -1310,7 +1391,7 @@ HAS ADJACENT:  929
 NUM: 463
 .463.
 NUM: 463
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  463
 NUM: 484
 .484.
@@ -1322,7 +1403,7 @@ NUM: 337
 NUM: 415
 .415.
 NUM: 415
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  415
 NUM: 465
 .465.
@@ -1383,7 +1464,7 @@ HAS ADJACENT:  438
 NUM: 482
 .482.
 NUM: 482
-symbol, line after: ...&.
+symbol, line after: ....&
 HAS ADJACENT:  482
 NUM: 200
 .200.
@@ -1407,17 +1488,17 @@ HAS ADJACENT:  847
 NUM: 548
 .548.
 NUM: 548
-symbol, line after: ..@..
+symbol, line after: ...@.
 HAS ADJACENT:  548
 NUM: 581
 .581.
 NUM: 581
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  581
 NUM: 909
 .909.
 NUM: 909
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  909
 NUM: 879
 .879.
@@ -1440,12 +1521,12 @@ HAS ADJACENT:  475
 NUM: 528
 .528.
 NUM: 528
-symbol, line after: ..#..
+symbol, line after: ...#.
 HAS ADJACENT:  528
 NUM: 578
 .578.
 NUM: 578
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  578
 NUM: 211
 .211.
@@ -1461,12 +1542,12 @@ LINE AFTER  552......762..#...................$..%......940......651...........4
 NUM: 802
 .802.
 NUM: 802
-symbol, line after: #....
+symbol, line after: .#...
 HAS ADJACENT:  802
 NUM: 250
 .250.
 NUM: 250
-symbol, line after: ...$.
+symbol, line after: ....$
 HAS ADJACENT:  250
 NUM: 229
 *229.
@@ -1474,6 +1555,9 @@ symbol before: *
 HAS ADJACENT:  229
 NUM: 923
 .923.
+NUM: 923
+symbol, line after: *....
+HAS ADJACENT:  923
 NUM: 635
 .635.
 NUM: 635
@@ -1488,17 +1572,17 @@ NUM: 552
 NUM: 762
 .762.
 NUM: 762
-symbol, line after: .$...
+symbol, line after: ..$..
 HAS ADJACENT:  762
 NUM: 940
 .940.
 NUM: 940
-symbol, line after: ...%.
+symbol, line after: ....%
 HAS ADJACENT:  940
 NUM: 651
 .651.
 NUM: 651
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  651
 NUM: 461
 .461.
@@ -1523,7 +1607,7 @@ HAS ADJACENT:  437
 NUM: 993
 .993.
 NUM: 993
-symbol, line after: #...3
+symbol, line after: .#...
 HAS ADJACENT:  993
 LINE NUMBERS:  ['552', '762', '940', '651', '461', '900', '654', '673', '437', '993']
 LINE BEFORE 552......762..#...................$..%......940......651...........461........900*.............654...673....................*437..993.......
@@ -1532,7 +1616,7 @@ LINE AFTER  ...581../...............$.........309.......*...........846.../..718
 NUM: 52
 .52.
 NUM: 52
-symbol, line after: $...
+symbol, line after: .$..
 HAS ADJACENT:  52
 NUM: 602
 .602.
@@ -1542,17 +1626,17 @@ HAS ADJACENT:  602
 NUM: 105
 .105.
 NUM: 105
-symbol, line after: ../..
+symbol, line after: .../.
 HAS ADJACENT:  105
 NUM: 938
 .938.
 NUM: 938
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  938
 NUM: 431
 .431.
 NUM: 431
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  431
 NUM: 157
 .157.
@@ -1562,7 +1646,7 @@ HAS ADJACENT:  157
 NUM: 310
 .310.
 NUM: 310
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  310
 LINE NUMBERS:  ['52', '602', '105', '938', '431', '157', '310']
 LINE BEFORE ..........$.............52............602......%........*...105..$.................938...431.............................157......#...310...
@@ -1571,7 +1655,7 @@ LINE AFTER  ......*.969.349..354.....................156.666....@...............
 NUM: 581
 .581.
 NUM: 581
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  581
 NUM: 309
 .309.
@@ -1592,10 +1676,13 @@ HAS ADJACENT:  568
 NUM: 261
 .261.
 NUM: 261
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  261
 NUM: 22
 .22.
+NUM: 22
+symbol, line after: *...
+HAS ADJACENT:  22
 NUM: 852
 -852.
 symbol before: -
@@ -1612,12 +1699,12 @@ HAS ADJACENT:  969
 NUM: 349
 .349.
 NUM: 349
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  349
 NUM: 354
 .354.
 NUM: 354
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  354
 NUM: 156
 .156.
@@ -1645,7 +1732,7 @@ HAS ADJACENT:  363
 NUM: 976
 .976.
 NUM: 976
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  976
 NUM: 871
 .871.
@@ -1696,7 +1783,7 @@ HAS ADJACENT:  906
 NUM: 926
 .926.
 NUM: 926
-symbol, line after: ..*.8
+symbol, line after: ...*.
 HAS ADJACENT:  926
 LINE NUMBERS:  ['60', '10', '684', '225', '248', '904', '638', '896', '906', '926']
 LINE BEFORE .....60.....*.......*....10...@..684#..............225....248.............904..........638$......896....%.................906.926...*.......
@@ -1720,7 +1807,7 @@ HAS ADJACENT:  103
 NUM: 703
 .703.
 NUM: 703
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  703
 NUM: 456
 .456.
@@ -1752,22 +1839,22 @@ LINE AFTER  .......*....*...135.......*...909.857.207-.602.....*.....*......=...
 NUM: 228
 .228.
 NUM: 228
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  228
 NUM: 589
 .589.
 NUM: 589
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  589
 NUM: 770
 .770.
 NUM: 770
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  770
 NUM: 588
 .588.
 NUM: 588
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  588
 NUM: 411
 .411.
@@ -1777,7 +1864,7 @@ HAS ADJACENT:  411
 NUM: 902
 .902.
 NUM: 902
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  902
 NUM: 645
 .645.
@@ -1793,12 +1880,12 @@ NUM: 135
 NUM: 909
 .909.
 NUM: 909
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  909
 NUM: 857
 .857.
 NUM: 857
-symbol, line after: ..$..
+symbol, line after: ...$.
 HAS ADJACENT:  857
 NUM: 207
 .207-
@@ -1812,12 +1899,12 @@ HAS ADJACENT:  602
 NUM: 358
 .358.
 NUM: 358
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  358
 NUM: 535
 .535.
 NUM: 535
-symbol, line after: ...%.
+symbol, line after: ....%
 HAS ADJACENT:  535
 NUM: 235
 /235.
@@ -1867,12 +1954,12 @@ HAS ADJACENT:  797
 NUM: 807
 .807.
 NUM: 807
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  807
 NUM: 34
 .34.
 NUM: 34
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  34
 NUM: 754
 .754.
@@ -1887,7 +1974,7 @@ HAS ADJACENT:  734
 NUM: 140
 .140.
 NUM: 140
-symbol, line after: ..=.%
+symbol, line after: ...=.
 HAS ADJACENT:  140
 NUM: 969
 .969
@@ -1911,12 +1998,12 @@ HAS ADJACENT:  232
 NUM: 530
 .530.
 NUM: 530
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  530
 NUM: 583
 .583.
 NUM: 583
-symbol, line after: ...$.
+symbol, line after: ....$
 HAS ADJACENT:  583
 NUM: 986
 .986.
@@ -1925,15 +2012,15 @@ symbol, line before: *....
 HAS ADJACENT:  986
 NUM: 186
 .186.
+NUM: 186
+symbol, line after: /....
+HAS ADJACENT:  186
 NUM: 881
 %881.
 symbol before: %
 HAS ADJACENT:  881
 NUM: 859
 .859.
-NUM: 859
-symbol, line after: ....#
-HAS ADJACENT:  859
 LINE NUMBERS:  ['919', '213', '232', '530', '583', '986', '186', '881', '859']
 LINE BEFORE .................919*213.....232............530..................583...................986....*...*.................186...=.%881..859.......
 LINE 48    ...937......881..........774......*345.......*......894#...644*.....$....588.................520..323..218...%...../..................#.....
@@ -1941,14 +2028,17 @@ LINE AFTER  .....-.401.*.......359.....*....19.........728.................670..
 NUM: 937
 .937.
 NUM: 937
-symbol, line after: ..-.4
+symbol, line after: ...-.
 HAS ADJACENT:  937
 NUM: 881
 .881.
+NUM: 881
+symbol, line after: *....
+HAS ADJACENT:  881
 NUM: 774
 .774.
 NUM: 774
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  774
 NUM: 345
 *345.
@@ -1976,6 +2066,9 @@ symbol, line before: .*...
 HAS ADJACENT:  323
 NUM: 218
 .218.
+NUM: 218
+symbol, line after: *....
+HAS ADJACENT:  218
 LINE NUMBERS:  ['937', '881', '774', '345', '894', '644', '588', '520', '323', '218']
 LINE BEFORE ...937......881..........774......*345.......*......894#...644*.....$....588.................520..323..218...%...../..................#.....
 LINE 49    .....-.401.*.......359.....*....19.........728.................670.................674.511*...........*......580........203%.........470....
@@ -1983,12 +2076,12 @@ LINE AFTER  ........*..610......-.......836.....299.........832.................
 NUM: 401
 .401.
 NUM: 401
-symbol, line after: .*..6
+symbol, line after: ..*..
 HAS ADJACENT:  401
 NUM: 359
 .359.
 NUM: 359
-symbol, line after: .-...
+symbol, line after: ..-..
 HAS ADJACENT:  359
 NUM: 19
 .19.
@@ -2044,12 +2137,12 @@ NUM: 299
 NUM: 832
 .832.
 NUM: 832
-symbol, line after: .#...
+symbol, line after: ..#..
 HAS ADJACENT:  832
 NUM: 690
 .690.
 NUM: 690
-symbol, line after: -...5
+symbol, line after: .-...
 HAS ADJACENT:  690
 NUM: 528
 .528.
@@ -2073,24 +2166,33 @@ HAS ADJACENT:  991
 NUM: 365
 .365.
 NUM: 365
-symbol, line after: .+...
+symbol, line after: ..+..
 HAS ADJACENT:  365
 NUM: 447
 .447.
+NUM: 447
+symbol, line after: *....
+HAS ADJACENT:  447
 NUM: 857
 .857.
+NUM: 857
+symbol, line after: *....
+HAS ADJACENT:  857
 NUM: 227
 .227.
 NUM: 227
-symbol, line after: =....
+symbol, line after: .=...
 HAS ADJACENT:  227
 NUM: 605
 .605.
 NUM: 605
-symbol, line after: ...*2
+symbol, line after: ....*
 HAS ADJACENT:  605
 NUM: 599
 .599.
+NUM: 599
+symbol, line after: *....
+HAS ADJACENT:  599
 NUM: 602
 *602.
 symbol before: *
@@ -2098,12 +2200,12 @@ HAS ADJACENT:  602
 NUM: 529
 .529.
 NUM: 529
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  529
 NUM: 10
 .10.
 NUM: 10
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  10
 LINE NUMBERS:  ['991', '365', '447', '857', '227', '605', '599', '602', '529', '10']
 LINE BEFORE ......991......#.......365................447....#...857...227.605.........%.-...599.........................*602...529...........10........
@@ -2130,7 +2232,7 @@ HAS ADJACENT:  417
 NUM: 653
 .653.
 NUM: 653
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  653
 NUM: 412
 .412.
@@ -2152,7 +2254,7 @@ LINE AFTER  ......-.....+...536.........$..969............519.......448........2
 NUM: 494
 .494.
 NUM: 494
-symbol, line after: .-...
+symbol, line after: ..-..
 HAS ADJACENT:  494
 NUM: 552
 .552.
@@ -2175,7 +2277,7 @@ HAS ADJACENT:  520
 NUM: 80
 .80.
 NUM: 80
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  80
 NUM: 174
 .174.
@@ -2194,7 +2296,7 @@ LINE AFTER  ..373.....930.....*......298.............76+.....*...@.....*......*.
 NUM: 536
 .536.
 NUM: 536
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  536
 NUM: 969
 .969.
@@ -2204,15 +2306,18 @@ HAS ADJACENT:  969
 NUM: 519
 .519.
 NUM: 519
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  519
 NUM: 448
 .448.
 NUM: 448
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  448
 NUM: 251
 .251.
+NUM: 251
+symbol, line after: *....
+HAS ADJACENT:  251
 NUM: 794
 .794.
 NUM: 794
@@ -2221,7 +2326,7 @@ HAS ADJACENT:  794
 NUM: 701
 .701.
 NUM: 701
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  701
 LINE NUMBERS:  ['536', '969', '519', '448', '251', '794', '701']
 LINE BEFORE ......-.....+...536.........$..969............519.......448........251..............$...794.....................*.........701...............
@@ -2230,7 +2335,7 @@ LINE AFTER  .....*........518..575...........957.112.......479.579....288..306..
 NUM: 373
 .373.
 NUM: 373
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  373
 NUM: 930
 .930.
@@ -2262,10 +2367,13 @@ symbol, line before: ...*
 HAS ADJACENT:  96
 NUM: 40
 .40.
+NUM: 40
+symbol, line after: *...
+HAS ADJACENT:  40
 NUM: 574
 .574.
 NUM: 574
-symbol, line after: #...=
+symbol, line after: .#...
 HAS ADJACENT:  574
 LINE NUMBERS:  ['373', '930', '298', '76', '856', '899', '96', '40', '574']
 LINE BEFORE ..373.....930.....*......298.............76+.....*...@.....*......*................856......@899..............96..40......*.......574.......
@@ -2273,6 +2381,9 @@ LINE 56    .....*........518..575...........957.112.......479.579....288..306...
 LINE AFTER  ...698.......*..........329.....$....*......92........................203..........168.....................*..346....*..........*...........
 NUM: 518
 .518.
+NUM: 518
+symbol, line after: *....
+HAS ADJACENT:  518
 NUM: 575
 .575.
 NUM: 575
@@ -2281,12 +2392,12 @@ HAS ADJACENT:  575
 NUM: 957
 .957.
 NUM: 957
-symbol, line after: ....*
+symbol, line after: $....
 HAS ADJACENT:  957
 NUM: 112
 .112.
 NUM: 112
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  112
 NUM: 479
 .479.
@@ -2315,14 +2426,17 @@ HAS ADJACENT:  817
 NUM: 785
 .785.
 NUM: 785
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  785
 NUM: 9
 .9
+NUM: 9
+symbol, line after: $.
+HAS ADJACENT:  9
 NUM: 127
 .127.
 NUM: 127
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  127
 NUM: 907
 =907.
@@ -2341,6 +2455,9 @@ NUM: 329
 .329.
 NUM: 92
 .92.
+NUM: 92
+symbol, line after: *...
+HAS ADJACENT:  92
 NUM: 203
 .203.
 NUM: 203
@@ -2360,7 +2477,7 @@ LINE AFTER  .........%................465-.............297..............193.259.
 NUM: 470
 .470.
 NUM: 470
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  470
 NUM: 68
 .68/
@@ -2387,6 +2504,9 @@ symbol, line before: ..*.
 HAS ADJACENT:  92
 NUM: 20
 .20.
+NUM: 20
+symbol, line after: *...
+HAS ADJACENT:  20
 NUM: 784
 .784.
 NUM: 784
@@ -2416,14 +2536,17 @@ HAS ADJACENT:  297
 NUM: 193
 .193.
 NUM: 193
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  193
 NUM: 259
 .259.
+NUM: 259
+symbol, line after: *....
+HAS ADJACENT:  259
 NUM: 17
 .17.
 NUM: 17
-symbol, line after: ..*7
+symbol, line after: ...*
 HAS ADJACENT:  17
 LINE NUMBERS:  ['465', '297', '193', '259', '17']
 LINE BEFORE .........%................465-.............297..............193.259.............................................17.........*................
@@ -2432,12 +2555,12 @@ LINE AFTER  ......900.....261..........722.553.....284*513......*429............
 NUM: 580
 .580.
 NUM: 580
-symbol, line after: ...%.
+symbol, line after: ....%
 HAS ADJACENT:  580
 NUM: 763
 .763.
 NUM: 763
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  763
 NUM: 747
 *747.
@@ -2451,12 +2574,12 @@ HAS ADJACENT:  519
 NUM: 628
 .628.
 NUM: 628
-symbol, line after: $....
+symbol, line after: .$...
 HAS ADJACENT:  628
 NUM: 647
 .647.
 NUM: 647
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  647
 LINE NUMBERS:  ['580', '763', '747', '519', '628', '647']
 LINE BEFORE .............*.................................................*.......*............580.......763.......@.........*747....519....628..647...
@@ -2465,7 +2588,7 @@ LINE AFTER  ........#........................................932......413....414
 NUM: 900
 .900.
 NUM: 900
-symbol, line after: ..#..
+symbol, line after: ...#.
 HAS ADJACENT:  900
 NUM: 261
 .261.
@@ -2496,7 +2619,7 @@ HAS ADJACENT:  155
 NUM: 914
 .914.
 NUM: 914
-symbol, line after: ..+..
+symbol, line after: ...+.
 HAS ADJACENT:  914
 NUM: 468
 .468.
@@ -2515,12 +2638,12 @@ HAS ADJACENT:  932
 NUM: 413
 .413.
 NUM: 413
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  413
 NUM: 414
 .414.
 NUM: 414
-symbol, line after: ...*9
+symbol, line after: ....*
 HAS ADJACENT:  414
 NUM: 829
 .829.
@@ -2539,10 +2662,13 @@ symbol, line before: .*...
 HAS ADJACENT:  527
 NUM: 382
 .382.
+NUM: 382
+symbol, line after: #....
+HAS ADJACENT:  382
 NUM: 835
 .835.
 NUM: 835
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  835
 NUM: 744
 .744.
@@ -2566,22 +2692,22 @@ HAS ADJACENT:  37
 NUM: 207
 .207.
 NUM: 207
-symbol, line after: ..$..
+symbol, line after: ...$.
 HAS ADJACENT:  207
 NUM: 676
 .676.
 NUM: 676
-symbol, line after: /...*
+symbol, line after: ./...
 HAS ADJACENT:  676
 NUM: 297
 .297.
 NUM: 297
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  297
 NUM: 422
 .422.
 NUM: 422
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  422
 NUM: 993
 *993.
@@ -2594,7 +2720,7 @@ NUM: 945
 NUM: 686
 .686.
 NUM: 686
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  686
 LINE NUMBERS:  ['918', '103', '37', '207', '676', '297', '422', '993', '140', '945', '686']
 LINE BEFORE ....918......103*37..207...676.297........422..............*........*993................140...................945.#.......*...686...........
@@ -2603,7 +2729,7 @@ LINE AFTER  .........&........414.........41.........*..673......543..........84
 NUM: 423
 .423.
 NUM: 423
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  423
 NUM: 459
 .459=
@@ -2626,7 +2752,7 @@ LINE AFTER  .....615..55.........+......+........%.859...............@363.......
 NUM: 414
 .414.
 NUM: 414
-symbol, line after: ...+.
+symbol, line after: ....+
 HAS ADJACENT:  414
 NUM: 41
 .41
@@ -2655,7 +2781,7 @@ HAS ADJACENT:  388
 NUM: 792
 .792.
 NUM: 792
-symbol, line after: .*..8
+symbol, line after: ..*..
 HAS ADJACENT:  792
 NUM: 700
 .700*
@@ -2683,7 +2809,7 @@ LINE AFTER  ......../....................775..467..........700..............*492
 NUM: 615
 .615.
 NUM: 615
-symbol, line after: .../.
+symbol, line after: ..../
 HAS ADJACENT:  615
 NUM: 55
 .55.
@@ -2731,7 +2857,7 @@ HAS ADJACENT:  467
 NUM: 700
 .700.
 NUM: 700
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  700
 NUM: 492
 *492.
@@ -2740,7 +2866,7 @@ HAS ADJACENT:  492
 NUM: 862
 .862.
 NUM: 862
-symbol, line after: /...2
+symbol, line after: ./...
 HAS ADJACENT:  862
 NUM: 266
 .266.
@@ -2750,14 +2876,14 @@ HAS ADJACENT:  266
 NUM: 319
 .319.
 NUM: 319
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  319
 NUM: 88
 .88.
 NUM: 724
 .724.
 NUM: 724
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  724
 NUM: 291
 .291
@@ -2769,10 +2895,13 @@ NUM: 942
 .942.
 NUM: 530
 .530.
+NUM: 530
+symbol, line after: +....
+HAS ADJACENT:  530
 NUM: 259
 .259.
 NUM: 259
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  259
 NUM: 872
 .872.
@@ -2787,7 +2916,7 @@ HAS ADJACENT:  157
 NUM: 287
 .287.
 NUM: 287
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  287
 NUM: 687
 #687.
@@ -2800,7 +2929,7 @@ HAS ADJACENT:  438
 NUM: 233
 .233.
 NUM: 233
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  233
 LINE NUMBERS:  ['942', '530', '259', '872', '157', '287', '687', '438', '233']
 LINE BEFORE ........................942.............530....*.....#.259...872........157./...287...........#687..*..../...........438$........*..233.....
@@ -2811,10 +2940,13 @@ NUM: 641
 NUM: 534
 .534.
 NUM: 534
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  534
 NUM: 546
 .546.
+NUM: 546
+symbol, line after: *....
+HAS ADJACENT:  546
 NUM: 802
 .802.
 NUM: 802
@@ -2841,6 +2973,9 @@ LINE 70    ....604.......158........818....*.........................947........
 LINE AFTER  ...%....2................*............/..........................162....27.....$.......#860.284.....*540..309...+...........................
 NUM: 604
 .604.
+NUM: 604
+symbol, line after: %....
+HAS ADJACENT:  604
 NUM: 158
 .158.
 NUM: 158
@@ -2849,7 +2984,7 @@ HAS ADJACENT:  158
 NUM: 818
 .818.
 NUM: 818
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  818
 NUM: 947
 .947.
@@ -2859,7 +2994,7 @@ HAS ADJACENT:  947
 NUM: 24
 .24.
 NUM: 24
-symbol, line after: ..$.
+symbol, line after: ...$
 HAS ADJACENT:  24
 NUM: 516
 .516.
@@ -2869,12 +3004,12 @@ HAS ADJACENT:  516
 NUM: 332
 .332.
 NUM: 332
-symbol, line after: ...*5
+symbol, line after: ....*
 HAS ADJACENT:  332
 NUM: 573
 .573.
 NUM: 573
-symbol, line after: .+...
+symbol, line after: ..+..
 HAS ADJACENT:  573
 NUM: 697
 .697.
@@ -2907,7 +3042,7 @@ HAS ADJACENT:  540
 NUM: 309
 .309.
 NUM: 309
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  309
 LINE NUMBERS:  ['2', '162', '27', '860', '284', '540', '309']
 LINE BEFORE ...%....2................*............/..........................162....27.....$.......#860.284.....*540..309...+...........................
@@ -2929,6 +3064,9 @@ NUM: 469
 .469.
 NUM: 49
 .49.
+NUM: 49
+symbol, line after: *...
+HAS ADJACENT:  49
 NUM: 641
 .641.
 NUM: 644
@@ -2938,7 +3076,7 @@ HAS ADJACENT:  644
 NUM: 128
 .128.
 NUM: 128
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  128
 LINE NUMBERS:  ['678', '337', '105', '469', '49', '641', '644', '128']
 LINE BEFORE ........................678........337........105.469.......49.....................641.....................*......644$..............128.....
@@ -2947,7 +3085,7 @@ LINE AFTER  ....+..............369......814.........#.......359...........-.....
 NUM: 386
 .386.
 NUM: 386
-symbol, line after: #....
+symbol, line after: .#...
 HAS ADJACENT:  386
 NUM: 203
 .203*
@@ -2956,14 +3094,17 @@ HAS ADJACENT:  203
 NUM: 497
 .497.
 NUM: 497
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  497
 NUM: 404
 .404.
+NUM: 404
+symbol, line after: *....
+HAS ADJACENT:  404
 NUM: 795
 .795.
 NUM: 795
-symbol, line after: ...*2
+symbol, line after: ....*
 HAS ADJACENT:  795
 NUM: 670
 .670.
@@ -2979,19 +3120,19 @@ HAS ADJACENT:  369
 NUM: 814
 .814.
 NUM: 814
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  814
 NUM: 359
 .359.
 NUM: 41
 .41.
 NUM: 41
-symbol, line after: ..+.
+symbol, line after: ...+
 HAS ADJACENT:  41
 NUM: 353
 .353.
 NUM: 353
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  353
 NUM: 263
 *263.
@@ -3027,7 +3168,7 @@ HAS ADJACENT:  195
 NUM: 456
 .456.
 NUM: 456
-symbol, line after: *...2
+symbol, line after: .*...
 HAS ADJACENT:  456
 NUM: 379
 .379.
@@ -3037,7 +3178,7 @@ HAS ADJACENT:  379
 NUM: 790
 .790.
 NUM: 790
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  790
 NUM: 987
 .987.
@@ -3061,7 +3202,7 @@ HAS ADJACENT:  689
 NUM: 296
 .296.
 NUM: 296
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  296
 NUM: 599
 .599.
@@ -3076,12 +3217,12 @@ HAS ADJACENT:  689
 NUM: 829
 .829.
 NUM: 829
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  829
 NUM: 910
 .910.
 NUM: 910
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  910
 LINE NUMBERS:  ['565', '689', '296', '599', '689', '829', '910']
 LINE BEFORE ....................565................689......................*...296.........................599..689.829...*..............$....910......
@@ -3091,6 +3232,9 @@ NUM: 513
 513.
 NUM: 721
 .721.
+NUM: 721
+symbol, line after: =....
+HAS ADJACENT:  721
 NUM: 645
 .645*
 symbol after: *
@@ -3102,7 +3246,7 @@ HAS ADJACENT:  343
 NUM: 105
 .105.
 NUM: 105
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  105
 NUM: 1
 1
@@ -3137,7 +3281,7 @@ NUM: 272
 NUM: 242
 .242.
 NUM: 242
-symbol, line after: ..#..
+symbol, line after: ...#.
 HAS ADJACENT:  242
 NUM: 306
 .306.
@@ -3161,7 +3305,7 @@ LINE AFTER  ....354.........+....................561........*..........73.....33
 NUM: 190
 .190.
 NUM: 190
-symbol, line after: ..+..
+symbol, line after: ...+.
 HAS ADJACENT:  190
 NUM: 88
 .88#
@@ -3170,7 +3314,7 @@ HAS ADJACENT:  88
 NUM: 229
 .229.
 NUM: 229
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  229
 NUM: 310
 .310.
@@ -3180,7 +3324,7 @@ HAS ADJACENT:  310
 NUM: 330
 .330.
 NUM: 330
-symbol, line after: ....$
+symbol, line after: *....
 HAS ADJACENT:  330
 NUM: 149
 .149*
@@ -3189,27 +3333,27 @@ HAS ADJACENT:  149
 NUM: 89
 .89.
 NUM: 89
-symbol, line after: ..-.
+symbol, line after: ...-
 HAS ADJACENT:  89
 NUM: 333
 .333.
 NUM: 333
-symbol, line after: .+...
+symbol, line after: ..+..
 HAS ADJACENT:  333
 NUM: 771
 .771.
 NUM: 771
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  771
 NUM: 701
 .701.
 NUM: 701
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  701
 NUM: 522
 .522.
 NUM: 522
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  522
 LINE NUMBERS:  ['190', '88', '229', '310', '330', '149', '89', '333', '771', '701', '522']
 LINE BEFORE ..............190...............88#.%.........229......310....#.......330...........149*.........89.......333.....771.....701..........522..
@@ -3218,7 +3362,7 @@ LINE AFTER  .......*.............948..844......#.......556...51.........*.......
 NUM: 354
 .354.
 NUM: 354
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  354
 NUM: 561
 .561.
@@ -3228,7 +3372,7 @@ HAS ADJACENT:  561
 NUM: 73
 .73.
 NUM: 73
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  73
 NUM: 336
 .336*
@@ -3240,9 +3384,6 @@ symbol before: $
 HAS ADJACENT:  40
 NUM: 906
 .906.
-NUM: 906
-symbol, line after: ....=
-HAS ADJACENT:  906
 NUM: 16
 .16.
 NUM: 16
@@ -3256,15 +3397,18 @@ LINE 81    .......*.............948..844......#.......556...51.........*........
 LINE AFTER  ........535.796.....*......#......907.........%......286...918....714..............688.232.................51......................284......
 NUM: 948
 .948.
+NUM: 948
+symbol, line after: *....
+HAS ADJACENT:  948
 NUM: 844
 .844.
 NUM: 844
-symbol, line after: .#...
+symbol, line after: ..#..
 HAS ADJACENT:  844
 NUM: 556
 .556.
 NUM: 556
-symbol, line after: ...%.
+symbol, line after: ....%
 HAS ADJACENT:  556
 NUM: 51
 .51.
@@ -3286,6 +3430,9 @@ symbol after: =
 HAS ADJACENT:  644
 NUM: 9
 .9
+NUM: 9
+symbol, line after: *.
+HAS ADJACENT:  9
 NUM: 686
 .686.
 NUM: 686
@@ -3303,7 +3450,7 @@ HAS ADJACENT:  535
 NUM: 796
 .796.
 NUM: 796
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  796
 NUM: 907
 .907.
@@ -3313,7 +3460,7 @@ HAS ADJACENT:  907
 NUM: 286
 .286.
 NUM: 286
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  286
 NUM: 918
 .918.
@@ -3322,6 +3469,9 @@ symbol, line before: ..*..
 HAS ADJACENT:  918
 NUM: 714
 .714.
+NUM: 714
+symbol, line after: *....
+HAS ADJACENT:  714
 NUM: 688
 .688.
 NUM: 688
@@ -3330,7 +3480,7 @@ HAS ADJACENT:  688
 NUM: 232
 .232.
 NUM: 232
-symbol, line after: .../.
+symbol, line after: ..../
 HAS ADJACENT:  232
 NUM: 51
 .51.
@@ -3340,7 +3490,7 @@ HAS ADJACENT:  51
 NUM: 284
 .284.
 NUM: 284
-symbol, line after: $....
+symbol, line after: .$...
 HAS ADJACENT:  284
 LINE NUMBERS:  ['535', '796', '907', '286', '918', '714', '688', '232', '51', '284']
 LINE BEFORE ........535.796.....*......#......907.........%......286...918....714..............688.232.................51......................284......
@@ -3360,12 +3510,12 @@ NUM: 292
 NUM: 453
 .453.
 NUM: 453
-symbol, line after: =....
+symbol, line after: .=...
 HAS ADJACENT:  453
 NUM: 913
 .913.
 NUM: 913
-symbol, line after: /....
+symbol, line after: ./...
 HAS ADJACENT:  913
 NUM: 810
 .810.
@@ -3403,6 +3553,9 @@ symbol, line before: ...=.
 HAS ADJACENT:  461
 NUM: 162
 .162.
+NUM: 162
+symbol, line after: *....
+HAS ADJACENT:  162
 NUM: 991
 .991/
 symbol after: /
@@ -3422,7 +3575,7 @@ HAS ADJACENT:  654
 NUM: 705
 .705.
 NUM: 705
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  705
 NUM: 385
 .385.
@@ -3455,12 +3608,12 @@ HAS ADJACENT:  482
 NUM: 619
 .619.
 NUM: 619
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  619
 NUM: 19
 19.
 NUM: 19
-symbol, line after: %..
+symbol, line after: .%.
 HAS ADJACENT:  19
 NUM: 239
 *239.
@@ -3474,7 +3627,7 @@ HAS ADJACENT:  187
 NUM: 993
 .993.
 NUM: 993
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  993
 NUM: 718
 .718.
@@ -3484,8 +3637,7 @@ HAS ADJACENT:  718
 NUM: 884
 .884.
 NUM: 884
-symbol, line after: *...
-
+symbol, line after: .*...
 HAS ADJACENT:  884
 LINE NUMBERS:  ['444', '482', '619', '19', '239', '187', '993', '718', '884']
 LINE BEFORE .444/.482.................................*.....................619.....19*239.....187.993......................*............718........884.
@@ -3494,17 +3646,17 @@ LINE AFTER  ......820@......%....@.%.........343..61........*.......-.663.......
 NUM: 906
 .906.
 NUM: 906
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  906
 NUM: 182
 .182.
 NUM: 182
-symbol, line after: ...@.
+symbol, line after: ....@
 HAS ADJACENT:  182
 NUM: 473
 .473.
 NUM: 473
-symbol, line after: %....
+symbol, line after: .%...
 HAS ADJACENT:  473
 NUM: 58
 .58.
@@ -3514,14 +3666,14 @@ HAS ADJACENT:  58
 NUM: 407
 .407.
 NUM: 407
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  407
 NUM: 591
 .591.
 NUM: 583
 .583.
 NUM: 583
-symbol, line after: ..-.6
+symbol, line after: ...-.
 HAS ADJACENT:  583
 NUM: 1
 .1
@@ -3545,6 +3697,9 @@ symbol after: @
 HAS ADJACENT:  820
 NUM: 343
 .343.
+NUM: 343
+symbol, line after: *....
+HAS ADJACENT:  343
 NUM: 61
 .61.
 NUM: 61
@@ -3558,12 +3713,12 @@ HAS ADJACENT:  663
 NUM: 490
 .490.
 NUM: 490
-symbol, line after: %....
+symbol, line after: .%...
 HAS ADJACENT:  490
 NUM: 209
 .209.
 NUM: 209
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  209
 NUM: 921
 .921.
@@ -3577,10 +3732,13 @@ symbol, line before: ....$
 HAS ADJACENT:  288
 NUM: 484
 .484.
+NUM: 484
+symbol, line after: *....
+HAS ADJACENT:  484
 NUM: 956
 .956.
 NUM: 956
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  956
 NUM: 324
 .324
@@ -3603,14 +3761,14 @@ HAS ADJACENT:  963
 NUM: 878
 .878.
 NUM: 878
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  878
 NUM: 782
 .782.
 NUM: 955
 .955.
 NUM: 955
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  955
 NUM: 72
 .72.
@@ -3633,22 +3791,22 @@ HAS ADJACENT:  188
 NUM: 861
 .861.
 NUM: 861
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  861
 NUM: 239
 .239.
 NUM: 239
-symbol, line after: ../..
+symbol, line after: .../.
 HAS ADJACENT:  239
 NUM: 818
 .818.
 NUM: 818
-symbol, line after: ...#.
+symbol, line after: ....#
 HAS ADJACENT:  818
 NUM: 7
 .7.
 NUM: 7
-symbol, line after: .*.
+symbol, line after: ..*
 HAS ADJACENT:  7
 NUM: 892
 .892.
@@ -3658,7 +3816,7 @@ HAS ADJACENT:  892
 NUM: 705
 .705.
 NUM: 705
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  705
 NUM: 197
 .197.
@@ -3731,7 +3889,7 @@ HAS ADJACENT:  679
 NUM: 182
 .182.
 NUM: 182
-symbol, line after: ./...
+symbol, line after: ../..
 HAS ADJACENT:  182
 NUM: 281
 .281@
@@ -3787,7 +3945,7 @@ HAS ADJACENT:  778
 NUM: 691
 .691.
 NUM: 691
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  691
 NUM: 648
 .648*
@@ -3828,6 +3986,9 @@ symbol, line before: .*...
 HAS ADJACENT:  587
 NUM: 15
 .15.
+NUM: 15
+symbol, line after: *...
+HAS ADJACENT:  15
 NUM: 264
 .264%
 symbol after: %
@@ -3835,12 +3996,12 @@ HAS ADJACENT:  264
 NUM: 128
 .128.
 NUM: 128
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  128
 NUM: 998
 .998.
 NUM: 998
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  998
 LINE NUMBERS:  ['620', '986', '587', '15', '264', '128', '998']
 LINE BEFORE .............620*..................*...986...............................587.....................................15......264%..128.....998..
@@ -3870,7 +4031,7 @@ HAS ADJACENT:  746
 NUM: 48
 .48.
 NUM: 48
-symbol, line after: +...
+symbol, line after: .+..
 HAS ADJACENT:  48
 NUM: 411
 .411*
@@ -3882,6 +4043,9 @@ symbol before: *
 HAS ADJACENT:  309
 NUM: 547
 .547.
+NUM: 547
+symbol, line after: +....
+HAS ADJACENT:  547
 LINE NUMBERS:  ['436', '267', '557', '827', '746', '48', '411', '309', '547']
 LINE BEFORE .......%436......267..557%..#827.......................746%.48.411*309.............+.....547......-.............*.................*....*....
 LINE 96    ..690..........#.................724....*.....772...........+..........787........462...+........89.#777.....794...-.........120.662....429.
@@ -3889,20 +4053,23 @@ LINE AFTER  ....&....$575.874........450.379...%.120.944.....*....10......378*88
 NUM: 690
 .690.
 NUM: 690
-symbol, line after: ..&..
+symbol, line after: ...&.
 HAS ADJACENT:  690
 NUM: 724
 .724.
 NUM: 724
-symbol, line after: ..%.1
+symbol, line after: ...%.
 HAS ADJACENT:  724
 NUM: 772
 .772.
 NUM: 772
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  772
 NUM: 787
 .787.
+NUM: 787
+symbol, line after: %....
+HAS ADJACENT:  787
 NUM: 462
 .462.
 NUM: 462
@@ -3950,12 +4117,12 @@ HAS ADJACENT:  874
 NUM: 450
 .450.
 NUM: 450
-symbol, line after: .+...
+symbol, line after: ..+..
 HAS ADJACENT:  450
 NUM: 379
 .379.
 NUM: 379
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  379
 NUM: 120
 .120.
@@ -3989,7 +4156,7 @@ LINE AFTER  .....*.............%....$.....554.494....784.........310.&..........
 NUM: 388
 .388.
 NUM: 388
-symbol, line after: .%...
+symbol, line after: ..%..
 HAS ADJACENT:  388
 NUM: 108
 .108.
@@ -3998,19 +4165,25 @@ symbol, line before: ...*.
 HAS ADJACENT:  108
 NUM: 243
 .243.
+NUM: 243
+symbol, line after: &....
+HAS ADJACENT:  243
 NUM: 468
 .468.
 NUM: 468
-symbol, line after: .%...
+symbol, line after: ..%..
 HAS ADJACENT:  468
 NUM: 363
 .363.
+NUM: 363
+symbol, line after: *....
+HAS ADJACENT:  363
 NUM: 132
 .132.
 NUM: 391
 .391.
 NUM: 391
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  391
 LINE NUMBERS:  ['388', '108', '243', '468', '363', '132', '391']
 LINE BEFORE ..................388.....+.....*..............108........243..............468...........363......132....-....&...............*....391......
@@ -4024,19 +4197,19 @@ HAS ADJACENT:  554
 NUM: 494
 .494.
 NUM: 494
-symbol, line after: ..$..
+symbol, line after: ...$.
 HAS ADJACENT:  494
 NUM: 784
 .784.
 NUM: 310
 .310.
 NUM: 310
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  310
 NUM: 458
 .458.
 NUM: 458
-symbol, line after: ...-.
+symbol, line after: ....-
 HAS ADJACENT:  458
 NUM: 753
 .753*
@@ -4087,7 +4260,7 @@ HAS ADJACENT:  425
 NUM: 343
 .343.
 NUM: 343
-symbol, line after: ...*7
+symbol, line after: ....*
 HAS ADJACENT:  343
 NUM: 455
 .455.
@@ -4097,7 +4270,7 @@ HAS ADJACENT:  455
 NUM: 87
 .87.
 NUM: 87
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  87
 NUM: 823
 .823.
@@ -4117,22 +4290,22 @@ HAS ADJACENT:  728
 NUM: 747
 .747.
 NUM: 747
-symbol, line after: ...*3
+symbol, line after: ....*
 HAS ADJACENT:  747
 NUM: 770
 .770.
 NUM: 770
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  770
 NUM: 913
 .913.
 NUM: 913
-symbol, line after: .=...
+symbol, line after: ..=..
 HAS ADJACENT:  913
 NUM: 855
 .855.
 NUM: 855
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  855
 NUM: 159
 .159.
@@ -4167,7 +4340,7 @@ HAS ADJACENT:  410
 NUM: 324
 .324.
 NUM: 324
-symbol, line after: ..#..
+symbol, line after: ...#.
 HAS ADJACENT:  324
 NUM: 209
 .209.
@@ -4190,7 +4363,7 @@ HAS ADJACENT:  905
 NUM: 24
 .24.
 NUM: 24
-symbol, line after: ..*.
+symbol, line after: ...*
 HAS ADJACENT:  24
 NUM: 192
 .192.
@@ -4199,10 +4372,13 @@ symbol, line before: ..*..
 HAS ADJACENT:  192
 NUM: 760
 .760.
+NUM: 760
+symbol, line after: *....
+HAS ADJACENT:  760
 NUM: 785
 .785.
 NUM: 785
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  785
 NUM: 468
 .468.
@@ -4215,7 +4391,7 @@ NUM: 674
 NUM: 414
 .414.
 NUM: 414
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  414
 NUM: 108
 .108/
@@ -4236,7 +4412,7 @@ HAS ADJACENT:  660
 NUM: 980
 .980.
 NUM: 980
-symbol, line after: *...9
+symbol, line after: .*...
 HAS ADJACENT:  980
 LINE NUMBERS:  ['674', '414', '108', '498', '443', '660', '980']
 LINE BEFORE .......674.414....108/.......498..443.............660.......*................*....................*....980..................................
@@ -4245,7 +4421,7 @@ LINE AFTER  ...@.......292..370....751....639....................403............
 NUM: 462
 .462.
 NUM: 462
-symbol, line after: ..@..
+symbol, line after: ...@.
 HAS ADJACENT:  462
 NUM: 654
 .654.
@@ -4267,17 +4443,17 @@ HAS ADJACENT:  14
 NUM: 921
 .921.
 NUM: 921
-symbol, line after: .&...
+symbol, line after: ..&..
 HAS ADJACENT:  921
 NUM: 897
 .897.
 NUM: 897
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  897
 NUM: 862
 .862.
 NUM: 862
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  862
 LINE NUMBERS:  ['462', '654', '669', '427', '14', '921', '897', '862']
 LINE BEFORE .462.........*..............................654..............669...........427......$..............14..*...921.......897.............862....
@@ -4290,27 +4466,30 @@ symbol, line before: ...*.
 HAS ADJACENT:  292
 NUM: 370
 .370.
+NUM: 370
+symbol, line after: +....
+HAS ADJACENT:  370
 NUM: 751
 .751.
 NUM: 751
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  751
 NUM: 639
 .639.
 NUM: 403
 .403.
 NUM: 403
-symbol, line after: /....
+symbol, line after: ./...
 HAS ADJACENT:  403
 NUM: 74
 .74.
 NUM: 74
-symbol, line after: ..*2
+symbol, line after: ...*
 HAS ADJACENT:  74
 NUM: 537
 .537.
 NUM: 537
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  537
 NUM: 504
 .504.
@@ -4320,7 +4499,7 @@ HAS ADJACENT:  504
 NUM: 130
 .130.
 NUM: 130
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  130
 NUM: 779
 .779.
@@ -4332,10 +4511,13 @@ NUM: 89
 NUM: 615
 .615.
 NUM: 615
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  615
 NUM: 423
 .423.
+NUM: 423
+symbol, line after: *....
+HAS ADJACENT:  423
 LINE NUMBERS:  ['292', '370', '751', '639', '403', '74', '537', '504', '130', '779', '89', '615', '423']
 LINE BEFORE ...@.......292..370....751....639....................403..............74.......537.504.130.............779..&....89..*....615.423.%....*....
 LINE 106    ...............+..........*........958......23...160./..................*228.....*........*....66.....................378....*....735.......
@@ -4343,17 +4525,17 @@ LINE AFTER  ......#...............&68.584..125.$....898..+....*.........130.....
 NUM: 958
 .958.
 NUM: 958
-symbol, line after: $....
+symbol, line after: .$...
 HAS ADJACENT:  958
 NUM: 23
 .23.
 NUM: 23
-symbol, line after: .+..
+symbol, line after: ..+.
 HAS ADJACENT:  23
 NUM: 160
 .160.
 NUM: 160
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  160
 NUM: 228
 *228.
@@ -4362,7 +4544,7 @@ HAS ADJACENT:  228
 NUM: 66
 .66.
 NUM: 66
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  66
 NUM: 378
 .378.
@@ -4390,12 +4572,12 @@ HAS ADJACENT:  584
 NUM: 125
 .125.
 NUM: 125
-symbol, line after: $....
+symbol, line after: .$...
 HAS ADJACENT:  125
 NUM: 898
 .898.
 NUM: 898
-symbol, line after: .#...
+symbol, line after: ..#..
 HAS ADJACENT:  898
 NUM: 130
 .130.
@@ -4412,12 +4594,12 @@ HAS ADJACENT:  75
 NUM: 613
 .613.
 NUM: 613
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  613
 NUM: 414
 .414.
 NUM: 414
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  414
 LINE NUMBERS:  ['68', '584', '125', '898', '130', '927', '75', '613', '414']
 LINE BEFORE ......#...............&68.584..125.$....898..+....*.........130.................927.....75......*....613....414.............................
@@ -4431,7 +4613,7 @@ HAS ADJACENT:  909
 NUM: 968
 .968.
 NUM: 968
-symbol, line after: ...*2
+symbol, line after: ....*
 HAS ADJACENT:  968
 NUM: 935
 .935.
@@ -4441,7 +4623,7 @@ HAS ADJACENT:  935
 NUM: 966
 .966.
 NUM: 966
-symbol, line after: .%..9
+symbol, line after: ..%..
 HAS ADJACENT:  966
 NUM: 374
 .374.
@@ -4451,7 +4633,7 @@ HAS ADJACENT:  374
 NUM: 73
 .73.
 NUM: 73
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  73
 NUM: 611
 *611.
@@ -4481,17 +4663,23 @@ symbol, line before: ...@.
 HAS ADJACENT:  157
 NUM: 252
 .252.
+NUM: 252
+symbol, line after: *....
+HAS ADJACENT:  252
 NUM: 900
 .900.
 NUM: 900
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  900
 NUM: 869
 .869.
+NUM: 869
+symbol, line after: *....
+HAS ADJACENT:  869
 NUM: 269
 .269.
 NUM: 269
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  269
 NUM: 550
 .550.
@@ -4544,7 +4732,7 @@ HAS ADJACENT:  697
 NUM: 765
 .765.
 NUM: 765
-symbol, line after: .@...
+symbol, line after: ..@..
 HAS ADJACENT:  765
 NUM: 153
 .153
@@ -4559,10 +4747,13 @@ HAS ADJACENT:  920
 NUM: 569
 .569.
 NUM: 569
-symbol, line after: ..*.4
+symbol, line after: ...*.
 HAS ADJACENT:  569
 NUM: 499
 .499.
+NUM: 499
+symbol, line after: *....
+HAS ADJACENT:  499
 NUM: 44
 .44.
 NUM: 36
@@ -4577,7 +4768,7 @@ NUM: 98
 NUM: 295
 .295.
 NUM: 295
-symbol, line after: ...*4
+symbol, line after: ....*
 HAS ADJACENT:  295
 NUM: 94
 .94*
@@ -4590,12 +4781,12 @@ LINE AFTER  ......*............320...@...799.......696..$..211...%.......+......
 NUM: 28
 .28.
 NUM: 28
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  28
 NUM: 413
 .413.
 NUM: 413
-symbol, line after: .@...
+symbol, line after: ..@..
 HAS ADJACENT:  413
 NUM: 333
 -333.
@@ -4604,17 +4795,17 @@ HAS ADJACENT:  333
 NUM: 984
 .984.
 NUM: 984
-symbol, line after: .$..2
+symbol, line after: ..$..
 HAS ADJACENT:  984
 NUM: 984
 .984.
 NUM: 984
-symbol, line after: .$..2
+symbol, line after: ..$..
 HAS ADJACENT:  984
 NUM: 878
 .878.
 NUM: 878
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  878
 NUM: 958
 .958.
@@ -4628,7 +4819,7 @@ HAS ADJACENT:  43
 NUM: 829
 .829.
 NUM: 829
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  829
 NUM: 746
 .746.
@@ -4647,12 +4838,12 @@ HAS ADJACENT:  320
 NUM: 799
 .799.
 NUM: 799
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  799
 NUM: 696
 .696.
 NUM: 696
-symbol, line after: .$...
+symbol, line after: ..$..
 HAS ADJACENT:  696
 NUM: 211
 .211.
@@ -4671,7 +4862,7 @@ HAS ADJACENT:  915
 NUM: 209
 .209.
 NUM: 209
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  209
 NUM: 510
 .510.
@@ -4692,7 +4883,7 @@ HAS ADJACENT:  624
 NUM: 736
 .736.
 NUM: 736
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  736
 NUM: 342
 .342.
@@ -4729,7 +4920,7 @@ HAS ADJACENT:  477
 NUM: 977
 .977.
 NUM: 977
-symbol, line after: %....
+symbol, line after: .%...
 HAS ADJACENT:  977
 NUM: 996
 .996.
@@ -4739,10 +4930,13 @@ HAS ADJACENT:  996
 NUM: 255
 .255.
 NUM: 255
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  255
 NUM: 212
 .212.
+NUM: 212
+symbol, line after: *....
+HAS ADJACENT:  212
 LINE NUMBERS:  ['16', '838', '477', '977', '996', '255', '212']
 LINE BEFORE ....16.........838*............477....&...................%...............................977..996..........255.212.........................
 LINE 116    245........88......209.................283.920*456...............410.............$353.....%....................*....................846.....
@@ -4752,7 +4946,7 @@ NUM: 245
 NUM: 88
 .88.
 NUM: 88
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  88
 NUM: 209
 .209.
@@ -4775,7 +4969,7 @@ HAS ADJACENT:  456
 NUM: 410
 .410.
 NUM: 410
-symbol, line after: *...5
+symbol, line after: .*...
 HAS ADJACENT:  410
 NUM: 353
 $353.
@@ -4784,7 +4978,7 @@ HAS ADJACENT:  353
 NUM: 846
 .846.
 NUM: 846
-symbol, line after: .#...
+symbol, line after: ..#..
 HAS ADJACENT:  846
 LINE NUMBERS:  ['245', '88', '209', '283', '920', '456', '410', '353', '846']
 LINE BEFORE 245........88......209.................283.920*456...............410.............$353.....%....................*....................846.....
@@ -4793,12 +4987,12 @@ LINE AFTER  ..890...*...485..........=......................................16..
 NUM: 699
 .699.
 NUM: 699
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  699
 NUM: 580
 .580.
 NUM: 580
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  580
 NUM: 659
 .659*
@@ -4806,6 +5000,9 @@ symbol after: *
 HAS ADJACENT:  659
 NUM: 184
 .184.
+NUM: 184
+symbol, line after: -....
+HAS ADJACENT:  184
 LINE NUMBERS:  ['699', '580', '659', '184']
 LINE BEFORE .......699..*....................................................*...580......................659*......=..................184....#..#......
 LINE 118    ..890...*...485..........=......................................16...*......589...................754.802........485..%...-......784...+....
@@ -4824,6 +5021,9 @@ symbol, line before: ..*.
 HAS ADJACENT:  16
 NUM: 589
 .589.
+NUM: 589
+symbol, line after: *....
+HAS ADJACENT:  589
 NUM: 754
 .754.
 NUM: 754
@@ -4855,6 +5055,9 @@ symbol, line before: ..*.
 HAS ADJACENT:  28
 NUM: 303
 .303.
+NUM: 303
+symbol, line after: *....
+HAS ADJACENT:  303
 NUM: 405
 .405.
 NUM: 405
@@ -4869,7 +5072,7 @@ NUM: 768
 NUM: 476
 .476.
 NUM: 476
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  476
 NUM: 273
 .273*
@@ -4886,10 +5089,13 @@ symbol, line before: ...*.
 HAS ADJACENT:  843
 NUM: 161
 .161.
+NUM: 161
+symbol, line after: +....
+HAS ADJACENT:  161
 NUM: 813
 .813.
 NUM: 813
-symbol, line after: .&...
+symbol, line after: ..&..
 HAS ADJACENT:  813
 NUM: 470
 .470.
@@ -4908,7 +5114,7 @@ LINE AFTER  ....208.....910.514..148..261..334.......$...*...674..597...........
 NUM: 303
 .303.
 NUM: 303
-symbol, line after: *...6
+symbol, line after: .*...
 HAS ADJACENT:  303
 NUM: 255
 .255.
@@ -4941,7 +5147,7 @@ LINE AFTER  ....*....*..........*........*...@.....205...525.....*.....863..190.
 NUM: 208
 .208.
 NUM: 208
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  208
 NUM: 910
 .910.
@@ -4955,15 +5161,18 @@ symbol, line before: ..*..
 HAS ADJACENT:  514
 NUM: 148
 .148.
+NUM: 148
+symbol, line after: *....
+HAS ADJACENT:  148
 NUM: 261
 .261.
 NUM: 261
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  261
 NUM: 334
 .334.
 NUM: 334
-symbol, line after: ..@..
+symbol, line after: ...@.
 HAS ADJACENT:  334
 NUM: 674
 .674.
@@ -4972,6 +5181,9 @@ symbol, line before: .*...
 HAS ADJACENT:  674
 NUM: 597
 .597.
+NUM: 597
+symbol, line after: *....
+HAS ADJACENT:  597
 NUM: 439
 *439.
 symbol before: *
@@ -4979,7 +5191,7 @@ HAS ADJACENT:  439
 NUM: 36
 .36.
 NUM: 36
-symbol, line after: ./..
+symbol, line after: ../.
 HAS ADJACENT:  36
 NUM: 876
 =876.
@@ -5006,7 +5218,7 @@ HAS ADJACENT:  525
 NUM: 863
 .863.
 NUM: 863
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  863
 NUM: 190
 .190.
@@ -5020,6 +5232,9 @@ NUM: 731
 .731.
 NUM: 626
 .626.
+NUM: 626
+symbol, line after: *....
+HAS ADJACENT:  626
 LINE NUMBERS:  ['205', '525', '863', '190', '115', '17', '731', '626']
 LINE BEFORE ....*....*..........*........*...@.....205...525.....*.....863..190.......115................./..@..+17......731................626.....&...
 LINE 123    ..984....994.......396.......587....................558....*..............................112...364.........................599*.......824..
@@ -5080,7 +5295,7 @@ HAS ADJACENT:  56
 NUM: 146
 .146.
 NUM: 146
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  146
 LINE NUMBERS:  ['935', '56', '146']
 LINE BEFORE ......./...............................................................935*56........146................#......%............................
@@ -5094,7 +5309,7 @@ HAS ADJACENT:  563
 NUM: 896
 .896.
 NUM: 896
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  896
 NUM: 216
 .216*
@@ -5106,15 +5321,18 @@ symbol before: *
 HAS ADJACENT:  192
 NUM: 588
 .588.
+NUM: 588
+symbol, line after: /....
+HAS ADJACENT:  588
 NUM: 423
 .423.
 NUM: 423
-symbol, line after: ..*..
+symbol, line after: ...*.
 HAS ADJACENT:  423
 NUM: 657
 .657.
 NUM: 657
-symbol, line after: ...@.
+symbol, line after: ....@
 HAS ADJACENT:  657
 NUM: 894
 .894.
@@ -5124,12 +5342,12 @@ HAS ADJACENT:  894
 NUM: 678
 .678.
 NUM: 678
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  678
 NUM: 57
 57.
 NUM: 57
-symbol, line after: .@.
+symbol, line after: ..@
 HAS ADJACENT:  57
 NUM: 813
 .813*
@@ -5141,17 +5359,23 @@ LINE 126    ............#......186.-....*...................796.916........./...
 LINE AFTER  ..../.......484...*....101.208........%..42........*......623.....*592.....*.....572.......545.........677.....*...*........................
 NUM: 186
 .186.
+NUM: 186
+symbol, line after: *....
+HAS ADJACENT:  186
 NUM: 796
 .796.
 NUM: 796
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  796
 NUM: 916
 .916.
+NUM: 916
+symbol, line after: *....
+HAS ADJACENT:  916
 NUM: 810
 .810.
 NUM: 810
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  810
 NUM: 532
 .532.
@@ -5161,7 +5385,7 @@ HAS ADJACENT:  532
 NUM: 394
 .394.
 NUM: 394
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  394
 NUM: 885
 .885.
@@ -5195,12 +5419,12 @@ HAS ADJACENT:  208
 NUM: 42
 .42.
 NUM: 42
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  42
 NUM: 623
 .623.
 NUM: 623
-symbol, line after: ...+.
+symbol, line after: ....+
 HAS ADJACENT:  623
 NUM: 592
 *592.
@@ -5214,7 +5438,7 @@ HAS ADJACENT:  572
 NUM: 545
 .545.
 NUM: 545
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  545
 NUM: 677
 .677.
@@ -5233,7 +5457,7 @@ HAS ADJACENT:  479
 NUM: 25
 .25.
 NUM: 25
-symbol, line after: ..*.
+symbol, line after: ...*
 HAS ADJACENT:  25
 NUM: 535
 .535.
@@ -5247,6 +5471,9 @@ symbol, line before: ...%.
 HAS ADJACENT:  627
 NUM: 652
 .652.
+NUM: 652
+symbol, line after: *....
+HAS ADJACENT:  652
 NUM: 808
 .808.
 NUM: 808
@@ -5277,7 +5504,7 @@ HAS ADJACENT:  499
 NUM: 514
 .514.
 NUM: 514
-symbol, line after: ..%..
+symbol, line after: ...%.
 HAS ADJACENT:  514
 LINE NUMBERS:  ['479', '25', '535', '627', '652', '808', '926', '522', '671', '33', '499', '514']
 LINE BEFORE .479....25........535...............627..*...........652.....+.808.......926.522............*...............671.33.499.............514......
@@ -5303,10 +5530,13 @@ symbol, line before: ...*.
 HAS ADJACENT:  451
 NUM: 152
 .152.
+NUM: 152
+symbol, line after: -....
+HAS ADJACENT:  152
 NUM: 58
 .58.
 NUM: 58
-symbol, line after: ..%.
+symbol, line after: ...%
 HAS ADJACENT:  58
 NUM: 903
 .903
@@ -5322,12 +5552,12 @@ HAS ADJACENT:  178
 NUM: 64
 .64.
 NUM: 64
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  64
 NUM: 22
 .22.
 NUM: 22
-symbol, line after: .*..
+symbol, line after: ..*.
 HAS ADJACENT:  22
 NUM: 244
 .244.
@@ -5339,14 +5569,14 @@ NUM: 898
 NUM: 514
 .514.
 NUM: 514
-symbol, line after: .../.
+symbol, line after: ..../
 HAS ADJACENT:  514
 NUM: 460
 .460.
 NUM: 947
 .947.
 NUM: 947
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  947
 NUM: 823
 .823.
@@ -5368,15 +5598,15 @@ NUM: 723
 NUM: 368
 .368.
 NUM: 368
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  368
 NUM: 349
 .349.
-NUM: 349
-symbol, line after: ....*
-HAS ADJACENT:  349
 NUM: 304
 .304
+NUM: 304
+symbol, line after: *...
+HAS ADJACENT:  304
 LINE NUMBERS:  ['120', '289', '723', '368', '349', '304']
 LINE BEFORE ...................120.....=.....289...*........*.......................723..../...........................*....368.................349..304
 LINE 132    ..........................402...........914..707.............630/...*.............................419.....654......*..............*.....*...
@@ -5403,7 +5633,7 @@ HAS ADJACENT:  630
 NUM: 419
 .419.
 NUM: 419
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  419
 NUM: 654
 .654.
@@ -5416,6 +5646,9 @@ LINE 133    ......981.131....809*755...........318*.............248...........#.
 LINE AFTER  .....*.....................+.271.......457.........*......384...633.......#.....*...638..46........144........@...........*.................
 NUM: 981
 .981.
+NUM: 981
+symbol, line after: *....
+HAS ADJACENT:  981
 NUM: 131
 .131.
 NUM: 809
@@ -5432,6 +5665,9 @@ symbol after: *
 HAS ADJACENT:  318
 NUM: 248
 .248.
+NUM: 248
+symbol, line after: *....
+HAS ADJACENT:  248
 NUM: 195
 .195.
 NUM: 195
@@ -5440,7 +5676,7 @@ HAS ADJACENT:  195
 NUM: 338
 .338.
 NUM: 338
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  338
 NUM: 23
 .23.
@@ -5452,7 +5688,7 @@ HAS ADJACENT:  395
 NUM: 223
 .223.
 NUM: 223
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  223
 NUM: 626
 .626.
@@ -5476,7 +5712,7 @@ LINE AFTER  ...915....................14../..............595..806......*........
 NUM: 271
 .271.
 NUM: 271
-symbol, line after: ./...
+symbol, line after: ../..
 HAS ADJACENT:  271
 NUM: 457
 .457.
@@ -5486,7 +5722,7 @@ HAS ADJACENT:  457
 NUM: 384
 .384.
 NUM: 384
-symbol, line after: .*...
+symbol, line after: ..*..
 HAS ADJACENT:  384
 NUM: 633
 .633.
@@ -5496,12 +5732,12 @@ HAS ADJACENT:  633
 NUM: 638
 .638.
 NUM: 638
-symbol, line after: &....
+symbol, line after: .&...
 HAS ADJACENT:  638
 NUM: 46
 .46.
 NUM: 46
-symbol, line after: *...
+symbol, line after: .*..
 HAS ADJACENT:  46
 NUM: 144
 .144.
@@ -5547,7 +5783,7 @@ HAS ADJACENT:  165
 NUM: 824
 .824.
 NUM: 824
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  824
 NUM: 789
 .789.
@@ -5569,10 +5805,13 @@ HAS ADJACENT:  47
 NUM: 761
 .761.
 NUM: 761
-symbol, line after: ...*.
+symbol, line after: ....*
 HAS ADJACENT:  761
 NUM: 265
 .265.
+NUM: 265
+symbol, line after: *....
+HAS ADJACENT:  265
 NUM: 150
 .150.
 NUM: 967
@@ -5590,12 +5829,12 @@ HAS ADJACENT:  296
 NUM: 671
 .671.
 NUM: 671
-symbol, line after: ..=..
+symbol, line after: ...=.
 HAS ADJACENT:  671
 NUM: 379
 .379.
 NUM: 379
-symbol, line after: .#...
+symbol, line after: ..#..
 HAS ADJACENT:  379
 LINE NUMBERS:  ['47', '761', '265', '150', '967', '565', '296', '671', '379']
 LINE BEFORE .................*47.............761.265.150................967........565............=...296......-..............*...........671......379..
@@ -5628,7 +5867,7 @@ HAS ADJACENT:  993
 NUM: 581
 .581.
 NUM: 581
-symbol, line after: *....
+symbol, line after: .*...
 HAS ADJACENT:  581
 LINE NUMBERS:  ['967', '197', '660', '292', '993', '581']
 LINE BEFORE ..............967......./.&197......*.........=.....................&................660..........292.............993...........=..581..#...
@@ -5728,4 +5967,4 @@ HAS ADJACENT:  461
 NUM: 722
 .722.
 LINE NUMBERS:  ['579', '410', '3', '44', '291', '538', '148', '873', '461', '722']
-TOTAL: 495124
+TOTAL: 530540

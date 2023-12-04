@@ -72,9 +72,9 @@ def hasAdjacentSymbol(line, line_index, number_data):
   lines_len = len(lines)
   if line_index < lines_len-1:
     next_line = lines[line_index+1]
-    if isSymbol(next_line[(number_data["start_index"]+1):(number_data["end_index"]+1)]):
+    if isSymbol(next_line[(number_data["start_index"]):(number_data["end_index"])]):
       print("NUM:", number_data["number"], file=f_output)
-      print("symbol, line after:", next_line[(number_data["start_index"]+1):(number_data["end_index"]+1)], file=f_output)
+      print("symbol, line after:", next_line[(number_data["start_index"]):(number_data["end_index"])], file=f_output)
       return True
     
   return False
