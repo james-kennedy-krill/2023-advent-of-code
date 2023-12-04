@@ -91,7 +91,7 @@ def getAdjacentGearRatio(star_data):
     char_above = lines[line_index-1][char_index]
     char_above_left = lines[line_index-1][char_index-1]
     char_above_right = lines[line_index-1][char_index+1]
-    print("CHAR ABOVE", char_above, file=f_output)
+    print("CHARS ABOVE", char_above_left+char_above+char_above_right, file=f_output)
     if re.match("\d", char_above):
       print("ABOVE IS NUMBER", file=f_output)
       numbers.append(getNumberFromIndex(line_index-1, char_index))
@@ -110,7 +110,7 @@ def getAdjacentGearRatio(star_data):
     char_below = lines[line_index+1][char_index]
     char_below_left = lines[line_index+1][char_index-1]
     char_below_right = lines[line_index+1][char_index+1]
-    print("CHAR BELOW", char_below, file=f_output)
+    print("CHARS BELOW", char_below_left+char_below+char_below_right, file=f_output)
     if re.match("\d", char_below):
       print("BELOW IS NUMBER", file=f_output)
       numbers.append(getNumberFromIndex(line_index+1, char_index))
@@ -129,16 +129,13 @@ def getAdjacentGearRatio(star_data):
     gear_ratio = numbers[0]*numbers[1]
     print("HAS EXACTLY TWO NUMBERS", gear_ratio, file=f_output)
     return gear_ratio
-  else:
-    print("HAS NOT EXACTLY TWO NUMBERS", numbers)
   return 0
   
-
-star_map = []
 
 def main():
   print("--- DAY 3: Part 2 ---", file=f_output)
   total = 0
+  star_map = []
   for line_index, line in enumerate(lines):
     print("LINE", line_index + 1, file=f_output)
     if line_index > 0:
@@ -148,21 +145,9 @@ def main():
       print(lines[line_index+1].strip(), file=f_output)
     for star_index, char in enumerate(line):
       if char == "*":
-        # print("STAR FOUND:",  file=f_output)
-        # print("Line Index:", line_index, "Star Index:", star_index, file=f_output)
         star_map.append({ "line_index": line_index, "star_index": star_index })
     for star_data in star_map:
       total += getAdjacentGearRatio(star_data)
-    # stars = getStars(line.strip())
-    # for star in stars:
-    #   print("STAR DATA:", star, file=f_output)
-    # for number in line_numbers:
-    #   number_data = lineNumberPositioning(line.strip(), number)
-    #   # print("NUMBER DATA:", number_data, file=f_output)
-    #   if hasAdjacentSymbol(line.strip(), index, number_data):
-    #     print("HAS ADJACENT: ", number_data["number"], file=f_output)
-    #     total += number_data["number"]
-    # print("LINE NUMBERS: ", line_numbers, file=f_output)
   print("TOTAL:", total, file=f_output)
 
 main()
