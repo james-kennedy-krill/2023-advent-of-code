@@ -18,8 +18,6 @@ lines = f_input.readlines()
 # capture, multiply, and add those "gear ratios" together
 
 stars_re = re.compile("\*")
-number_re = re.compile("(\D(\d+)\D)|(\D(\d+)$)|(^(\d+)\D)")
-symbol_re = re.compile("[^\w\d\s.]")
 
 def getStars(line: str):
   stars = stars_re.findall(line)
