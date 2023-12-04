@@ -83,11 +83,12 @@ def main():
   print("--- DAY 3: Gear Ratios ---", file=f_output)
   total = 0
   for index, line in enumerate(lines):
+    print("LINE", index + 1, file=f_output)
     if index > 0:
-      print("LINE BEFORE", lines[index - 1].strip(), file=f_output)
-    print("LINE", index + 1, "  ", line.strip(), file=f_output)
+      print(lines[index - 1].strip(), file=f_output)
+    print(line.strip(), file=f_output)
     if index < len(lines) - 1:
-      print("LINE AFTER ", lines[index+1].strip(), file=f_output)
+      print(lines[index+1].strip(), file=f_output)
     line_numbers = getLineNumbers(line.strip())
     for number in line_numbers:
       number_data = lineNumberPositioning(line.strip(), number)
