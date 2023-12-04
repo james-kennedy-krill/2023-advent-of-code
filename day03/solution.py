@@ -30,9 +30,10 @@ def getLineNumbers(line: str):
   return line_numbers
 
 def lineNumberPositioning(line, line_number):
-  number_re = re.compile("\D?" + line_number + "\D?")
+  print("LINE NUMBER: ", line_number, file=f_output)
+  number_re = re.compile("(\D" + line_number + "\D)|(\D"+line_number+"$)|(^" + line_number + "\D)")
   number_match = number_re.search(line)
-  # print(number_match, file=f_output)
+  print(number_match, file=f_output)
   if number_match:
     start_index = number_match.start()
     end_index = number_match.end()
